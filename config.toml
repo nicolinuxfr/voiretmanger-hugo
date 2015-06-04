@@ -1,0 +1,13 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "fr-fr"
+title = "À voir et à manger"
+PreserveTaxonomyNames = true
+[permalinks]
+    post = "/:filename/"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  annee = "annees"
+  acteur = "acteurs"
+  createur = "createurs"
+  saga = "sagas"

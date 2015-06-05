@@ -92,7 +92,19 @@ table { border-collapse: collapse; border-spacing: 0; }
 body{
 	font-size:12px;
 	color: rgba(0, 0, 0, 0.6);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
 }
+
+header,
+h1,
+h2{
+	font-family:"Playfair Display", serif;
+	font-weight:200;
+}
+
+img {width: 100%;height:auto;}
 
 
 /* ==========================================================================
@@ -103,32 +115,41 @@ body{
 	float:left;
 	clear:none;
 	position:relative;
-	overflow:hidden;
-	width: 50%;
-	height: 30vw;
+	width: 100%;
 } 
-.archive header {
+
+
+.archive article{
+	display: block; 
+	width: 50%;
+	height:30vw;
+	display: block;
+	float:left;
+	position: relative;
+}
+
+.archive article header {
 	position: absolute;
 	z-index: 3;
 	bottom: 0;
 	width: 100%;
 	opacity: 0;
+	background-color: rgba(0, 0, 0, 0.6);
 } 
-.archive:hover header{opacity: 1;transition: all 0.5s ease;} 
-.archive .image {position: absolute; top:0; left:0; z-index:1;display: block; padding:0;} 
-.archive header .post-title {
-	line-height: 1.1em;
+.archive article:hover header{opacity: 1;transition: all 0.5s ease;} 
+
+.archive article .image {position: absolute; top:0; left:0; z-index:1;display: block; padding:0;} 
+.archive article header .post-title {
+	font-size:2.8em;
+	color: white;
+	line-height: 1em;
 	position: relative;
 	z-index: 3;
 	padding: 0.4em;
-	background-color: rgba(0, 0, 0, 0.6);
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-rendering: optimizeLegibility;
-	font-size:2.8em;
+	text-align:left;
+	margin:0;
 } 
-.archive header .post-title a{color: white;} 
-.archive header .post-title em{font-weight:700;}
+.archive article header .post-title em{font-weight:700;}
 
 
 
@@ -138,7 +159,7 @@ body{
 
 /* Titre
 -------------------------------------------------------------- */
-article .post-title{
+article .post-header .post-title{
 	letter-spacing: -1px; 
 	margin:0.4em auto; 
 	padding: 0px 0.3em;
@@ -151,7 +172,7 @@ article .post-title{
 	-moz-osx-font-smoothing:grayscale;
 	text-rendering: optimizeLegibility;
 }
-article .post-title em{font-size: 1.5em;font-weight:700;}
+article .post-header .post-title em{font-size: 1.5em;font-weight:700;}
 
 
 /* Contenu

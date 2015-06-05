@@ -101,9 +101,9 @@ body{
 .archive {
 	display: block;
 	float:left;
-	clear:both;
+	clear:none;
 	position:relative;
-	overflow:hidden
+	overflow:hidden;
 	width: 50%;
 	height: 30vw;
 } 

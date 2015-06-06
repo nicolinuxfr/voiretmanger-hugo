@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<main class="content archive" role="main">
+  <div>
+   <h1 id="title">{{ .Title }} saga</h1>
+    {{ range .Data.Pages }}
+	   {{ .Render "li" }}
+    {{ end }}
+  </div>
+</main>
+
+
+{{ partial "footer.html" . }}

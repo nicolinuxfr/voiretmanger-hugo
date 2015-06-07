@@ -5,6 +5,11 @@
 
 
   </nav>
+	
+	{{ if .Params.position }}
+		<style>.single .post-header {background-position: {{.Params.position}};} </style>
+	{{end}}
+
 </header>
 
 

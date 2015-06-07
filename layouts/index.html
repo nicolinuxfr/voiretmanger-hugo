@@ -11,11 +11,9 @@
     {{ $paginator := .Paginator }}
 
 
-	<div class="liste">
 		{{ range $index, $page := .Paginator.Pages }}
-		   	{{ .Render "li" }}
+		   	{{ .Render "li-index" }}
 		{{ end }}
-	</div>
 
     {{ partial "pagination.html" $paginator }}
 

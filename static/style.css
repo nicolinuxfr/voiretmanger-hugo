@@ -108,8 +108,6 @@ img {width: 100%;height:auto;}
 
 a {text-decoration:none;color:#424242}
 
-.liste{overflow:hidden;}
-
 
 /*	Footer
 -------------------------------------------------------------- */
@@ -171,10 +169,23 @@ footer {clear:both;}
 .archive article{
 	display: block; 
 	width: 50%;
-	height:30vw;
+	height:35vw;
 	display: block;
 	float:left;
 	position: relative;
+	overflow: hidden;
+	background-position: center;
+	background-size: cover;
+}
+
+.archive article:first-of-type{
+	width:100%;
+}
+
+.archive article:nth-of-type(4),
+.archive article:nth-of-type(5),
+.archive article:nth-of-type(6){
+	width:33.3%;
 }
 
 .archive article header {
@@ -187,7 +198,6 @@ footer {clear:both;}
 } 
 .archive article:hover header{opacity: 1;transition: all 0.5s ease;} 
 
-.archive article .image {position: absolute; top:0; left:0; z-index:1;display: block; padding:0;} 
 .archive article header .post-title {
 	font-size:2.8em;
 	color: white;
@@ -216,7 +226,7 @@ footer {clear:both;}
     height: 100vh;
     margin-bottom: 5rem;
     background-size: cover;
-	background-position: center; 
+	background-position: center;
     overflow: hidden;
 }
 

@@ -97,14 +97,63 @@ body{
 	text-rendering: optimizeLegibility;
 }
 
-header,
-h1,
-h2{
+
+h2,
+h3{
 	font-family:"Playfair Display", serif;
 	font-weight:200;
 }
 
 img {width: 100%;height:auto;}
+
+a {text-decoration:none;color:#424242}
+
+.liste{overflow:hidden;}
+
+
+/*	Footer
+-------------------------------------------------------------- */
+footer {clear:both;}
+.copyright{
+	font-family: "Roboto", sans-serif;
+	font-size:1em;
+	text-align: center; 
+	padding: 1em;
+}
+
+
+/* ==========================================================================
+   INDEX
+   ========================================================================== */
+
+/* =Header
+-------------------------------------------------------------- */
+.header-site{
+	display:table;
+	vertical-align:middle;
+	position:relative;
+	padding: 0;
+	margin:auto;
+	font-family: 'Dorsa', sans-serif;
+}
+
+
+.site-title {
+	padding:0 8px; 
+	font-size:20em;
+	line-height:1em; 
+	text-transform: uppercase;
+	display: inline;
+	text-align: center;
+}
+.site-description {
+	padding:0 8px;
+	margin:0;
+	font-size:4em;
+	line-height:1em;	
+	display: inline;
+	font-family: 'Dorsa', sans-serif;
+}
 
 
 /* ==========================================================================
@@ -157,27 +206,85 @@ img {width: 100%;height:auto;}
    ARTICLES
    ========================================================================== */
 
-/* Titre
+/* Titre et image
 -------------------------------------------------------------- */
-article .post-header .post-title{
+.single .post-header {
+    position: relative;
+	background-attachment: fixed;
+    display: table;
+    width: 100%;
+    height: 100vh;
+    margin-bottom: 5rem;
+    background-size: cover;
+	background-position: center; 
+    overflow: hidden;
+}
+
+
+.single .post-header > .flou{
+ position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10px;
+  background: inherit;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+
+.single .post-header .post-title em{font-size: 1.5em;font-weight:700;}
+
+}
+
+.single .post-header > .flou::before {
+content: "";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  width: 200%;
+  height: 200%;
+  background: inherit;
+  background-attachment: fixed;
+  -webkit-filter: blur(20px);
+  filter: blur(4px);
+
+}
+
+.single .post-header > .flou::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2)
+
+}
+
+
+.single .post-header > .flou > h1{
+	color:white;
+	text-align:center;
 	letter-spacing: -1px; 
 	margin:0.4em auto; 
 	padding: 0px 0.3em;
-	max-width: 20em;
+	/* max-width: 20em; */
 	border: 0;
 	font: normal 5em "Playfair Display", serif;
 	font-weight: 400;
-	text-align: center;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing:grayscale;
-	text-rendering: optimizeLegibility;
+	z-index: 1;
+	position:relative;
+	margin-top: 0;
+	margin-bottom :0
 }
-article .post-header .post-title em{font-size: 1.5em;font-weight:700;}
 
 
 /* Contenu
 -------------------------------------------------------------- */
 article .post-content{
+	clear:both;
+	position:relative;
 	margin: 0.5em auto;
 	max-width: 850px;
 	font-size: 2em;
@@ -192,6 +299,63 @@ article .post-content{
 }
 
 article img {width: 100%;height:auto;}
+
+
+
+/* Partage
+-------------------------------------------------------------- */
+.partage{
+	color:white;
+	font-family: "Roboto",serif;
+	height: 35px;
+	width: auto;
+	font-size:2em;
+}
+
+
+.partage h4{
+	margin:0;
+	padding:0.5em 0;
+	background-color:#5e5e5e;
+	width: 25%;
+    width: calc(100% / 4);
+	float: left;
+	text-align:center;
+}
+
+.partage ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	margin-top: 0;
+	max-width: 100%;
+}
+
+.partage ul li{
+	padding:0.5em 0;
+	width: 25%;
+	width: calc(100% / 4);
+	display: inline-block;
+	text-align: center;
+	background-color:#5e5e5e;
+	float:left;
+}
+
+.partage ul li:hover{
+	background-color: white;
+	color:#5e5e5e;
+}
+
+.partage a{
+	color:white;
+}
+
+.partage a:hover{
+	color:#5e5e5e;
+}
+
+
+
 
  article .hentry {clear: both;float: none;padding: 0;position: relative;z-index: 3;}
  article header {clear: both;float: right;margin: 0;width: 100%;display: block;border: 0;
@@ -210,6 +374,9 @@ article .footnotes{
 	max-width: 900px;
 	margin:auto;
 }
+
+
+
 
 
 article .entry-pers{
@@ -267,5 +434,6 @@ article .entry-pers{
  article .amazon a{	text-decoration: none !important;}
 
 div.canvas{width:100% !important;}
+
 
 

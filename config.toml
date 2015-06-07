@@ -1,9 +1,17 @@
 baseurl = "http://yourSiteHere/"
 languageCode = "fr-fr"
+
 title = "À voir et à manger"
+[params]
+  description = "Chez Nicoflo"
+  
 PreserveTaxonomyNames = true
+
+paginate = 20
+
 [permalinks]
     post = "/:filename/"
+
 [taxonomies]
   category = "categories"
   tag = "tags"

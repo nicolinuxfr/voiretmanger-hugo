@@ -1,0 +1,18 @@
+{{ $baseurl := .Site.BaseURL }}
+
+<article  class="post {{ .Type }}">
+
+	<a href="{{ .RelPermalink }}">
+	
+{{ if .Params.position }}
+	<div class="image" style="background-image: url({{ $baseurl }}{{.Params.cover}}); background-position: {{.Params.position}};">
+{{else}}
+	<div class="image" style="background-image: url({{ $baseurl }}{{.Params.cover}})">	
+{{end}}
+
+    	<header class="post-header">
+        	<h2 class="post-title">{{.Title | markdownify }}</h2>
+    	</header>
+	</div>
+</a>
+</article>

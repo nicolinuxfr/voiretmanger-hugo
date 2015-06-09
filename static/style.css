@@ -165,28 +165,41 @@ footer {clear:both;}
 	width: 100%;
 } 
 
-
 .archive article{
-	display: block; 
-	width: 50%;
-	height:35vw;
 	display: block;
 	float:left;
 	position: relative;
 	overflow: hidden;
+}
+
+
+.archive .image{
+	display: block; 
+	width: 100%;
+	height:35vw;
 	background-position: center;
 	background-size: cover;
 }
 
-.archive article:first-of-type{
+.archive article{
+	width:50%;
+}
+
+.index article:nth-of-type(1){
 	width:100%;
 }
 
-.archive article:nth-of-type(4),
-.archive article:nth-of-type(5),
-.archive article:nth-of-type(6){
-	width:33.3%;
+.index article:nth-of-type(2),
+.index article:nth-of-type(3){
+	width:50%;
 }
+
+.index article:nth-of-type(4),
+.index article:nth-of-type(5),
+.index article:nth-of-type(6){
+	width:33.33%;
+}
+
 
 .archive article header {
 	position: absolute;

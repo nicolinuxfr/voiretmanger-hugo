@@ -22,7 +22,7 @@
     {{ end }}
 
   <title>
-    {{ if ne .URL "/" }} {{ .Title | markdownify }} &middot; {{ end }} {{ .Site.Title }}
+    {{ if ne .URL "/" }} {{ .Title | markdownify }} &middot; {{ end }} {{ .Site.Title | markdownify }}
   </title>
 
     <meta name="description" content="{{ .Site.Params.description }}" />

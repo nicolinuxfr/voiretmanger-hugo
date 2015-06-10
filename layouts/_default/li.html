@@ -5,9 +5,9 @@
 	<a href="{{ .RelPermalink }}">
 	
 {{ if .Params.position }}
-	<div class="image" style="background-image: url({{ $baseurl }}{{.Params.cover}}); background-position: {{.Params.position}};">
+	<div class="image" style="background-image: url({{ .Permalink }}/{{.Params.cover}}); background-position: {{.Params.position}};">
 {{else}}
-	<div class="image" style="background-image: url({{ $baseurl }}{{.Params.cover}})">	
+	<div class="image" style="background-image: url({{ .Permalink }}/{{.Params.cover}})">	
 {{end}}
 
     	<header class="post-header">

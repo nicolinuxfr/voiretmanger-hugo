@@ -314,14 +314,16 @@ content: "";
 -------------------------------------------------------------- */
 article .post-content{
 	clear:both;
-	position:relative;
-	margin: 0.5em auto;
-	max-width: 850px;
-	font-size: 2em;
-	display: block;
-	line-height: 1.5;
 	margin:auto;
-	padding: 0;
+	position:relative;
+	max-width: 850px;
+	font-size: 2.2em;
+	line-height: 1.4em;
+}
+
+article .post-content p{
+	margin:0.5em 0;
+	padding:0;
 }
 
 article img {width: 100%;height:auto;}

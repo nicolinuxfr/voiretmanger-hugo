@@ -1,0 +1,6 @@
+<h4>Partager</h4>	
+	  	<ul>
+			<a title="Envoyer cet article par mail" href="mailto:?subject={{.Title | safeHTML }}&amp;body={{.Title | markdownify }} - {{ .Permalink }}"><li>Mail</li></a>
+			<a title="Partager cet article sur Twitter" href="https://twitter.com/share?text={{ .Title | safeHTML }}&amp;url={{ .Permalink }}"><li>Twitter</li></a>
+			<a title="Partager cet article sur Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"><li>Facebook</li></a>
+		</ul>

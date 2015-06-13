@@ -22,7 +22,7 @@
 		{{ else if in .Params.categorie "À écouter" }}Artiste
 		{{ else if in .Params.tag "Spectacle" }}Artiste
 		{{ else }}Créateur{{ end }}
-	</span>: {{ range .Params.createur }}<a href="{{ $baseurl }}createur/{{ . | urlize }}/">{{ . }}</a> {{ end }}</li>
+	</span>: {{ range $i, $e := .Params.createur }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}createur/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
 	{{ end }}
 
  	{{ if .Params.annee }}

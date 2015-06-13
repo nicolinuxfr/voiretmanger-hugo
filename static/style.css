@@ -148,7 +148,9 @@ footer {clear:both;}
 	text-transform: uppercase;
 	display: inline;
 	text-align: center;
+	font-weight: 400;
 }
+
 .site-description {
 	padding:0 8px;
 	margin:0;
@@ -162,6 +164,8 @@ footer {clear:both;}
 /* ==========================================================================
    LISTES
    ========================================================================== */
+.liste{overflow:hidden;}
+
 .archive {
 	display: block;
 	float:left;
@@ -170,8 +174,18 @@ footer {clear:both;}
 	width: 100%;
 } 
 
+.archive h1{
+	font-family: "Playfair Display", serif;
+	font-size: 10em;
+	line-height:1em;
+	margin: 0.5em auto;
+	font-weight: 400;
+	text-align: center;
+}
+
 .archive article{
 	display: block;
+	height:35vw;
 	float:left;
 	position: relative;
 	overflow: hidden;
@@ -181,7 +195,7 @@ footer {clear:both;}
 .archive .image{
 	display: block; 
 	width: 100%;
-	height:35vw;
+	height:100%;
 	background-position: center;
 	background-size: cover;
 }

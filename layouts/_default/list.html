@@ -1,19 +1,16 @@
 {{ partial "header.html" . }}
 {{ $baseurl := .Site.BaseURL }}
 
-<header class="header-site">	
-	<h1 class="site-title"><a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}" rel="home">{{ .Site.Title }}</a>  </h1>
-   	<h2 class="site-description">{{ .Site.Params.description }}</h2>
-</header>
+{{ partial "entete.html" . }}
+
 
 <main class="content archive" role="main">
-    {{ $paginator := .Paginator }}
+    {{ $paginator := .Paginate .Data.Pages.ByDate.Reverse  }}
+	
+    <h1 id="title">{{ .Title }}</h1>
+	
 
-	<div class="extra-pagination inner">
-    {{ partial "pagination.html" $paginator }}
-	</div>
-
-	<div class="liste">
+	<div class="liste">		
 		{{ range $index, $page := .Paginator.Pages }}
 	   		{{ .Render "li" }}
 		{{ end }}

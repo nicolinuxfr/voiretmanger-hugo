@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
 {{ partial "entete.html" . }}
-
+g
 
 <main class="content archive" role="main">
   <div>
-   <h1 id="title">Saga : {{ .Title }}</h1>
+   <h1 id="title">À voir {{ .Title }}</h1>
     {{ range .Data.Pages }}
 	   {{ .Render "li" }}
     {{ end }}

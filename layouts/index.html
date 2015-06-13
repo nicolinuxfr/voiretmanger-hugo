@@ -8,10 +8,12 @@
 
 <main id="content" class="archive index" role="main">
 
-    {{ $paginator := .Paginator }}
+	
+	{{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) 6 }}
+	
 
 	<div class="liste">
-		{{ range first 6 .Data.Pages.ByDate.Reverse }}
+		{{ range $index, $page := .Paginator.Pages }}
 		   	{{ .Render "li" }}
 		{{ end }}
 	</div>

@@ -44,14 +44,8 @@
     </section>
 
    <section class="post-meta">
-             <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-               {{ .Date.Format "Jan 2, 2006" }}
-             </time>
-
-            {{ range .Params.tags }}
-             <span class="post-tag small"><a href="{{ $baseurl }}tags/{{ . | urlize }}/">{{ . }}</a></span>
-            {{ end }}
-           </section>
+	   {{ partial "meta.html" . }}
+   </section>
 
   </footer>
 </article>

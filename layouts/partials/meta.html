@@ -1,0 +1,69 @@
+
+{{ $baseurl := .Site.BaseURL }}
+
+
+<ul>
+ 	{{ if .Params.saga }}
+	<li><span>Saga&nbsp;</span>: {{ range $i, $e := .Params.saga }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}saga/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+	{{ if .Params.festival }}
+	<li><span>Festivale&nbsp;</span>: {{ range $i, $e := .Params.festival }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}festival/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+	 {{ if .Params.original }}
+ 		<li><span>Titre original&nbsp;:</span> <em>{{ .Params.original }}</em></li>
+	 {{ end }}
+ 	
+ 	{{ if .Params.createur }}
+	<li><span>
+		{{ if in .Params.categorie "À voir" }}Réalisateur
+		{{ else if in .Params.categorie "À lire" }}Auteur
+		{{ else if in .Params.categorie "À écouter" }}Artiste
+		{{ else if in .Params.tag "Spectacle" }}Artiste
+		{{ else }}Créateur{{ end }}
+	</span>: {{ range .Params.createur }}<a href="{{ $baseurl }}createur/{{ . | urlize }}/">{{ . }}</a> {{ end }}</li>
+	{{ end }}
+
+ 	{{ if .Params.annee }}
+	<li><span>Année&nbsp;</span>: {{ range $i, $e := .Params.annee }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}annee/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+ 	{{ if .Params.pays }}
+	<li><span>Nationalité&nbsp;</span>: {{ range $i, $e := .Params.pays }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}pays/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+ 	{{ if .Params.acteur }}
+	<li><span>Acteurs&nbsp;</span>: {{ range $i, $e := .Params.acteur }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}acteur/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+
+	
+ 	{{ if .Params.lieu }}
+	<li><span>Salle&nbsp;</span>: {{ range $i, $e := .Params.lieu }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}lieu/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+	{{ if .Params.chef }}
+	<li><span>Chef d'orchestre&nbsp;</span>: {{ range $i, $e := .Params.chef }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}chef/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+	{{ if .Params.metteur }}
+	<li><span>Metteur en scène&nbsp;</span>: {{ range $i, $e := .Params.metteur }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}metteur/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+	{{ end }}
+	
+ 	{{ if .Params.tag }}
+		<li><span>Tags&nbsp;</span>: {{ range $i, $e := .Params.tag }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}tag/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
+		
+	{{ end }}
+	
+ 	<li></li>
+ </ul>
+
+ 
+ 
+ 
+ 
+ 
+ <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+   {{ .Date.Format "Jan 2, 2006" }}
+ </time>
+

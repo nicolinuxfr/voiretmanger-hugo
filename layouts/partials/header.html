@@ -22,7 +22,7 @@
     {{ end }}
 
   <title>
-    {{ if ne .URL "/" }} {{ .Title | markdownify }} &middot; {{ end }} {{ .Site.Title | markdownify }}
+    {{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title | markdownify }}
   </title>
 
     <meta name="description" content="{{ .Site.Params.description }}" />
@@ -34,10 +34,13 @@
 	  <link rel="apple-touch-icon" href="{{.Site.BaseURL}}images/apple-touch-icon.png" />
     
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}style.css" />
-	<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700italic|Roboto:300,300italic,700|Dorsa' rel='stylesheet' type='text/css'>
+	
+	
 
     {{ if .IsPage }}
-	<link href='http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic|Playfair+Display:400,700italic|Roboto:300,300italic,700|Dorsa' rel='stylesheet' type='text/css'>
+	{{ else }}
+		<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700italic|Roboto:300,300italic,700|Dorsa' rel='stylesheet' type='text/css'>
 	{{ end }}
 	
 

@@ -91,22 +91,20 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 /* Polices
 -------------------------------------------------------------- */
-@import url(//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic|Playfair+Display:400,700italic|Dorsa|Roboto:300,300italic,700);
-
 body{
 	font-size:12px;
 	color: rgba(0, 0, 0, 0.6);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
-	font-family:'Noto Serif', serif;
+	font-family:'NotoSerif', serif;
 }
 
 
 h2,
 h3{
 	font-family:"Playfair Display", serif;
-	font-weight:200;
+	font-weight:400;
 }
 
 
@@ -403,6 +401,7 @@ article .footnotes{
 	width:100%;
 	margin: 1em auto;
 	max-width: 900px;
+	font-weight:300;
 }
 
 
@@ -427,7 +426,7 @@ article .footnotes{
 }
 
 .post-meta ul > li span{
-	font-weight:bold;
+	font-weight:700;
 }
 
 

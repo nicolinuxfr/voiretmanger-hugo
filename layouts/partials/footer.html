@@ -5,6 +5,15 @@
     <script type="text/javascript" src="{{.Site.BaseURL}}js/jquery.js"></script>
     <script type="text/javascript" src="{{.Site.BaseURL}}js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="{{.Site.BaseURL}}js/index.js"></script>
+	
+    {{ if .IsPage }}
+	    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/bigfoot-default.css" />
+		<script type="text/javascript" src="{{.Site.BaseURL}}js/bigfoot.min.js"></script>
+		<script type="text/javascript">
+		    $.bigfoot({actionOriginalFN: "ignore"});
+		</script>
+			
+	{{ end }}
 
 </body>
 </html>

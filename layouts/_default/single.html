@@ -22,7 +22,7 @@
 		{{ if .Params.cover }}
 		<header class="post-header" style="background-image: url({{.Params.cover}})">
 			<div class="flou">
-				<h1 class="post-title">{{.Title | markdownify }}</h1>
+				<h1 class="post-title">{{ .Params.titre | markdownify }}</h1>
 			</div>
    	 	</header>
 		{{ end }}

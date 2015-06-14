@@ -93,7 +93,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 -------------------------------------------------------------- */
 body{
 	font-size:12px;
-	color: rgba(0, 0, 0, 0.6);
+	color: rgba(0, 0, 0, 0.5);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
@@ -111,7 +111,10 @@ h3{
 
 img {width: 100%;height:auto;}
 
-a {text-decoration:none;color:#424242}
+a {text-decoration:none;color: rgba(0, 0, 0, 0.5);}
+a:hover{color: rgba(0, 0, 0, 0.9);}
+
+
 
 
 /*	Footer
@@ -311,7 +314,6 @@ content: "";
 	letter-spacing: -1px; 
 	margin:0.4em auto; 
 	padding: 0px 0.3em;
-	/* max-width: 20em; */
 	border: 0;
 	font: normal 5em "Playfair Display", serif;
 	font-weight: 400;
@@ -338,6 +340,18 @@ article .post-content p{
 	padding:0;
 }
 
+article .post-content p a{
+	text-decoration: underline;
+}
+
+article h3{
+	margin: 1em auto 0.3em auto;
+	font: 2em/1em "Playfair Display", "Droid Serif", serif;
+	padding: 0;
+	font-style: italic;
+}
+
+
 article img {width: 100%;height:auto;}
 
 
@@ -347,6 +361,13 @@ article .footnotes{
 	max-width: 900px;
 	margin:auto;
 }
+
+
+ 
+article .amazon ul{
+	padding: 0 2em;
+}
+
 
 
 
@@ -444,50 +465,9 @@ article .footnotes{
 }
 
 
- article .hentry {clear: both;float: none;padding: 0;position: relative;z-index: 3;}
- article header {clear: both;float: right;margin: 0;width: 100%;display: block;border: 0;
+.post-date{
+	font-size: 0.9em;
+	display:block;
+	padding: 1em 2em;
+	text-align:center;
 }
-
-
-
- article footer {}
- article footer .entry-utility {width: 200px;}
- article footer .entry-meta {padding: 0 0 22px; margin-bottom: 0}
-
-
-
-
-
-
-
-	
- article .entry-pers a{text-decoration:none;}
-
-
- article .entry-pers .titre{margin-left:-10px;padding:5px 0px 5px 0px;color:white;background-color:#5e5e5e;text-align:center;font-weight: 200;	font-size:18px;
-	font-variant: small-caps;}
-	
- article .entry-pers .titre a{
-	color: white;
-}	
- article .entry-pers .entry-pers-img ul{padding: 0;}
- article .entry-pers .entry-pers-img li{margin:-5px 10px 10px 10px;float: left;display: inline} 
- article .entry-pers img{
-	width: 166px;float: left;
-} 
- article .autre-cat img{
-	margin:0px 2px 0px 0px;width: 178px;
-} 
- article .entry-pers hr{margin:0;}
- article .amazon{
-	padding: 0 2em;
-	max-width: 850px;
-	margin:auto;
-}
-
- article .amazon a{	text-decoration: none !important;}
-
-div.canvas{width:100% !important;}
-
-
-

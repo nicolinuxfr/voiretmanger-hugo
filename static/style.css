@@ -435,7 +435,6 @@ article .amazon ul{
 	line-height:1.2em;
 	width:100%;
 	margin: 1em auto;
-	max-width: 900px;
 	font-weight:300;
 }
 
@@ -448,9 +447,10 @@ article .amazon ul{
 	-o-column-count:2;
 	column-count:2;
 	columns:2;
-	margin: 0 1em;
+	margin: 1em auto;
 	list-style-type:none;
 	padding:0;
+	max-width:900px;
 }
 	
 

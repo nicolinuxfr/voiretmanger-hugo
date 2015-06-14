@@ -12,8 +12,11 @@
 		<script type="text/javascript">
 		    $.bigfoot({actionOriginalFN: "ignore"});
 		</script>
-			
 	{{ end }}
+	
+   {{ if .Params.longitude }}
+		{{ partial "map.html" . }}
+   {{ end }}
 
 </body>
 </html>

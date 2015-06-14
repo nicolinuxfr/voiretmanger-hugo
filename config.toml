@@ -2,12 +2,11 @@ baseurl = "http://yourSiteHere/"
 languageCode = "fr-fr"
 
 title = "À voir et à manger"
-[params]
-  description = "Chez Nicoflo"
   
 PreserveTaxonomyNames = true
 
-Paginate = 6
+[params]
+  description = "Chez Nicoflo"
 
 [permalinks]
     post = "/:filename/"

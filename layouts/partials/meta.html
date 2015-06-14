@@ -50,9 +50,10 @@
 	<li><span>Metteur en scène&nbsp;</span>: {{ range $i, $e := .Params.metteur }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}metteur/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
 	{{ end }}
 	
+	{{ if not .Params.longitude }}
  	{{ if .Params.tag }}
 		<li><span>Tags&nbsp;</span>: {{ range $i, $e := .Params.tag }}{{ if $i }}, {{ end }}<a href="{{ $baseurl }}tag/{{ . | urlize }}/">{{ $e }}</a>{{ end }}</li>
-		
+	{{ end }}
 	{{ end }}
 	
  	<li></li>

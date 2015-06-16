@@ -4,6 +4,7 @@ languageCode = "fr-fr"
 title = "À voir et à manger"
   
 PreserveTaxonomyNames = true
+RemovePathAccents = true
 
 [params]
   description = "Chez Nicoflo"

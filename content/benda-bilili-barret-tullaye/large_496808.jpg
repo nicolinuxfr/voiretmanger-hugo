@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+                
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <title>EcranLarge.com: cinéma, films, séries, Dvd, Blu-Ray, jeux-vidéo - EcranLarge.com</title>
+    <meta name="description" content="Avec EcranLarge.com, retrouvez toute les news cinéma (sorties, critiques), film, séries TV, sorties DVD et Blu-Ray ainsi que les tests des derniers jeux" />
+    <meta name="keywords" content="cinéma, film, série, dvd, jeux-vidéo" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@EcranLarge" />
+    <meta name="twitter:title" content="EcranLarge.com: cinéma, films, séries, Dvd, Blu-Ray, jeux-vidéo" />
+    <meta name="twitter:image" content="http://www.ecranlarge.com/bundles/ecranlargecore/images/ecran-large.png" />
+    <meta name="twitter:description" content="Avec EcranLarge.com, retrouvez toute les news cinéma (sorties, critiques), film, séries TV, sorties DVD et Blu-Ray ainsi que les tests des derniers jeux vidéo" />
+    <meta name="twitter:creator" content="@EcranLarge" />
+
+    <meta property="fb:app_id" content="1422296451328590" />
+
+        <meta property="og:title" content="EcranLarge.com: cinéma, films, séries, Dvd, Blu-Ray, jeux-vidéo" />
+    <meta property="og:image" content="http://www.ecranlarge.com/bundles/ecranlargecore/images/ecran-large.png" />
+    <meta property="og:description" content="Avec EcranLarge.com, retrouvez toute les news cinéma (sorties, critiques), film, séries TV, sorties DVD et Blu-Ray ainsi que les tests des derniers jeux vidéo" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="Écran Large" />
+    
+            <link rel="stylesheet" href="/build/release/frontend.min.css?1432040262" type="text/css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+            <script type='text/javascript'>
+var crtg_nid = '4064';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName='+escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+</script>
+
+<script src='http://www.smartadserver.com/config.js?nwid=104' type="text/javascript"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'http://www.smartadserver.com', async: false, renderMode:0});
+</script>
+<script type="text/javascript">
+if(window.location.pathname == '/')
+	sas_pageid='256128';		// Page : hp
+else
+	sas_pageid='256129';		// Page : rg
+
+	sas.call("onecall", {
+		siteId:		37540,	// 
+		pageId:		sas_pageid,	// 
+		formatId:	'10192,16049,1391,21999,928,920,922,14930,14609,25670,10341,19176',
+		target:		crtg_content			// Ciblage
+	});
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/cultureg-ecranlarge/loader.js');
+</script>
+
+
+</head>
+
+<body>
+    <header>
+            <a id="top"></a>
+
+        <nav class="nav navbar-default navbar-menu" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">
+                        <img src="/bundles/ecranlargecore/images/logo.png" />
+                    </a>
+                </div>
+
+                <button type="button" class="navbar-toggle navbar-right" data-toggle="collapse" data-target="#navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                                    <a class="login" href="/login" data-toggle="modal" data-target="#global-modal">
+                        <i class="fa fa-user"></i>
+                        <span class="login-text">Connexion</span>
+                    </a>
+                
+                <form class="navbar-form navbar-right" method="get" action="/recherche" role="search">
+                    <div class="form-group">
+                        <i class="fa fa-search"></i>
+                        <input type="text" name="query" class="form-control" placeholder="Rechercher...">
+                    </div>
+                </form>
+
+                
+    
+<div class="collapse navbar-collapse" id="navbar-collapse-1">
+    <ul class="nav navbar-nav">
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Films</a>
+            <ul class="dropdown-menu container">
+                <li class="content">
+                                <div class="entry">
+            <a href="/films/news/933180-decouvrez-les-meilleures-scenes-de-sexe-en-video">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/933/marquis-de-sade-179.png" class="img-responsive" alt="Top Sexe" />
+                                Découvrez les meilleures scènes de sexe en vidéo !
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/films/news/941032-mad-max-fury-road-revele-deux-scenes-coupees-bien-borderline">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/940/mad-max-fury-road-photo-coma-940278.jpg" class="img-responsive" alt="Photo COMA" />
+                                Mad Max : Fury Road révèle deux scènes coupées bien borderline
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/films/news/941145-batman-v-superman-on-connait-enfin-le-synopsis-officiel">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/939/batman-v-superman-dawn-of-justice-photo-portrait-batman-detail-939304.jpg" class="img-responsive" alt="Photo Portrait Batman Détail" />
+                                Batman v Superman : on connaît enfin le synopsis officiel !
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/films/news/941245-christopher-lee-decouvrez-le-bouleversant-hommage-de-peter-jackson-a-saroumane">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/christopher-lee-i-peter-jackson-941244.jpg" class="img-responsive" alt="peter jackson" />
+                                Christopher Lee : découvrez le bouleversant hommage de Peter Jackson à Saroumane
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/films/news/941078-star-wars-7-decouvrez-le-nouveau-look-de-c-3po-et-r2-d2">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/star-wars-le-reveil-de-la-force-c-3po-941077.png" class="img-responsive" alt="C-3PO" />
+                                Star Wars 7 : Le nouveau look rougeoyant de C-3PO a-t-il fuité ?
+            </a>
+        </div>
+    
+                </li>
+                <li><a href="/films/news">News</a></li>
+                <li><a href="/films/sorties/semaine">Sorties</a></li>
+                <li><a href="/films/bandes-annonces">Bandes-annonces</a></li>
+                <li><a href="/films/dossiers">Dossiers</a></li>
+                <li><a href="/films/critiques">Critiques</a></li>
+                <li><a href="/films/box-office/fr">Box-office</a></li>
+                <li><a href="/films/interviews">Interviews</a></li>
+            </ul>
+        </li>
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Séries</a>
+            <ul class="dropdown-menu container">
+                <li class="content">
+                                <div class="entry">
+            <a href="/series/news/941054-sense8-les-wachos-debarquent-sur-netflix-coup-de-maitre-ou-catastrophe">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/sense8-screen-shot-2015-05-07-at-5-13-35-pm-941053.png&sa=X&ei=vmZ1VY-FO8T4UsKZgcAP&ved=0CAkQ8wc4HQ&usg=AFQjCNGIaEtZrMgaUo1lZePNC-zgHcRH2g" class="img-responsive" alt="Screen-Shot-2015-05-07-at-5.13.35-PM" />
+                                Sense8 , les Wachos débarquent sur Netflix : coup de maître ou catastrophe ?
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/series/news/941242-game-of-thrones-saison-5-episode-10-le-final-fuite-sur-le-web-no-spoilers">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/game-of-thrones-saison-5-5361700-941201.jpg" class="img-responsive" alt="5361700" />
+                                Game of Thrones saison 5 épisode 10 : le final fuite sur le web ! (NO SPOILERS)
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/series/news/941178-game-of-thrones-george-r-r-martin-revele-pourquoi-vous-ne-verrez-jamais-la-saga-au-cinema">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/940/game-of-thrones-george-rr-martin-slice-940642.jpg" class="img-responsive" alt="george-rr-martin-slice" />
+                                Game of Thrones : George R.R. Martin révèle pourquoi vous ne verrez jamais la saga au cinéma
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/series/news/941010-daredevil-saison-2-jason-statham-ne-sera-pas-bullseye-a-cause-d-internet">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/jason-statham-photo-fast-7-941009.jpg" class="img-responsive" alt="Photo Fast 7" />
+                                Daredevil Saison 2 : Jason Statham ne sera pas Bullseye... à cause d&#039;Internet ?!
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/series/news/941079-game-of-thrones-saison-5-vers-un-episode-10-apocalyptique">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/939/game-of-thrones-season-4-episode-5-first-of-his-name-game-of-thrones-37070101-4256-2832-939087.jpg" class="img-responsive" alt="Season-4-Episode-5-First-of-His-Name-game-of-thrones-37070101-4256-2832" />
+                                Game of Thrones saison 5 : vers un épisode 10 apocalyptique ?
+            </a>
+        </div>
+    
+                </li>
+                <li><a href="/series/news">News</a></li>
+                <li><a href="/series/dossiers">Dossiers</a></li>
+                <li><a href="/series/episodes">Épisodes</a></li>
+                <li><a href="/series/bandes-annonces">Bandes annonces</a></li>
+            </ul>
+        </li>
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">DVD/Blu-ray</a>
+            <ul class="dropdown-menu container">
+                <li class="content">
+                                <div class="entry">
+            <a href="/dvd-blu-ray/news/911424-terminator-4-30-minutes-de-scenes-coupees">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/021/original-375508-122.jpg" class="img-responsive" alt="Image 375508" />
+                                Terminator 4 : 30 minutes de scènes coupées !
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/dvd-blu-ray/news/921606-un-recadrage-sur-le-blu-ray-d-indiana-jones-et-le-temple-maudit">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/032/original-614791-796.jpg" class="img-responsive" alt="Image 614791" />
+                                Un recadrage sur le blu-ray d&#039;Indiana Jones et le temple maudit ? 
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/dvd-blu-ray/news/940526-sorties-video-de-juin-2015-clint-eastwood-a-l-honneur">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/934/thumbnail-19703-825.jpg" class="img-responsive" alt="American sniper - Photos, Bradley Cooper" />
+                                Sorties vidéo de Juin 2015 : Clint Eastwood à l&#039;honneur
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/dvd-blu-ray/news/925540-le-bon-la-brute-et-le-truand-le-blu-ray-4k-qui-arrache">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/037/original-689326-077.jpg" class="img-responsive" alt="Image 689326" />
+                                Le Bon, la brute et le truand : Le Blu-ray 4K qui arrache !
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/dvd-blu-ray/news/940517-apres-mauvais-genre-le-hall-des-pendus-debarque-en-vod">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/940/le-hall-des-pendus-top-940516.jpg" class="img-responsive" alt="Top" />
+                                Après Mauvais Genre, le Hall des Pendus débarque en VOD
+            </a>
+        </div>
+    
+                </li>
+                <li><a href="/dvd-blu-ray/sorties/semaine">Sorties</a></li>
+                <li><a href="/dvd-blu-ray/tests">Tests</a></li>
+            </ul>
+        </li>
+
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jeux vidéo</a>
+            <ul class="dropdown-menu container">
+                <li class="content hidden-sm hidden-xs">
+                                <div class="entry">
+            <a href="/jeux-video/news/941036-dragon-ball-z-extreme-butoden-devoile-une-video-de-gameplay-explosive-et-nous-met-k-o">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/938/dragon-ball-z-photo-goku-evolution-938280.jpg" class="img-responsive" alt="Photo Goku Evolution" />
+                                Dragon Ball Z Extreme Butoden dévoile une vidéo de gameplay explosive et nous met K.O.
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/jeux-video/news/941008-la-trilogie-uncharted-revient-sur-ps4-en-version-remasterisee-avec-un-gros-cadeau">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/uncharted-4-a-thief-s-end-photo-uncharted-3-941006.jpg" class="img-responsive" alt="Photo Uncharted 3" />
+                                La trilogie Uncharted revient sur PS4 en version remasterisée avec un gros cadeau
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/jeux-video/news/940995-rise-of-the-tomb-raider-lara-croft-devoile-elle-meme-l-histoire-du-prochain-jeu">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/940/rise-of-the-tomb-raider-lara-croft-940996.png" class="img-responsive" alt="Lara Croft" />
+                                Rise of the Tomb Raider : Lara Croft dévoile elle-même l&#039;histoire du prochain jeu
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/jeux-video/news/941028-alone-in-the-dark-illumination-devoile-une-bande-annonce-surprenante-et-revele-sa-date-de-sortie">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/alone-in-the-dark-photo-illumination-941025.jpg" class="img-responsive" alt="Photo Illumination" />
+                                Alone in the Dark : Illumination dévoile une bande-annonce surprenante et révèle enfin sa date de sortie
+            </a>
+        </div>
+            <div class="entry">
+            <a href="/jeux-video/news/941177-the-last-guardian-serait-bel-et-bien-present-a-l-e3">
+                                    <img src="http://www.ecranlarge.com/media/cache/143x190/uploads/image/000/941/max-pecas-last-guardian-941175.jpg" class="img-responsive" alt="last guardian" />
+                                The Last Guardian serait bel et bien présent à l&#039;E3 !
+            </a>
+        </div>
+    
+                </li>
+                <li><a href="/jeux-video/news">News</a></li>
+                <li><a href="/jeux-video/touslesjeuxvideos">Tous les jeux</a></li>
+            </ul>
+        </li>
+    </ul>
+
+    <div class="social">
+        <a href="https://www.facebook.com/ecranlarge?fref=ts" target="_blank" title="Suivez EcranLarge sur facebook"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/EcranLarge" target="_blank" title="Suivez EcranLarge sur twitter"><i class="fa fa-twitter"></i></a>
+<a href="https://plus.google.com/u/0/105118361746908932333/posts/posts" target="_blank" title="Suivez EcranLarge sur google plus"><i class="fa fa-google-plus"></i></a>
+
+    </div>
+</div>
+
+
+            </div>
+        </nav>
+
+        <div class="subnav">
+    <div class="container">
+        <div class="social">
+            <a href="https://www.facebook.com/ecranlarge?fref=ts" target="_blank" title="Suivez EcranLarge sur facebook"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/EcranLarge" target="_blank" title="Suivez EcranLarge sur twitter"><i class="fa fa-twitter"></i></a>
+<a href="https://plus.google.com/u/0/105118361746908932333/posts/posts" target="_blank" title="Suivez EcranLarge sur google plus"><i class="fa fa-google-plus"></i></a>
+
+        </div>
+        <div class="en-ce-moment">en ce moment <i class="fa fa-angle-right"></i></div>
+        <ul>
+                            <li>
+                    <a href="http://www.ecranlarge.com/films/866105-jurassic-world" >Jurassic World</a>
+                </li>
+                                   <li class="divider"></li>
+                                            <li>
+                    <a href="http://www.ecranlarge.com/films/news/940749-concours-it-follows-gagnez-10-blu-rays-du-film-le-plus-terrifiant-de-l-annee" >Concours IT FOLLOWS</a>
+                </li>
+                                   <li class="divider"></li>
+                                            <li>
+                    <a href="http://www.ecranlarge.com/films/930135-terminator-genisys" >Terminator : Genisys</a>
+                </li>
+                                    </ul>
+    </div>
+</div>
+
+        </header>
+
+    <div class="top-banner">
+        <div class="container">
+                                    <div class="sidebar-banner">
+        <div><script type="text/javascript">
+    sas.render('920');  // Format : Méga Ban 728x90
+</script></div>
+<div><script type="text/javascript">
+    sas.render('1391');  // Format : Habillage 0x0
+</script></div>
+    </div>
+
+
+                    </div>
+    </div>
+
+    
+        
+        <div id="flash-container">
+                                </div>
+
+        <div class="container content">
+            <div class="row">
+    <section class="col-xs-12 col-md-8 main-content">
+        <p>Cette page n'existe pas.</p>
+    </section>
+</div>
+        </div>
+    
+    <footer id="footer">
+                    <div class="container content-end">
+                <a id="to-top" href="#top"><i class="fa fa-angle-up"></i> haut de page <i class="fa fa-angle-up"></i></a>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="logo"></div>
+                    <div class="links">
+                        <a href="/films">Films</a>
+                        <a href="/series">Séries</a>
+                        <a href="/dvd-blu-ray">DVD/Blu-ray</a>
+                        <a href="/jeux-video">Jeux vidéo</a>
+                    </div>
+                    <div class="sub-links">
+                        <a href="/qui-sommes-nous">Qui sommes-nous</a>
+                        <a href="/nous-contacter">Nous contacter</a>
+                        <a href="/nous-suivre">Nous suivre</a>
+                        <a href="/annoncer">Annoncer</a>
+                        <a href="/conditions-d-utilisation">Conditions d'utilisation</a>
+                        <a href="/infos-legales">Infos légales</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="social">
+                        <a href="https://www.facebook.com/ecranlarge?fref=ts" target="_blank" title="Suivez EcranLarge sur facebook"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/EcranLarge" target="_blank" title="Suivez EcranLarge sur twitter"><i class="fa fa-twitter"></i></a>
+<a href="https://plus.google.com/u/0/105118361746908932333/posts/posts" target="_blank" title="Suivez EcranLarge sur google plus"><i class="fa fa-google-plus"></i></a>
+
+                    </div>
+                </div>
+            </div>
+                    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1586818-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+    sas.render('10192');  // Format : Footer 0x0
+</script>
+<script type="text/javascript">
+    sas.render('928');  // Format : Interstitiel 500x400
+</script>
+
+<script type="text/javascript" id="ean-native-embed-tag" src="http://cdn.elasticad.net/native/serve/js/nativeEmbed.gz.js"></script>
+
+<!-- Tag Publicité Culture G - Format preroll automatique -->
+<script type="text/javascript">
+fz_players  = ["youtube", "yahoo", "twitch"];
+sas_pageid='37540/256129';
+</script>
+<style type="text/css">
+.fz_global_contener{margin:0 auto;position:relative;z-index:1}
+.fz_player_contener{position:relative;z-index:1}
+.fz_player_hover{position:absolute;z-index:100;width:100%;height:100%;top:0;left:0;background:transparent;text-align:center;cursor:pointer;}
+.fz_err_msg{font-weight:bold;color:#FFF;font-size:20px;background-color:#000;}
+</style>
+<script type="text/javascript" src="http://cdn.cultureg.eu/scripts/autopreroll-last-min.js"></script>
+<!-- Fin du script preroll automatique -->
+
+<!-- Taboola -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<!-- Taboola mobile -->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a-escalator',
+    slider: true,
+    placement: 'Mobile Escalator Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+
+<style>
+.articles article .large-image a .play-icon {
+            background: url(/bundles/ecranlargecore/images/play_large.png) no-repeat;
+            position: absolute;
+            width: 88px;
+            height: 88px;
+            top: 50%;
+            left: 50%;
+            z-index: 1;
+            margin-left: -44px;
+            margin-top: -44px;
+            opacity: 0.65;
+        }
+</style>
+
+
+<style>
+#fb_back {
+	display:none;
+	background:rgba(0,0,0,0.8);
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:99999;
+}
+#fb_exit {
+	width:100%;
+	height:100%;
+}
+#fb_lightbox {
+	background:white;
+	width:400px;
+	height:278px;
+	padding:20px;
+	position:absolute;
+	top:58%;
+	left:63%;
+	margin:-220px 0 0 -375px;
+	-webkit-box-shadow: inset 0 0 50px 0 #939393;
+	-moz-box-shadow: inset 0 0 50px 0 #939393;
+	box-shadow: inset 0 0 50px 0 #939393;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin: -220px 0 0 -375px;
+}
+#fb_close {
+	float:right;
+	cursor:pointer;
+	background:url(/bundles/ecranlargecore/images/fb_close.png) no-repeat;
+	height:20px;
+	width:20px;
+	position:relative;
+	top:-56px;
+	right:-28px;
+}
+#linkit,#linkit a.visited,#linkit a,#linkit a:hover {
+	color:#80808B;
+	font-size:10px;
+	margin: 0 auto 5px auto;
+	float:center;
+}
+#facebook_iframe_cont
+{
+	height:214px;
+	overflow:hidden;
+}
+#fb_text 
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+</style>
+<script type='text/javascript'>
+//<![CDATA[
+jQuery.cookie = function (key, value, options) {
+// key and at least value given, set cookie...
+if (arguments.length > 1 && String(value) !== "[object Object]") {
+options = jQuery.extend({}, options);
+if (value === null || value === undefined) {
+options.expires = -1;
+}
+if (typeof options.expires === 'number') {
+var days = options.expires, t = options.expires = new Date();
+t.setDate(t.getDate() + days);
+}
+value = String(value);
+return (document.cookie = [
+encodeURIComponent(key), '=',
+options.raw ? value : encodeURIComponent(value),
+options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+options.path ? '; path=' + options.path : '',
+options.domain ? '; domain=' + options.domain : '',
+options.secure ? '; secure' : ''
+].join(''));
+}
+// key and possibly options given, get cookie...
+options = value || {};
+var result, decode = options.raw ? function (s) { return s; } : decodeURIComponent;
+return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
+//]]>
+</script>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+	if($.cookie('popup_user_login') != 'yes'){
+		$('#fb_back').delay(10000).fadeIn('medium');
+		$('#fb_close, #fb_exit').click(function(){
+		$('#fb_back').stop().fadeOut('medium');
+		});
+	}
+	$.cookie('popup_user_login', 'yes', { path: '/', expires: 1 });
+});
+</script>
+<div id='fb_back'>
+	<div id='fb_exit'></div>
+	<div id='fb_lightbox'>
+		<div id="fb_text">Suivez-nous sur Facebook !</div>
+		<div id='fb_close'></div>
+		<div id="facebook_iframe_cont">
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fecranlarge&amp;width=388&amp;height=240&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:388px; height:240px;" allowTransparency="true"></iframe>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+function cgresize(item) {
+   item.height = "";
+   item.height = item.contentWindow.document.body.scrollHeight;
+   item.style.height = item.contentWindow.document.body.scrollHeight + "px";
+}
+function cgRefresh(formatId, formatWidth, formatHeight)
+{
+	siteId = 37540;	
+	pageId = 256129;
+	if (targetDiv = document.getElementById('sas_'+formatId)) //pas ==
+	{
+		targetDiv.parentNode.innerHTML = '<div id="sas_'+formatId+'"></div><iframe width="'+formatWidth+'" height="'+formatHeight+'" id="sas_i'+formatId+'" onload="cgresize(this)" frameborder="0" scrolling="no" style="margin: 0px; padding: 0px; width: '+formatWidth+'px; height: '+formatHeight+'px;">';
+		iframe = document.getElementById('sas_i'+formatId);
+		
+		url = 'http://www.smartadserver.com/ac?out=js&nwid=104&siteid='+siteId+'&pgid='+pageId+'&fmtid='+formatId+'&visit=m&tmstp=[timestamp]';
+		val = '<html><head></head><body style="margin:0;padding:0">';
+		val += '<scr' + 'ipt type="text/javascript" src="' + url + '"></scr' + 'ipt>';
+		val += '</body></html>';
+		
+		var doc = iframe.contentWindow || iframe.contentDocument;
+		if (doc.document) doc = doc.document
+		doc.open();
+		doc.write(val);
+		doc.close();
+	}
+}
+
+window.setInterval(function(){
+	cgRefresh(922, 300, 250);
+}, 60000);
+
+setTimeout(function(){
+	window.setInterval(function(){
+		cgRefresh(920, 728, 90);
+	}, 60000);
+ }, 2000);
+
+setTimeout(function(){
+	window.setInterval(function(){
+		cgRefresh(19176, 728, 90);
+	}, 60000);
+ }, 4000);
+
+</script>
+
+
+            </footer>
+
+    <div id="registration-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Inscription</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="global-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="global-modal-title">
+        <div class="modal-dialog">
+            <div class="modal-content"></div>
+        </div>
+    </div>
+
+            <script>
+            // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            //     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            // ga('create', '', '');
+            // ga('send', 'pageview');
+        </script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="/build/release/frontend.min.js?1432040262"></script>
+        <script src="/jwplayer/jwplayer.js"></script>
+        <script src="/js/routing?callback=fos.Router.setData"></script>
+        <div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: '1422296451328590',
+            xfbml: true,
+            status: true,
+            version: 'v2.0'
+        });
+    };
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/fr_FR/sdk.js";         fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    window.___gcfg = { lang: 'fr' };
+    (function () {
+        var po = document.createElement('script');
+        po.type = 'text/javascript';
+        po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    }) ();
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </body>
+</html>

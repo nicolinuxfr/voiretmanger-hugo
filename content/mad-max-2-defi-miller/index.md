@@ -5,6 +5,7 @@ url = "/mad-max-2-defi-miller"
 date = "2015-05-09T12:01:22"
 Lastmod = "2015-05-09T23:27:37"
 cover = "mad-max-2-le-defi-mel-gibson.jpg"
+position = "top"
 categorie = [ "À voir" ]
 tag = [ "Action", "Apocalypse", "Culte", "Science-Fiction", "Société", "Violence" ]
 createur = [ "George Miller" ]

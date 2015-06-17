@@ -5,6 +5,7 @@ url = "/sense8-straczynski-wachowski-netflix"
 date = "2015-06-07T20:22:16"
 Lastmod = "2015-06-07T20:26:35"
 cover = "sense8-wachowski-netflix.jpg"
+position = "top"
 categorie = [ "À voir" ]
 tag = [ "Drame", "Fantastique", "Film choral", "Homosexualité", "Science-Fiction", "Série", "Société", "Technologies", "Transsexualité" ]
 createur = [ "Andy et Lana Wachowski", "J. Michael Straczynski", "Netflix" ]

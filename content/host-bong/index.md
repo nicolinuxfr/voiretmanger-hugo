@@ -5,6 +5,7 @@ url = "/host-bong"
 date = "2015-06-10T00:37:53"
 Lastmod = "2015-06-11T19:10:44"
 cover = "host-bong-joon-ho.jpeg"
+position = "right"
 categorie = [ "À voir" ]
 tag = [ "Action", "Drame", "Écologie", "Famille", "Horreur", "Humour", "Monstres", "Politique", "Société" ]
 createur = [ "Bong Joon-ho" ]

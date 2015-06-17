@@ -5,6 +5,7 @@ url = "/helix-porsandeh-syfy"
 date = "2015-06-04T22:42:47"
 Lastmod = "2015-06-04T22:46:51"
 cover = "helix-porsandeh-syfy.jpg"
+position = "right"
 categorie = [ "À voir" ]
 tag = [ "Apocalypse", "Fantastique", "Horreur", "Maladie", "Médecine", "Science", "Science-Fiction", "Série", "Vite oublié", "Zombie" ]
 createur = [ "Cameron Porsandeh", "SyFy" ]

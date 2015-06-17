@@ -5,6 +5,7 @@ url = "/panic-room-fincher"
 date = "2015-03-31T23:10:47"
 Lastmod = "2015-03-31T23:14:11"
 cover = "panic-room-david-fincher-jodie-foster-kristen-stewart.jpg"
+position = "top"
 categorie = [ "À voir" ]
 tag = [ "Argent", "Braquage", "Famille", "Huis clos", "Suspense", "Thriller" ]
 createur = [ "David Fincher" ]

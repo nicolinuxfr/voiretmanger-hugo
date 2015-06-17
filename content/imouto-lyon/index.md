@@ -5,6 +5,7 @@ url = "/imouto-lyon"
 date = "2015-06-02T19:21:58"
 Lastmod = "2015-06-02T19:28:08"
 cover = "imouto-lyon.jpg"
+position = "right"
 categorie = [ "À manger" ]
 tag = [ "69007", "Cuisine contemporaine", "Cuisine française", "Cuisine japonaise" ]
 latitude = "45.754139"

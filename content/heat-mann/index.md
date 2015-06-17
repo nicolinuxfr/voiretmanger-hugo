@@ -5,6 +5,7 @@ url = "/heat-mann"
 date = "2015-01-19T10:08:23"
 Lastmod = "2015-01-21T10:45:22"
 cover = "heat-al-pacino-robert-de-niro.jpg"
+position = "left"
 categorie = [ "À voir" ]
 tag = [ "Argent", "Drame", "Enquête", "Film de gangsters", "Police", "Remake", "Société", "Thriller" ]
 createur = [ "Michael Mann" ]

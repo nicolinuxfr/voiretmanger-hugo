@@ -5,6 +5,7 @@ url = "/daredevil-goddard-netflix"
 date = "2015-04-28T20:26:14"
 Lastmod = "2015-04-28T23:10:50"
 cover = "daredevil-goddard-deknight-netflix.jpg"
+position = "top"
 categorie = [ "À voir" ]
 tag = [ "Adaptation bande-dessinée", "Comics", "Handicap", "Mafia", "Série", "Superhéros", "Ville" ]
 createur = [ "Drew Goddard", "Netflix" ]

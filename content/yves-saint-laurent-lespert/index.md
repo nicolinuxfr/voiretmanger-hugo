@@ -5,6 +5,7 @@ url = "/yves-saint-laurent-lespert"
 date = "2015-02-21T19:43:34"
 Lastmod = "2015-02-21T19:49:14"
 cover = "yves-saint-laurent-pierre-niney.jpg"
+position = "top"
 categorie = [ "À voir" ]
 tag = [ "Adaptation littéraire", "Amour", "Biopic", "Drame", "Histoire", "Histoire vraie", "Homosexualité", "Mode" ]
 createur = [ "Jalil Lespert" ]

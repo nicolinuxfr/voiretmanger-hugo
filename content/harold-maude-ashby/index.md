@@ -5,6 +5,7 @@ url = "/harold-maude-ashby"
 date = "2015-05-26T20:28:12"
 Lastmod = "2015-05-26T20:34:38"
 cover = "harold-maude-ruth-gordon-bud-cort.jpg"
+position = "left"
 categorie = [ "À voir" ]
 tag = [ "Amour", "Comédie romantique", "Famille", "Humour", "Mort", "Philosophie", "Psychologie", "Romance", "Société" ]
 createur = [ "Hal Ashby" ]

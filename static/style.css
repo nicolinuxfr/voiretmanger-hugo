@@ -250,6 +250,23 @@ footer {clear:both;}
 /* ==========================================================================
    ARTICLES
    ========================================================================== */
+/* Header
+-------------------------------------------------------------- */
+.header-post{
+	position:fixed;
+	font-family: sans-serif;
+	background-color:rgba(0, 0, 0, 0.2);
+	z-index:98;
+}
+
+
+.header-post .site-title {
+	padding:0.1em; 
+	font-size:5em;
+	line-height:0.8em; 
+}
+.header-post .site-title a{color:white;}
+.header-post .site-title a:hover{color:rgba(0, 0, 0, 0.9);}
 
 /* Titre et image
 -------------------------------------------------------------- */
@@ -303,7 +320,7 @@ content: "";
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2);
 
 }
 
@@ -333,6 +350,8 @@ article .post-content{
 	max-width: 850px;
 	font-size: 2.2em;
 	line-height: 1.4em;
+	background-color:white;
+	z-index:99;
 }
 
 article .post-content p{

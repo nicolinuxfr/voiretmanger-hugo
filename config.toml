@@ -1,8 +1,9 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "http://futur.voiretmanger.fr/"
 languageCode = "fr-fr"
 
 title = "À voir et à manger"
-  
+
+relativeURLs = false
 PreserveTaxonomyNames = true
 RemovePathAccents = true
 

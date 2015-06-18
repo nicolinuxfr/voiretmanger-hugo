@@ -1,0 +1,1 @@
+[{{ range $index, $page := .Site.Pages.ByDate.Reverse }}{{ if ne $page.Type "json" }}{{ if $index }},{{ end }}{ "title": "{{ $page.Title }}", "url": "{{ $page.RelPermalink }}"}{{ end }}{{ end }}]

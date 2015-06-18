@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="donnie-darko-jake-gyllenhaal.jpg" alt="Donnie darko jake gyllenhaal" title="donnie-darko-jake-gyllenhaal.jpg" width="3000" height="2000" />
 <p>Richard Kelly n&rsquo;a pas eu, à ce jour, de carrière phénoménale au cinéma et pourtant le réalisateur a commencé directement avec un excellent film. <em>Donnie Darko</em> est une œuvre étrange, quelque part entre l&rsquo;horreur, la science-fiction et le thriller psychologique. Inutile d&rsquo;essayer de le ranger dans une case, sa réussite s&rsquo;explique probablement par son côté inclassable. Jake Gyllenhaal est exceptionnel dans le rôle titre, la musique est excellente et <em>Donnie Darko</em> reste toujours aussi hypnotique et émouvant à la fois. Une belle réussite, pour sûr…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B005FGMBTM/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005FGMBTM">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000IB0K74/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000IB0K74">Acheter le film en DVD sur Amazon</a></li>

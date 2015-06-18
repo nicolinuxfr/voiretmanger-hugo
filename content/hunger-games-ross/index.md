@@ -28,7 +28,7 @@ original = "The Hunger Games"
 <img class="aligncenter" src="ross-hunger-games.jpg" alt="Ross hunger games" width="100%" />
 <p>Une bonne idée gâchée… tel est le sentiment qui domine en sortant de la salle. <em>Hunger Games</em> propose un scénario intéressant autour des jeux de télé-réalité et à défaut d&rsquo;être original — il m&rsquo;a fortement rappelé la saga <em>Wang</em> de Pierre Bordage —, il avait largement de quoi construire un blockbuster spectaculaire et prenant. Gary Ross est ainsi passé à côté de l&rsquo;essentiel en ne proposant pas un film divertissant. Dès lors, ce n&rsquo;est pas l&rsquo;amourette jamais crédible qui va sauver <em>Hunger Games</em>. Grosse déception, que l&rsquo;on ne recommandera même pas pour une séance dominicale en famille…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B007CGE9YS/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B007CGE9YS">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B007CGE5LU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B007CGE5LU">Acheter le film en DVD sur Amazon</a></li>

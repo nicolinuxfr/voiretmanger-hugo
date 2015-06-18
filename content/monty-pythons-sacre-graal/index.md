@@ -27,7 +27,7 @@ original = "Monty Python and the Holy Grail"
 <img class="aligncenter" src="holy-grail-monty-pythons.jpg" border="0" alt="holy-grail-monty-Python.jpg" width="690" height="372" />
 <p>Classique de la comédie britannique fondée sur l&rsquo;absurde, <em>Monty Python : Sacré Graal !</em> est une vraie réussite qui n&rsquo;a pas perdu de sa force. Si certains effets visuels ont un peu vieilli, l&rsquo;humour des Britanniques est toujours aussi efficace et reste, encore aujourd&rsquo;hui, une référence. À condition d&rsquo;accepter de ne pas tout comprendre, d&rsquo;accepter que la police puisse débarquer en pleine charge de chevaliers du Ve siècle, d&rsquo;accepter une discussion pour savoir si une hirondelle peut ramener une noix de coco du Sud… cette quête est un vrai bonheur, à consommer sans modération !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B006U8Y9CG/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B006U8Y9CG">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00008A8RX/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00008A8RX">Acheter le film en DVD sur Amazon</a></li>

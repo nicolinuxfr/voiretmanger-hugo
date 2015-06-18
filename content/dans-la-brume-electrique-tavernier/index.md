@@ -34,4 +34,4 @@ original = "In the Electric Mist"
 <li><a href="http://itunes.apple.com/fr/movie/dans-la-brume-electrique/id467362655">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_1476" class="footnote">Au passage, je recommande ses disques, ils sont vraiment très bien&#8230; [<a href="#identifier_0_1476" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_1476" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_1476" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_1476" class="footnote">Au passage, je recommande ses disques, ils sont vraiment très bien&#8230; [<a href="#identifier_0_1476" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_1476" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_1476" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

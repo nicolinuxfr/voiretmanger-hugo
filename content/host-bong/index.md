@@ -26,7 +26,7 @@ original = "Gwoemul"
 <img class="aligncenter" src="host-ko-ah-seong.jpg" alt="Host ko ah seong" title="host-ko-ah-seong.jpg" width="2100" height="1400" />
 <p><em>The Host</em> pourrait n&rsquo;être qu&rsquo;un film de monstres de plus, une œuvre assez banale où une bestiole quelconque terroriste la population avant d&rsquo;être heureusement décimée. Bong Joon-ho ne cède pas à cette facilité et propose au contraire un long-métrage très original et beaucoup plus complexe qu&rsquo;il n&rsquo;en a l&rsquo;air. Certes, on reste autour de l&rsquo;idée d&rsquo;une famille contre une créature, mais le scénario mélange les genres et glisse surtout une critique en règle du monde politique et de l&rsquo;armée américaine. Au total, <em>The Host</em> est bien plus intéressant qu&rsquo;il n&rsquo;en a l&rsquo;air, et c&rsquo;est une réussite totale. Que ce soit sur le plan technique, la réalisation et le montage parfaits, ou encore les acteurs excellents, c&rsquo;est un sans faute pour ce film qui se voit et se revoit avec plaisir.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001CRVY1E/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001CRVY1E">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000RO8TDO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000RO8TDO">Acheter le film en DVD sur Amazon</a></li>

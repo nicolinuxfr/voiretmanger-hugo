@@ -25,7 +25,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="robocop-nancy-allen-peter-weller.jpg" alt="Robocop nancy allen peter weller" title="robocop-nancy-allen-peter-weller.jpg" width="1567" height="1045" />
 <p>Paul Verhoeven signe son premier film américain avec <em>RoboCop</em>, mais le cinéaste hollandais n&rsquo;a pas totalement abandonné ses idées pour autant. Un réalisateur américain aurait-il proposé une critique aussi acerbe de la société d&rsquo;alors ? C&rsquo;est peut-être ce qui surprend le plus aujourd&rsquo;hui : nous sommes habitués aux blockbusters spectaculaires, mais souvent un peu lisses sur le fond. Ici, la technique ne permet pas toujours des rendus réalistes et spectaculaires — les scènes avec le robot filmé image par image ont très mal vieilli —, mais le scénario est rugueux. <em>RoboCop</em> n&rsquo;est pas un chef-d&rsquo;œuvre du septième art, mais il n&rsquo;est pas devenu un film culte sans raison.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00IZO4I4W/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IZO4I4W">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000091R3R/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000091R3R">Acheter le film en DVD sur Amazon</a></li>

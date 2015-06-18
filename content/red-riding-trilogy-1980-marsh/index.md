@@ -16,7 +16,7 @@ pays = [ "Grande-Bretagne" ]
 
 +++
 
-<p>Suite de <em>The Riding Trilogy</em>, après l&rsquo;introduction en <em><a href="http://voiretmanger.fr/2010/05/15/red-riding-trilogy-1974-jarrold/">1974</a></em>, l&rsquo;épisode <em>1980</em> éclaire de nombreuses zones d&rsquo;ombre tout en laissant encore plusieurs questions en suspens. Le film de James Marsh est moins fort que le précédent, certes, mais l&rsquo;intérêt pour l&rsquo;intrigue qui dévoile une corruption toujours plus importante et des enjeux que l&rsquo;on imagine énormes suffit à maintenir le suspense.</p>
+<p>Suite de <em>The Riding Trilogy</em>, après l&rsquo;introduction en <em><a href="/2010/05/15/red-riding-trilogy-1974-jarrold/">1974</a></em>, l&rsquo;épisode <em>1980</em> éclaire de nombreuses zones d&rsquo;ombre tout en laissant encore plusieurs questions en suspens. Le film de James Marsh est moins fort que le précédent, certes, mais l&rsquo;intérêt pour l&rsquo;intrigue qui dévoile une corruption toujours plus importante et des enjeux que l&rsquo;on imagine énormes suffit à maintenir le suspense.</p>
 <a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=173484.html" target="_blank"><img class="aligncenter" src="red-riding-trilogy-1980.jpg" border="0" alt="red-riding-trilogy-1980.jpg" width="690" height="928" /></a>
 <p style="text-align: center;"><strong>Note : difficile de ne rien révéler de l&rsquo;intrigue de la trilogie <em>Red Riding</em> sauf à ne rien dire. Si vous n&rsquo;avez pas pas vu <em>1974</em>, mieux vaut renoncer temporairement à la lecture de ce qui suit pour courir chez votre marchand préféré et acheter la trilogie.</strong></p>
 <p>Leurs titres ne laissent pas de place au doute, l&rsquo;action de <em>1980</em> se déroule six ans après les évènements de <em>1974</em>. Six ans et deux fois plus de meurtres qui agitent la région de Yorkshire. Un serial-killer frappe impunément des jeunes femmes et &laquo;&nbsp;l&rsquo;Éventreur&nbsp;&raquo; comme on l&rsquo;appelle soulève des vents de panique. Malin, le réalisateur commence par présenter des images d&rsquo;archives, ce tueur ayant vraiment <a href="http://en.wikipedia.org/wiki/Peter_Sutcliffe">existé</a>, l&rsquo;idéal pour bien camper le décor et surtout indiquer l&rsquo;ambiance de suspicion générale qui règne. La police est débordée et violemment critiquée tant par la presse que par les citoyens, tandis que l&rsquo;on affiche une lettre manuscrite supposée écrite par le tueur et que l&rsquo;on diffuse sa supposée voix pour permettre à quiconque de signaler un suspect.</p>
@@ -37,10 +37,10 @@ pays = [ "Grande-Bretagne" ]
 <hr />
 <ol>
 <li id="fn-3359-1">
-J&rsquo;évoquais, par exemple, ce sujet à propos du dernier <em><a href="http://voiretmanger.fr/harry-potter-et-le-prince-de-sang-mele-yates/">Harry Potter</a></em>…&#160;<a href="#fnref-3359-1" rev="footnote">&#8617;</a>
+J&rsquo;évoquais, par exemple, ce sujet à propos du dernier <em><a href="/harry-potter-et-le-prince-de-sang-mele-yates/">Harry Potter</a></em>…&#160;<a href="#fnref-3359-1" rev="footnote">&#8617;</a>
 </li>
 <li id="fn-3359-2">
-J&rsquo;écris cette chronique sans avoir vu <a href="http://voiretmanger.fr/red-riding-trilogy-1983-tucker/" title="The Red Riding Trilogy : 1983, Anand Tucker"><em>1983</em></a>, donc je me trompe peut-être totalement…&#160;<a href="#fnref-3359-2" rev="footnote">&#8617;</a>
+J&rsquo;écris cette chronique sans avoir vu <a href="/red-riding-trilogy-1983-tucker/" title="The Red Riding Trilogy : 1983, Anand Tucker"><em>1983</em></a>, donc je me trompe peut-être totalement…&#160;<a href="#fnref-3359-2" rev="footnote">&#8617;</a>
 </li>
 </ol>
 </div>

@@ -15,7 +15,7 @@ pays = [ "France" ]
 
 +++
 
-<p>Le jeune est à la fête au cinéma ! Après <em><a href="http://voiretmanger.fr/?p=1563">Les Beaux Gosses</a></em> la semaine dernière, cette semaine a vu la sortie de <em>Lascars</em>, un réjouissant film d&rsquo;animation français sur la banlieue et les fameux djeun&rsquo;s de banlieue. Au programme, une heure trente de rires, mais pas seulement.</p>
+<p>Le jeune est à la fête au cinéma ! Après <em><a href="/?p=1563">Les Beaux Gosses</a></em> la semaine dernière, cette semaine a vu la sortie de <em>Lascars</em>, un réjouissant film d&rsquo;animation français sur la banlieue et les fameux djeun&rsquo;s de banlieue. Au programme, une heure trente de rires, mais pas seulement.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"> </a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"></a></p>

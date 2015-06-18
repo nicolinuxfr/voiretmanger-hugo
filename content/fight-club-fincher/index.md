@@ -25,7 +25,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="fight-club-david-fincher.jpg" alt="Fight club david fincher" title="fight-club-david-fincher.jpg" width="2100" height="1400" />
 <p>On comprend sans peine pourquoi <em>Fight Club</em> était interdit aux moins de 16 ans à sa sortie en salles, beaucoup moins pourquoi la presse l&rsquo;a si unanimement boudé. Certes, David Fincher signe un film très sombre et violent, mais fait-il vraiment l&rsquo;apologie de cette violence, comme certains le lui ont reproché ? Le long-métrage est plus complexe que cela, notamment parce que le narrateur lutte contre Tyler dès lors que l&rsquo;on dépasse le stade des clubs de combats. <em>Fight Club</em> pose des questions gênantes sur notre société et les solutions proposées par son personnage ne le sont pas moins, mais ce n&rsquo;est pas une raison pour passer à côté. Bien au contraire, David Fincher trouve le ton juste et son film n&rsquo;est pas devenu culte pour rien. Une œuvre puissante et fascinante, que l&rsquo;on aurait vraiment tort d&rsquo;ignorer. À voir et à revoir, sans jamais oublier la toute première règle du club…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B005H3HXYQ/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005H3HXYQ">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00005AV4N/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00005AV4N">Acheter le film en DVD sur Amazon</a></li>

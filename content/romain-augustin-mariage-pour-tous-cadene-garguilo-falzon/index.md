@@ -31,4 +31,4 @@ pays = [ "France" ]
 <li><a href="https://itunes.apple.com/fr/book/romain-augustin-mariage-pour/id738359380?mt=11">Acheter la bande dessinée sur l’iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_10678" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10678" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_10678" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10678" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

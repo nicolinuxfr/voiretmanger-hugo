@@ -31,4 +31,4 @@ pays = [ "France" ]
 <li><a href="http://store.walrus-books.com/mon-donjon-mon-dragon/">Le livre sur le Walrus Bookstore</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_9842" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_9842" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_9842" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_9842" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

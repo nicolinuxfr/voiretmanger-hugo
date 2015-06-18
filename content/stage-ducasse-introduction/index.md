@@ -27,8 +27,8 @@ tag = [ "Stage Ducasse" ]
 <p>Encore merci donc, et j&rsquo;espère que je réussirai à vous intéresser avec ce petit programme !</p>
 <h2 id="839_plan-ou-lon-voit-les_1">Plan<sup><a href="#footnote_0_839" id="identifier_0_839" class="footnote-link footnote-identifier-link" title="O&ugrave; l&rsquo;on voit les ravages de la kh&acirc;gne&hellip;">1</a></sup></h2>
 <ul>
-<li><a href="http://voiretmanger.fr/2008/10/26/stage-ducasse-1/" title="En stage chez Ducasse : partie 1">Partie 1 : qu&rsquo;est-ce que la grande cuisine ?</a></li>
-<li><a href="http://voiretmanger.fr/2008/10/28/stage-ducasse-2/" title="En stage chez Ducasse : partie 2">Partie 2 : poissons et crustacés de chef !</a></li>
-<li><a href="http://voiretmanger.fr/2008/11/01/stage-chez-ducasse-3/" title="En stage chez Ducasse : partie 3">Partie 3 : un dessert de chef</a></li>
+<li><a href="/2008/10/26/stage-ducasse-1/" title="En stage chez Ducasse : partie 1">Partie 1 : qu&rsquo;est-ce que la grande cuisine ?</a></li>
+<li><a href="/2008/10/28/stage-ducasse-2/" title="En stage chez Ducasse : partie 2">Partie 2 : poissons et crustacés de chef !</a></li>
+<li><a href="/2008/11/01/stage-chez-ducasse-3/" title="En stage chez Ducasse : partie 3">Partie 3 : un dessert de chef</a></li>
 </ul>
 <ol class="footnotes"><li id="footnote_0_839" class="footnote">Où l&rsquo;on voit les ravages de la khâgne&#8230; [<a href="#identifier_0_839" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

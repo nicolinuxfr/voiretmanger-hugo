@@ -25,7 +25,7 @@ original = "Watchmen"
 <img class="aligncenter" src="watchmen-patrick-wilson-snyder.jpg" alt="Watchmen patrick wilson snyder" title="watchmen-patrick-wilson-snyder.jpg" width="2100" height="1400" />
 <p>Pour son troisième film, Zack Snyder s&rsquo;attaque à l&rsquo;univers des comics et il y apporte sa forme reconnaissable entre toutes. On pouvait craindre le pire, mais <em>Watchmen : les Gardiens</em> est une réussite, probablement parce que l&rsquo;œuvre originale est si forte et que le film lui est assez fidèle. La noirceur de cet univers et de ces superhéros à la retraite est très bien rendue et on apprécie toute la thématique autour du héros qui peut devenir le pire ennemi d&rsquo;une société. Pour la première fois, on voit des héros de comics profondément antipathiques et qui plus est misanthropes, mais c&rsquo;est ce qui les rend aussi intéressants et même attachants. <em>Watchmen : les Gardiens</em> est peut-être trop complexe pour rencontrer un public aussi large que les autres adaptations de comics, mais ça n&rsquo;en fait pas un film moins réussi pour autant. Bien au contraire…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B004IPWXS0/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B004IPWXS0">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B003AYPN7I/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B003AYPN7I">Acheter le film en DVD sur Amazon</a></li>

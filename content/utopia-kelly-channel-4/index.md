@@ -24,7 +24,7 @@ pays = [ "Grande-Bretagne" ]
 <img class="aligncenter" src="utopia-dennis-kelly.jpg" alt="Utopia dennis kelly" title="utopia-dennis-kelly.jpg" width="2100" height="1400" />
 <p>Même si ses incohérences l&rsquo;empêche d&rsquo;accéder au statut de grande série, <em>Utopia</em> reste suffisamment passionnante pour être conseillée les yeux fermés. À condition d&rsquo;accepter sa violence, cette série signée Dennis Kelly est une réussite dans l&rsquo;ensemble, ne serait-ce que pour sa proposition formelle radicale et… belle, tout simplement. Les couleurs de la campagne anglaise n&rsquo;ont jamais été aussi vives, ce qui donne à l&rsquo;ensemble un côté surréaliste très bien pensé. Et puis même si la deuxième saison d&rsquo;<em>Utopia</em> n&rsquo;est pas à la hauteur de la première, l&rsquo;ultime épisode est parfaitement réussi et ne donne qu&rsquo;une envie : poursuivre l&rsquo;expérience. Malheureusement, les mauvais scores avaient déjà fait leurs œuvres et la série ne connaîtra jamais de suite. Qu&rsquo;importe, ces douze épisodes valent le détour.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00B2OI0FU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00B2OI0FU">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00LU4TB2S/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00LU4TB2S">Acheter le film en DVD sur Amazon</a></li>

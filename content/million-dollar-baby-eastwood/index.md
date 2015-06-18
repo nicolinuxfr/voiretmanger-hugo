@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="million-dollar-baby-clint-eastwood-hillary-swank.jpg" alt="Million dollar baby clint eastwood hillary swank" title="million-dollar-baby-clint-eastwood-hillary-swank.jpg" width="2100" height="1400" />
 <p>Avec <em>Million Dollar Baby</em>, Clint Eastwood est sur tous les fronts : outre la réalisation et l&rsquo;un des rôles principaux, il est aussi producteur et même compositeur de <a href="http://www.amazon.fr/gp/product/B0007OC5F2/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0007OC5F2">la bande originale</a>. C&rsquo;est une position centrale dangereuse, mais le réalisateur est aussi bon que l&rsquo;acteur et le résultat est une réussite totale. Clint Eastwood a rassemblé ce qu&rsquo;il sait faire de mieux pour créer une œuvre puissante et poignante, dans un registre différent du western qui l&rsquo;a fait connaître.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001BXN8YU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001BXN8YU">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000A82IOS/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000A82IOS">Acheter le film en DVD sur Amazon</a></li>

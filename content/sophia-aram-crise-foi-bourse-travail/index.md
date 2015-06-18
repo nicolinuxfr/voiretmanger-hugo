@@ -31,4 +31,4 @@ lieu = [ "Bourse du Travail" ]
 <li><a href="https://itunes.apple.com/fr/podcast/le-billet-de-sophia-aram/id402463430?mt=2">Le billet de Sophia Aram sur France Inter en podcast</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_7774" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7774" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_7774" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7774" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

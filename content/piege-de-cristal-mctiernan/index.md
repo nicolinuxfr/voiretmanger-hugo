@@ -33,4 +33,4 @@ original = "Die Hard"
 <li><a href="https://itunes.apple.com/fr/movie/piege-de-cristal/id364888403">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_10068" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10068" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_10068" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10068" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

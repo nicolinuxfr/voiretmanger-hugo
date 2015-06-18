@@ -30,4 +30,4 @@ pays = [ "Canada" ]
 <li><a href="https://itunes.apple.com/fr/book/il-pleuvait-des-oiseaux/id476639429?mt=11">Télécharger le roman sur l’iBooks Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_11206" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_11206" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_11206" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_11206" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

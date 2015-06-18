@@ -33,4 +33,4 @@ Puis le plastique crève et mes doigts s’enfoncent crades dans l’une des mad
 <li><a href="http://www.publie.net/fr/ebook/9782814596467/coup-de-tete">Acheter le livre sur le site de l&rsquo;éditeur (ePub)</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_8853" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_8853" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_8853" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_8853" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

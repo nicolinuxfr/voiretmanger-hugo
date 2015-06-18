@@ -27,7 +27,7 @@ original = "V for Vendetta"
 <img class="aligncenter" src="v-pour-vendetta-natalie-portman.jpg" alt="V pour vendetta natalie portman" title="v-pour-vendetta-natalie-portman.jpg" width="2100" height="1400" />
 <p>On ne devient pas un film culte pour rien. Dans le cas de <em>V pour Vendetta</em>, ce n&rsquo;est sans doute pas la romance des deux personnages principaux qui l&rsquo;explique, mais peut-être plus la dystopie assez classique, mais diablement efficace. La bonne idée de Lana et Andy Wachowsky, c&rsquo;est d&rsquo;avoir mêlé références historiques (Allemagne nazie) et thématiques modernes (surveillance de masse, contrôle par les médias). Bien avant les révélations de Snowden sur la NSA, ce film pointait déjà ce problème, alors même qu&rsquo;il ignore totalement internet. Une bonne intuition, qui explique certainement la longévité de <em>V pour Vendetta</em> dans la culture populaire.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001927NAS/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001927NAS">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000HWXZS0/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000HWXZS0">Acheter le film en DVD sur Amazon</a></li>

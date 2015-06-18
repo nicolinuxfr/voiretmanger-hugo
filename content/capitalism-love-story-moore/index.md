@@ -38,4 +38,4 @@ pays = [ "États-Unis" ]
 <li><a href="http://itunes.apple.com/fr/movie/capitalism-a-love-story/id368868952">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_2143" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_2143" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_2143" class="footnote"><a href="/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_2143" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

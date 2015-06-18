@@ -37,4 +37,4 @@ pays = [ "France" ]
 <li><a href="http://itunes.apple.com/fr/movie/oceans-2009/id377453761">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_2862" class="footnote">Je crois que c&rsquo;est vraiment le cas d&rsquo;ailleurs, en tout cas ce garçon à aussi comme nom de famille Perrin. [<a href="#identifier_0_2862" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2862" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_2862" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_2862" class="footnote">Je crois que c&rsquo;est vraiment le cas d&rsquo;ailleurs, en tout cas ce garçon à aussi comme nom de famille Perrin. [<a href="#identifier_0_2862" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2862" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_2862" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

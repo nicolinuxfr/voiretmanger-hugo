@@ -27,7 +27,7 @@ pays = [ "Canada" ]
 <div style="text-align: center;"><img class="aligncenter" src="dolan-tue-ma-mere.jpg" alt="dolan-tue-ma-mere.jpg" width="690" height="459" border="0" /></div>
 <p><em>J&rsquo;ai tué ma mère</em> force vraiment le respect. Le sujet n&rsquo;était pas simple et aurait pu conduire à une comédie bateau sur l&rsquo;adolescent en conflit avec ses parents. Certes, le film de Xavier Dolan est cela, mais c&rsquo;est aussi une œuvre plus ambitieuse, partiellement autobiographique et portée par des choix esthétiques courageux. Si le film se révèle parfois un peu trop systématique — par exemple dans les cadrages décalés des dialogues —, <em>J&rsquo;ai tué ma mère</em> impressionne par sa maitrise de bout en bout et la maturité de son point de vue. Xavier Dolan est clairement un jeune artiste à suivre : à condition de ne pas s&rsquo;enfermer dans ce premier succès, il pourrait réaliser des œuvres passionnantes. Début de réponse avec <em>Amours imaginaires</em>, son prochain film.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002QBWS9W/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002QBWS9W">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/jai-tue-ma-mere/id385968549">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

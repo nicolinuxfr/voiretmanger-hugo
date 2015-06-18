@@ -34,4 +34,4 @@ pays = [ "France", "République Démocratique du Congo" ]
 <li><a href="http://www.amazon.fr/Staff-Benda-Bilili/e/B0020IY8E4/?_encoding=UTF8&tag=leblogdenic07-21&linkCode=ur2&camp=1642&creative=19458">Acheter la musique du groupe sur Amazon</a> (sur <a href="https://itunes.apple.com/fr/artist/staff-benda-bilili/id303307356">l&rsquo;iTunes Store</a>)</li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_3727" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_3727" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_3727" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_3727" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

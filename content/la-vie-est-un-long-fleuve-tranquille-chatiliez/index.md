@@ -28,4 +28,4 @@ pays = [ "France" ]
 <li><a href="https://itunes.apple.com/fr/album/la-vie-est-long-fleuve-tranquille/id368386843?i=368387004">Acheter la chanson <em>Jésus Reviens</em> sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_10130" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10130" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_10130" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10130" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

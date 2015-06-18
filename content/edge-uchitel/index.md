@@ -19,7 +19,7 @@ pays = [ "Russie" ]
 <p style="text-align: center;"><a href="http://www.lesarcs-filmfest.com/2010/accueil/"></p>
 <div style="text-align: center;"><img class="aligncenter" src="http://nicolasfurno.com/files/arcs-2010.jpg" alt="" width="690" height="338" /></div>
 <p></a></p>
-<p>Les trains sont à la mode au cinéma. Après la version américaine avec <em><a href="http://voiretmanger.fr/2010/11/20/unstoppable-scott/">Unstoppable</a></em>, c&rsquo;est au tour des Russes de proposer un film de train avec <em>The Edge</em>. Mais là où Tony Scott en tirait un blockbuster à l&rsquo;ancienne où le train devenait le monstre destructeur, Aleksei Uchitel choisit une voie très différente, quelque part entre le récit historique et le conte fantastique, avec toutefois le même amour pour les monstres d&rsquo;acier que sont les trains. Un film riche et passionnant.</p>
+<p>Les trains sont à la mode au cinéma. Après la version américaine avec <em><a href="/2010/11/20/unstoppable-scott/">Unstoppable</a></em>, c&rsquo;est au tour des Russes de proposer un film de train avec <em>The Edge</em>. Mais là où Tony Scott en tirait un blockbuster à l&rsquo;ancienne où le train devenait le monstre destructeur, Aleksei Uchitel choisit une voie très différente, quelque part entre le récit historique et le conte fantastique, avec toutefois le même amour pour les monstres d&rsquo;acier que sont les trains. Un film riche et passionnant.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=187847.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=187847.html"></p>
 <div style="text-align: center;"><img class="aligncenter" src="the-edje-kray.jpg" border="0" alt="the-edje-kray.jpg" width="690" height="981" /></div>

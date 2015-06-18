@@ -10,7 +10,7 @@ categorie = [ "Archives du blog" ]
 
 +++
 
-<p><strong>Depuis la publication de cet article, j&rsquo;ai publié <a href="http://voiretmanger.fr/etrange-histoire-benjamin-button-fincher/" title="L’Étrange Histoire de Benjamin Button, David Fincher">une nouvelle critique du film</a>. Cet article est conservé à titre d&rsquo;archive.</strong></p>
+<p><strong>Depuis la publication de cet article, j&rsquo;ai publié <a href="/etrange-histoire-benjamin-button-fincher/" title="L’Étrange Histoire de Benjamin Button, David Fincher">une nouvelle critique du film</a>. Cet article est conservé à titre d&rsquo;archive.</strong></p>
 <p>Ce soir, j&rsquo;ai enfin vu <em>L&rsquo;étrange histoire de Benjamin Button</em> par David Fincher. Depuis l&rsquo;excellent <em>Zodiac</em>, ce dernier est devenu le réalisateur à la mode, et l&rsquo;accueil critique quasi unanime sur ce nouveau film ne laissait présager que du bon. Malheureusement, les espoirs sont un peu déçus&#8230;</p>
 <div style="text-align: justify;"><img class="aligncenter" src="19028560.jpg" border="0" alt="19028560.jpg" width="551" height="734" /></div>
 <p><em>L&rsquo;étrange histoire de Benjamin Button</em>, adaptation très libre d&rsquo;une nouvelle de Fitzgerald, est d&rsquo;abord une idée géniale. Un nourrisson naît avec le corps d&rsquo;un nourrisson, mais l&rsquo;aspect d&rsquo;un vieillard de 80 ans, comme s&rsquo;il avait déjà vécu une vie. Puis il remonte le temps jusqu&rsquo;à mourir à 80 ans, mais avec l&rsquo;aspect d&rsquo;un nourrisson. Cet homme qui remonte le temps est une idée assez géniale, et elle l&rsquo;est d&rsquo;autant plus qu&rsquo;elle se croise avec la vie de la femme aimée qui, elle va, dans le bon sens.</p>
@@ -32,4 +32,4 @@ categorie = [ "Archives du blog" ]
 <li><a href="http://itunes.apple.com/fr/movie/letrange-histoire-benjamin/id384826485">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_1208" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1208" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_1208" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1208" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

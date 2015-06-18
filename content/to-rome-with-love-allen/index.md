@@ -16,7 +16,7 @@ pays = [ "États-Unis" ]
 
 +++
 
-<p><a href="http://voiretmanger.fr/match-point-allen/" title="Match Point, Woody Allen">Londres</a>, <a href="http://voiretmanger.fr/vicky-cristina-barcelona-woody-allen/" title="Vicky Cristina Barcelona, Woody Allen - À voir et à manger">Barcelone</a>, <a href="http://voiretmanger.fr/minuit-paris-allen/" title="Minuit à Paris, Woody Allen - À voir et à manger">Paris</a> et maintenant Rome. Woody Allen poursuit son tour d’Europe, mais poser ses caméras dans une ville semble être désormais sa seule idée. Si <em>Minuit à Paris</em> s’avérait décevant, il proposait quand même une idée originale avec le retour dans le passé du héros. En 2012, le cinéaste new-yorkais s’installe dans la capitale italienne avec <em>To Rome with Love</em> et avec une myriade de stars, à défaut d’idées. Malheureusement, de bons acteurs ne suffisent pas à masquer la vacuité de l’ensemble et même si on apprécie de revoir l’éternel personnage interprété par Woody Allen à l’écran, il faut bien convenir que son cru 2012 est très moyen.</p>
+<p><a href="/match-point-allen/" title="Match Point, Woody Allen">Londres</a>, <a href="/vicky-cristina-barcelona-woody-allen/" title="Vicky Cristina Barcelona, Woody Allen - À voir et à manger">Barcelone</a>, <a href="/minuit-paris-allen/" title="Minuit à Paris, Woody Allen - À voir et à manger">Paris</a> et maintenant Rome. Woody Allen poursuit son tour d’Europe, mais poser ses caméras dans une ville semble être désormais sa seule idée. Si <em>Minuit à Paris</em> s’avérait décevant, il proposait quand même une idée originale avec le retour dans le passé du héros. En 2012, le cinéaste new-yorkais s’installe dans la capitale italienne avec <em>To Rome with Love</em> et avec une myriade de stars, à défaut d’idées. Malheureusement, de bons acteurs ne suffisent pas à masquer la vacuité de l’ensemble et même si on apprécie de revoir l’éternel personnage interprété par Woody Allen à l’écran, il faut bien convenir que son cru 2012 est très moyen.</p>
 <blockquote><p>
   <a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=192634.html"><img class="aligncenter" src="to-rome-with-love-allen.jpg" alt="To rome with love allen" title="to-rome-with-love-allen.jpg" width="100%" /></a></div>
 </blockquote>
@@ -33,4 +33,4 @@ pays = [ "États-Unis" ]
 <li><a href="https://itunes.apple.com/fr/movie/to-rome-with-love-vost/id579447951">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_9786" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_9786" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_9786" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_9786" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

@@ -26,7 +26,7 @@ original = "Okami kodomo no ame to yuki"
 <img class="aligncenter" title="enfants-loups-hosoda.jpg" src="enfants-loups-hosoda.jpg" alt="Enfants loups hosoda" width="100%" />
 <p>Ne vous arrêtez pas à son point de départ, encore moins à sa bande-annonce : <em>Les Enfants Loups, Ame &amp; Yuki</em> mérite d&rsquo;être vu, même sans enfant. Mamoru Hosoda déploie une très belle histoire sur la différence, sur la famille et sur l&rsquo;apprentissage de la vie qui dépasse largement le statut d&rsquo;homme-loup de ses personnages. Un récit et un film très convaincants, à ne pas rater tant qu&rsquo;il est en salles (et en version originale de préférence, pour l&rsquo;ambiance).</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00C0VIQ9E/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00C0VIQ9E">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00C0VIQC6/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00C0VIQC6">Acheter le film en DVD sur Amazon</a></li>

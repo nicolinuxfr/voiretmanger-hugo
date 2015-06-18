@@ -23,7 +23,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="speed-keanu-reeves.jpg" alt="Speed keanu reeves" title="speed-keanu-reeves.jpg" width="1920" height="1280" />
 <p>Quand le dénouement s&rsquo;éloigne encore une fois, mais cette fois dans une rame de métro qui ne peut plus s&rsquo;arrêter, on peut considérer que <em>Speed</em> va un petit peu trop loin. Toutefois, cette troisième séquence de vitesse est l&rsquo;occasion d&rsquo;un ultime affrontement entre les deux personnages principaux et elle est assez rapide. Jan de Bont aurait peut-être gagné à raccourcir l&rsquo;ensemble, mais ne soyons pas injuste. <em>Speed</em> est déjà un excellent divertissement quand commence la partie dans le métro et celle-ci ne vient pas gâcher le plaisir que l&rsquo;on a éprouvé jusque-là. Un film incontournable si vous aimez l&rsquo;action simple et intense !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B000MZGS90/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000MZGS90">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00008IZB1/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00008IZB1">Acheter le film en DVD sur Amazon</a></li>

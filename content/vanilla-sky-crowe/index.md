@@ -26,7 +26,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" style="border-style: initial; border-color: initial; border-width: 0px;" src="tom-cruise-vanilla-sky.jpg" alt="Tom cruise vanilla sky" width="690" height="467" border="0" />
 <p>La première vision de <em>Vanilla Sky</em> est sans aucun doute la plus intéressante. Le spectateur est mené par le scénario qui joue avec ses attentes et ce qu&rsquo;il peut comprendre du film, avant d&rsquo;être contredit plusieurs fois jusqu&rsquo;au final qui change encore tout. La fin est malheureusement un peu trop explicite, mais le plaisir de s&rsquo;être fait manier en bateau est indéniable. Faut-il revoir le film de Cameron Crowe ? La surprise n&rsquo;est plus là, bien sûr, mais le drame ne manque pas d&rsquo;intérêt et l&rsquo;histoire d&rsquo;amour de David et Sofia reste assez touchante.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00005U8P6/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00005U8P6">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/vanilla-sky/id419326704">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

@@ -25,7 +25,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="michael-mann-heat.jpg" alt="Michael mann heat" title="michael-mann-heat.jpg" width="1920" height="1280" />
 <p>En signant lui-même le remake d&rsquo;un téléfilm qu&rsquo;il avait déjà réalisé dans les années 1980, Michael Mann prouve à nouveau qu&rsquo;il est l&rsquo;un des maîtres du thriller et du film de gangster. <em>Heat</em> ne brille pas par l&rsquo;originalité de son scénario, ce n&rsquo;est absolument pas son objectif. En revanche, le film est devenu culte par sa maîtrise formelle et son duo d&rsquo;acteurs exceptionnels. Pendant près de trois heures, on est pris par une confrontation au sommet, et c&rsquo;est un succès total. <em>Heat</em> fait partie de ces films qui n&rsquo;ont l&rsquo;air de rien sur le papier, mais que tout amateur de cinéma doit regarder au moins une fois. Un classique !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002NRBXWW/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002NRBXWW">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00004VYMT/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00004VYMT">Acheter le film en DVD sur Amazon</a></li>

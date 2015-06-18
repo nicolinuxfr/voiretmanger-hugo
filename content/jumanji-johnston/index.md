@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <div style="text-align:center;"><img class="aligncenter" src="jumanji-johnston-.jpg" alt="Jumanji johnston" title="jumanji-johnston-.jpg" width="1920" height="1280" /></div>
 <p><em>Jumanji</em> a mal vieilli sur le plan technique, c&rsquo;est incontestable, mais le plaisir procure par le long-métrage de Joe Johnston n&rsquo;a pas pris une ride. Le concept de base était très bon et le film peut aussi compter sur le talent de Robin Williams et des autres acteurs, en particulier la toute jeune Kirsten Dunst. Un remake est <em>a priori</em> prévu, et on imagine qu&rsquo;on aura des effets spéciaux bien plus réalistes, mais il n&rsquo;est pas dit que le résultat soit meilleur pour autant. Quoi qu&rsquo;il en soit, ce divertissement reste une valeur sûre que l&rsquo;on peut revoir aujourd&rsquo;hui, en famille.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B004VRK3ZU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B004VRK3ZU">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000C4AD56/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000C4AD56">Acheter le film en DVD sur Amazon</a></li>

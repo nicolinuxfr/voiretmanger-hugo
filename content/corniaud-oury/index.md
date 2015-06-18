@@ -25,7 +25,7 @@ pays = [ "France" ]
 <img class="aligncenter" src="corniaud-louis-de-funes.jpg" alt="Corniaud louis de funes" title="corniaud-louis-de-funes.jpg" width="100%" />
 <p>Devenu culte, comme tant de films avec Louis de Funès et Bourvil, <em>Le Corniaud</em> reste encore aujourd’hui une comédie très efficace et drôle. Gérard Oury n’a pas encore trouvé comment exploiter au maximum ses deux acteurs comiques, mais cette première collaboration s’avère fructueuse et ce n’est pas pour rien que <em>Le Corniaud</em> devient le plus grand succès au cinéma en 1965 et qu’il reste régulièrement diffusé à la télé. Un classique, à voir et à revoir sans modération.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002CXG7LO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002CXG7LO">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0000CARHK/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0000CARHK">Acheter le film en DVD sur Amazon</a></li>

@@ -11,7 +11,7 @@ tag = [ "Avant-première", "Places de ciné" ]
 
 +++
 
-<p><em>The Social Network</em>, voilà un film qui crée le buzz sur Internet depuis plusieurs mois. Le dernier film de <a href="http://voiretmanger.fr/createur/david-fincher/">David Fincher</a> (<em>Seven</em>, <em>Fight Club</em>…) évoque en effet un sujet bien connu des Internautes puisqu&rsquo;il ne s&rsquo;agit rien de moins que de la naissance de Facebook. Ce film s&rsquo;intéresse plus particulièrement à la vie de Mark Zuckerberg, cet étudiant américain de Harvard qui a eu l&rsquo;idée d&rsquo;un réseau social avant les autres et qui est devenu multimilliardaire aujourd&rsquo;hui. Un sujet passionnant, qui peut donner un excellent film.</p>
+<p><em>The Social Network</em>, voilà un film qui crée le buzz sur Internet depuis plusieurs mois. Le dernier film de <a href="/createur/david-fincher/">David Fincher</a> (<em>Seven</em>, <em>Fight Club</em>…) évoque en effet un sujet bien connu des Internautes puisqu&rsquo;il ne s&rsquo;agit rien de moins que de la naissance de Facebook. Ce film s&rsquo;intéresse plus particulièrement à la vie de Mark Zuckerberg, cet étudiant américain de Harvard qui a eu l&rsquo;idée d&rsquo;un réseau social avant les autres et qui est devenu multimilliardaire aujourd&rsquo;hui. Un sujet passionnant, qui peut donner un excellent film.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=147912.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=147912.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=147912.html"></a></p>

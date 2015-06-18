@@ -25,7 +25,7 @@ original = "Troy"
 <img class="aligncenter" src="troie-brad-pitt.jpg" alt="Troie brad pitt" title="troie-brad-pitt.jpg" width="2048" height="1365" />
 <p><em>Troie</em> est un péplum à l&rsquo;ancienne, spectaculaire par moment, c&rsquo;est vrai, mais sans doute trop classique à beaucoup d&rsquo;autres moments. Dans sa relecture de <em>L&rsquo;Iliade</em>, Wolfgang Petersen excelle quand deux hommes s&rsquo;affrontent et il parvient aussi assez bien à rendre l&rsquo;ampleur des batailles d&rsquo;alors. Par ailleurs, quelques personnages clés — Achille en tête — sont bien dessinés et assez passionnants, même s&rsquo;ils n&rsquo;ont rien à voir avec les versions mythiques telles qu&rsquo;on les connaît, grâce à Homère. Malgré ces bons moments, le bilan reste mitigé pour <em>Troie</em> qui souffre d&rsquo;une vision trop classique du péplum et de personnages trop mal dessinés. Quant à la guerre en elle-même, elle est bien trop simplifiée et caricaturale pour convaincre, et c&rsquo;est bien dommage.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001927NBC/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001927NBC">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0002V5Z5M/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0002V5Z5M">Acheter le film en DVD sur Amazon</a></li>

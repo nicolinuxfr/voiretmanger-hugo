@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="knick-clive-owen-andre-holland.jpg" alt="Knick clive owen andre holland" title="knick-clive-owen-andre-holland.jpg" width="2100" height="1400" />
 <p>Naturellement, <em>The Knick</em> compte aussi sur ses interprètes et en premier lieu par Clive Owen. L&rsquo;acteur, que l&rsquo;on avait plutôt l&rsquo;habitude de voir dans des longs-métrages, excelle dans le rôle principal du chirurgien le plus célèbre et le plus respecté de l&rsquo;hôpital. Autour de lui, les autres acteurs s&rsquo;en sortent également très bien, pour une première saison bien équilibrée. On a hâte de voir la suite, mais en attendant, Jack Amiel et Michael Begler ont réussi leur coup. En incluant Steven Soderbergh à la réalisation, ils offrent à leur série une maîtrise formelle impeccable d&rsquo;un bout à l&rsquo;autre. Bilan sans appel : <em>The Knick</em> est une série très prometteuse !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="https://itunes.apple.com/fr/tv-season/the-knick-saison-1-vost/id938148396">Acheter ou louer la série sur l&rsquo;iTunes Store</a></li>
 </ul>

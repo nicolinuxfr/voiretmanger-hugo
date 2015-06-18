@@ -25,7 +25,7 @@ original = "Oldeuboi"
 <img class="aligncenter" src="old-boy-choi-min-sik-park-chan-wook.jpg" alt="Old boy choi min sik park chan wook" title="old-boy-choi-min-sik-park-chan-wook.jpg" width="1920" height="1280" />
 <p>Rares sont les films qui vont aussi loin dans la violence, mais ceux qui combinent à ce point là visuel et psychologie. On en prend plein la vue, avec quelques images difficiles à supporter, mais ce n&rsquo;est pas encore le pire. <em>Old Boy</em> impressionne surtout par cette histoire de vengeance si disproportionnée, si inhumaine même, qu&rsquo;elle laisse forcément des traces. Avec sa mise en scène osée — la fameuse scène de combat tournée comme un unique et long plan séquence est un grand moment de cinéma —, Park Chan-wook réalise un grand film, mais il faut bien avoir conscience que ce n&rsquo;est pas une œuvre toujours agréable à regarder. Mais c&rsquo;est aussi une réussite totale dans le genre, à (re)découvrir !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B006LNABFO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B006LNABFO">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B006LNAAGE/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B006LNAAGE">Acheter le film en DVD sur Amazon</a></li>

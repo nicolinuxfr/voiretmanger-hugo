@@ -25,7 +25,7 @@ original = "The Lego Movie"
 <div style="text-align:center;"><img class="aligncenter" src="grande-aventure-lego-miller-lord.jpg" alt="Grande aventure lego miller lord" title="grande-aventure-lego-miller-lord.jpg" width="2100" height="1400" /></div>
 <p>Difficile de ne pas s’enthousiasmer face à ce spectacle de qualité conçu exclusivement avec les briques des Lego. Loin de l’excuse marketing que l’on pouvait craindre, cette contrainte est certainement la meilleure chose qui pouvait arriver à <em>La Grande Aventure Lego</em>. Phil Lord et Chris Miller l’ont exploité pour développer encore plus leur univers et le résultat est époustouflant. L’animation de briques Lego uniquement est techniquement très réussie et surtout le film est drôle, souvent très drôle même. La fin n’est peut-être pas aussi réussie, mais qu’importe : <em>La Grande Aventure Lego</em> est un film extrêmement plaisant, à voir à tout âge pour passer un excellent moment !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00IIOW026/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IIOW026">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00IIOVZ1S/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IIOVZ1S">Acheter le film en DVD sur Amazon</a></li>

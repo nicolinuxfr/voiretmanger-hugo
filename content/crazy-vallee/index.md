@@ -24,7 +24,7 @@ pays = [ "Canada" ]
 <img class="aligncenter" src="crazy-marc-andre-gondrin-michel-cote.jpg" alt="Crazy marc andre gondrin michel cote" title="crazy-marc-andre-gondrin-michel-cote.jpg" width="2100" height="1400" />
 <p><em>C.R.A.Z.Y.</em> trouve le ton juste et c&rsquo;est ce qui explique la réussite du film. Son sujet n&rsquo;est pas très original, son traitement non plus, mais qu&rsquo;importe : Jean-Marc Vallée parvient à dessiner des personnages crédibles et on en vient à oublier cette famille particulière et son contexte. Porté par des acteurs convaincants et une bande-son qui mérite à elle seule le détour, le long-métrage est une vraie réussite ! Même si le sujet ne vous intéresse pas <em>a priori</em>, ne passez pas à côté de <em>C.R.A.Z.Y.</em>, vous le regretteriez…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001AZ5IW4/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001AZ5IW4">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000ICMFWG/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000ICMFWG">Acheter le film en DVD sur Amazon</a></li>

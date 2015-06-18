@@ -25,7 +25,7 @@ original = "Rounders"
 <img class="aligncenter" src="joueurs-john-malkovich.jpg" alt="Joueurs john malkovich" title="joueurs-john-malkovich.jpg" width="1920" height="1280" />
 <p>Classique, mais bien mené, <em>Les Joueurs</em> mérite d&rsquo;être vu, que vous aimiez le poker — son statut de film culte doit alors jouer en sa faveur — ou non. Ses acteurs sont convaincants, tout comme son scénario classique, mais prenant : John Dahl a fait un bon travail sur ce film injustement boudé à sa sortie. Ce n&rsquo;est pas du grand cinéma, certes, mais un divertissement plaisant, à découvrir !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B007MFUG8M/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B007MFUG8M">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0057YFX4M/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0057YFX4M">Acheter le film en DVD sur Amazon</a></li>
@@ -37,7 +37,7 @@ original = "Rounders"
 <hr />
 <ol>
 <li id="fn-13330-1">
-Le nom de John Dahl ne vous dit sans doute rien, mais on le croise dans plusieurs séries récentes, de <a href="http://voiretmanger.fr/breaking-bad-gilligan/" title="Breaking Bad, Vince Gilligan (AMC)"><em>Breaking Bad</em></a> à <a href="http://voiretmanger.fr/house-of-cards-willimon-netflix/" title="House of Cards, Beau Willimon (Netflix)"><em>House of Cards</em></a>, en passant par <em>Dexter</em> ou encore <a href="http://voiretmanger.fr/battlestar-galactica-moore/" title="Battlestar Galactica, Ronald D. Moore (SyFy)"><em>Battlestar Galactica</em></a>. On connaît, au fond, assez mal les réalisateurs des épisodes de séries.&#160;<a href="#fnref-13330-1" rev="footnote">&#8617;</a>
+Le nom de John Dahl ne vous dit sans doute rien, mais on le croise dans plusieurs séries récentes, de <a href="/breaking-bad-gilligan/" title="Breaking Bad, Vince Gilligan (AMC)"><em>Breaking Bad</em></a> à <a href="/house-of-cards-willimon-netflix/" title="House of Cards, Beau Willimon (Netflix)"><em>House of Cards</em></a>, en passant par <em>Dexter</em> ou encore <a href="/battlestar-galactica-moore/" title="Battlestar Galactica, Ronald D. Moore (SyFy)"><em>Battlestar Galactica</em></a>. On connaît, au fond, assez mal les réalisateurs des épisodes de séries.&#160;<a href="#fnref-13330-1" rev="footnote">&#8617;</a>
 </li>
 </ol>
 </div>

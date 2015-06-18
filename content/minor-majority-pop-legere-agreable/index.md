@@ -22,7 +22,7 @@ weight = 2008
 <p>La musique de Minor Majority ne révolutionne rien du tout, c&rsquo;est le moins que l&rsquo;on puisse dire. Ça n&rsquo;est de toute façon pas son but et l&rsquo;on reste ici en terrain connu : les voix se posent sur des guitares sèches souvent accompagnées de piano et/ou de cordes. Les chœurs sont souvent présents tandis qu&rsquo;apparaît, de temps à autre, la batterie. Bref, rien d&rsquo;original, mais un ensemble diablement efficace pour les longues soirées d&rsquo;hiver.</p>
 <p>C&rsquo;est, en effet, un album réjouissant que cet album et je suis content de l&rsquo;avoir découvert. Si j&rsquo;aime l&rsquo;expérimentation, écoutant des choses parfois très bizarroïdes, j&rsquo;aime aussi, de temps en temps, me poser et écouter des groupes plus accessibles, plus immédiats, plus pop. Maintenant que j&rsquo;y pense, Minor Majority me rappelle l&rsquo;un de mes groupes préférés dans le genre, les Tindersticks. Mais aussi, dans une moindre mesure, toute l&rsquo;œuvre de Will Oldham (Bonnie Prince Billy, Palace Music, etc.).</p>
 <p style="text-align: center;"><img class="size-full wp-image-957 aligncenter" title="wallpaper_polariod_1024" src="wallpaper_polariod_1024.jpg" alt="" width="456" height="291" /></p>
-<p>Bref, de belles références pour un groupe qui, <a href="http://voiretmanger.fr/index.php/2008/11/06/ez3kiel-groupe-qui-gagnerait-a-etre-connu/">lui aussi</a>, gagnerait à être connu.</p>
+<p>Bref, de belles références pour un groupe qui, <a href="/index.php/2008/11/06/ez3kiel-groupe-qui-gagnerait-a-etre-connu/">lui aussi</a>, gagnerait à être connu.</p>
 <p>
 <h2 id="955_pour-en-savoir-plus_1">Pour en savoir plus&#8230;</h2>
 <ul>

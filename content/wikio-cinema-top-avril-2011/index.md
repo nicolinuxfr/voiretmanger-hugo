@@ -95,7 +95,7 @@ tag = [ "Blogosphère", "Wikio" ]
 </tr>
 <tr class="bg">
 <td class="td1" width="30" valign="top">20</td>
-<td class="td2"><a rel="nofollow" href="http://voiretmanger.fr/" target="_blank">Le blog de Nicolinux</a></td>
+<td class="td2"><a rel="nofollow" href="/" target="_blank">Le blog de Nicolinux</a></td>
 </tr>
 </tbody>
 </table>

@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="prisoners-ugh-jackman.jpg" alt="Prisoners ugh jackman" title="prisoners-ugh-jackman.jpg" width="100%" />
 <p><em>Prisoners</em> n’est sans doute pas le chef d’œuvre de l’année, mais le dernier film de Denis Villeneuve n’est certainement pas un blockbuster de plus. Avec ce thriller intense, le cinéaste compose un long-métrage particulièrement prenant, au scénario dense et bien écrit, et à l’ambiance étouffante à souhait. Sans en avoir l’air, le réalisateur canadien signe un excellent film, à ne pas rater…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00GXDRG2I/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00GXDRG2I">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00FQLSJII/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00FQLSJII">Acheter le film en DVD sur Amazon</a></li>

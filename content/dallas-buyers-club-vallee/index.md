@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="dallas-buyers-club-jared-leto-jennifer-garner.jpg" alt="Dallas buyers club jared leto jennifer garner" title="dallas-buyers-club-jared-leto-jennifer-garner.jpg" width="1800" height="1200" />
 <p>Jean-Marc Vallée a trouvé une histoire passionnante pour nous parler des années SIDA autrement et <em>Dallas Buyers Club</em> est une réussite totale. Le récit est captivant, l’ambiance de peur face à une maladie que l’on ne connaît pas est bien rendue, mais c’est surtout les performances de deux acteurs qui permettent au film d’être aussi réussi. L’ensemble forme en tout cas un long-métrage à ne surtout pas rater !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00IXJFK2S/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IXJFK2S">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00IXJFIXO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IXJFIXO">Acheter le film en DVD sur Amazon</a></li>

@@ -24,7 +24,7 @@ pays = [ "Canada" ]
 <div style="text-align:center;"><img class="aligncenter" src="gerontophilia-labruce-pier-gabriel-lajoie-walter-borden.jpg" alt="Gerontophilia labruce pier gabriel lajoie walter borden" title="gerontophilia-labruce-pier-gabriel-lajoie-walter-borden.jpg" width="1500" height="1000" /></div>
 <p>Un très beau film : c’est la première idée qui revient après avoir vu <em>Gerontophilia</em>. Bruce LaBruce a sans conteste changé de genre avec ce nouveau long-métrage qui abandonne les idées un peu étranges et le sexe explicite au profit d’une histoire d’amour atypique, mais parfaitement crédible et totalement pudique. Grâce, notamment, au talent de son acteur principal, le cinéaste propose une belle histoire qui vient affronter les clichés que l’on avait tous plus ou moins. Ne serait-ce que pour cette raison, <em>Gerontophilia</em> mérite d’être vu.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00M262K4O/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00M262K4O">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/gerontophilia/id919909081">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

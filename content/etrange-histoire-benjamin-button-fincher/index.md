@@ -25,7 +25,7 @@ original = "The Curious Case of Benjamin Button"
 <img class="aligncenter" src="brad-pitt-cate-blanchett-benjamin-button.jpg" alt="Brad pitt cate blanchett benjamin button" title="brad-pitt-cate-blanchett-benjamin-button.jpg" width="2100" height="1400" />
 <p><em>L&rsquo;Étrange Histoire de Benjamin Button</em> est construit à partir d&rsquo;un point de départ vraiment bien trouvé, mais cela ne suffisait pas à en faire un bon film. Heureusement, David Fincher a su construire le long-métrage qu&rsquo;il fallait autour de cette idée et le résultat est réjouissant. Porté par la <a href="http://www.amazon.fr/gp/product/B001KZBKD0/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001KZBKD0">musique</a> très conventionnelle, mais totalement appropriée, d&rsquo;Alexandre Desplat, la septième réalisation de David Fincher est une vraie réussite, à (re)voir avec beaucoup de plaisir !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001Q9EKGO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001Q9EKGO">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B001Q9EKGE/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001Q9EKGE">Acheter le film en DVD sur Amazon</a></li>

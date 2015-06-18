@@ -23,7 +23,7 @@ original = "28 Days Later"
 <img class="aligncenter" src="28-jours-plus-tard-brendan-gleeson.jpg" alt="28 jours plus tard brendan gleeson" title="28-jours-plus-tard-brendan-gleeson.jpg" width="1920" height="1280" />
 <p>Même s&rsquo;il est techniquement en retrait, <em>28 jours plus tard</em> n&rsquo;a pas démérité son statut de film culte. Danny Boyle a effectivement su renouveler le genre avec ce long-métrage inspiré par les classiques de l&rsquo;horreur et des zombies, mais dans une version beaucoup plus nerveuse. Dans le rôle principal, Cillian Murphy est parfait et la bande-originale est parfaitement adaptée, avec l&rsquo;excellent choix d&rsquo;un morceau de Godspeed You! Black Emperor pour illustrer la découverte du Londres dévasté. Une douzaine d&rsquo;années après sa sortie, <em>28 jours plus tard</em> reste toujours aussi fort et mérite ainsi d&rsquo;être (re)vu, à condition d&rsquo;aimer les zombies et les séquences un peu gores…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B004818OW8/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B004818OW8">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0002B5DCC/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0002B5DCC">Acheter le film en DVD sur Amazon</a></li>

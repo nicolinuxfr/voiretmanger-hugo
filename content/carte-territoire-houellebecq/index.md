@@ -36,4 +36,4 @@ pays = [ "France" ]
 <li><a href="http://itunes.apple.com/fr/book/la-carte-et-le-territoire/id461102404?mt=11">Télécharger le livre sur l&rsquo;iBookstore</a> (<a href="http://www.amazon.fr/gp/product/B005PKSJO4/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005PKSJO4">format Kindle</a>)</li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_4606" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_4606" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_4606" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_4606" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

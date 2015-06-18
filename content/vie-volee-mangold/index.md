@@ -25,7 +25,7 @@ original = "Girl"
 <img class="aligncenter" src="vie-volee-angelina-jolie.jpg" alt="Vie volee angelina jolie" title="vie-volee-angelina-jolie.jpg" width="2100" height="1400" />
 <p>James Mangold n&rsquo;évite pas certains travers des mélodrames, à commencer par une musique un petit peu trop larmoyante et un petit peu trop présente. C&rsquo;est surtout sur la fin que l&rsquo;on ressent le plus cette présence un petit peu écrasante, mais il n&rsquo;empêche que le long-métrage mérite malgré tout d&rsquo;être vu. <em>Une vie volée</em> tient entièrement sur les épaules de ses actrices et à défaut d&rsquo;être un grand film sur la folie, c&rsquo;est un drame convaincant.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B0033RA4NA/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0033RA4NA">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/une-vie-volee/id374144545?l=en">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

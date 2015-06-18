@@ -23,7 +23,7 @@ original = "There's Something about Mary"
 <img class="aligncenter" src="mary-a-tout-prix-matt-dillon-ben-stiller-lee-evans.jpg" alt="Mary a tout prix matt dillon ben stiller lee evans" title="mary-a-tout-prix-matt-dillon-ben-stiller-lee-evans.jpg" width="2048" height="1365" />
 <p><em>Mary à tout prix</em> est devenu instantanément culte et ce n&rsquo;est pas un hasard : les frères Farrelly ont créé une excellente comédie romantique loufoque, où les gags les plus énormes se succèdent sans jamais montrer de signe de faiblesse. Naturellement, on pourra trouver que c&rsquo;est un peu trop gros, voire grossier, mais on ne peut que saluer les performances des acteurs, Ben Stiller en tête, et aussi reconnaître que l&rsquo;humour n&rsquo;est pas trop présent. <em>Mary à tout prix</em> sait ménager ses effets avec des pauses bienvenues entre les scènes comiques, et c&rsquo;est extrêmement bien vu. Un classique !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001W2YZ88/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001W2YZ88">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0006MRM5S/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0006MRM5S">Acheter le film en DVD sur Amazon</a></li>

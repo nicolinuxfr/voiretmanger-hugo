@@ -27,7 +27,7 @@ pays = [ "France" ]
 <p><em>L&rsquo;Apollonide, souvenirs de la maison close</em> plonge le spectateur dans l&rsquo;univers d&rsquo;une maison close, et c&rsquo;est une plongée des plus agréables, même si les corps féminins nus ne sont pas votre tasse de thé (sinon, vous serez servis). Cet univers qui rappelle un peu les tableaux de la même époque est vraiment séduisant et souvent magnifique, le ballet de corps féminins et masculins réjouissant. Bertrand Bonello ne fait pas un film politique doté d&rsquo;un message, mais sa conclusion remet en perspective tout ce qui précède. Même si l&rsquo;Apollonide est une maison close de luxe qui n&rsquo;est pas forcément représentative de toutes les maisons de l&rsquo;époque, elle montre bien toutefois que leur fermeture n&rsquo;était pas nécessairement la meilleure solution. Un beau film, sensuel et intelligent, à ne pas rater.</p>
 <p><em>Article 400 du blog !</em></p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B0065JBFNQ/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0065JBFNQ">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/lapollonide-souvenirs-la-maison/id491611379">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

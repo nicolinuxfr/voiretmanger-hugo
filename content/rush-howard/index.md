@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="rush-daniel-bruhl.jpg" alt="Rush daniel bruhl" title="rush-daniel-bruhl.jpg" width="100%" />
 <p><em>Rush</em> est un blockbuster avec tout ce qu’il implique de conventions — envolées lyriques un peu trop appuyées, scénario parfois un peu caricatural —, mais cela n’enlève rien à sa puissance. Que l’on aime ou non la Formule 1, on ne peut qu’être happé par l’intensité de ces courses où les pilotes risquent tout, jusqu’à leur vie, par amour du sport. Ron Howard a parfaitement su capter cette détermination et c’est sans doute ce qui explique la réussite de son dernier long-métrage, tandis que l’histoire de ces deux pilotes pas si différents est passionnante. Pas un grand film, non, mais du grand spectacle techniquement réussi qui mérite d’être vu…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00F4T4DOG/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00F4T4DOG">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00IXZGB7A/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IXZGB7A">Acheter le film en DVD sur Amazon</a></li>

@@ -34,4 +34,4 @@ pays = [ "États-Unis" ]
 <li><a href="http://www.amazon.fr/gp/product/B007HR6OEU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B007HR6OEU">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_7145" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7145" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_7145" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7145" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

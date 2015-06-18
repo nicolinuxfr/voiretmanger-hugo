@@ -24,7 +24,7 @@ pays = [ "États-Unis", "Pays-Bas" ]
 <img class="aligncenter" src="araki-mysterious-skin.jpg" alt="Araki mysterious skin" title="araki-mysterious-skin.jpg" width="2100" height="1400" />
 <p>Troublant, c&rsquo;est peut-être le meilleur terme pour caractériser <em>Mysterious Skin</em>. Le sujet est difficile, mais son traitement l&rsquo;est encore plus. En choisissant exclusivement le point de vue des deux hommes qui en été victime de viol quand ils étaient jeunes, Gregg Araki ne porte pas de jugement de valeur et laisse même entendre que les garçons en question ont pu apprécier ce qui s&rsquo;est passé. Le long-métrage montre bien les conséquences désastreuses de ces abus sexuels, mais le trouble reste présent malgré tout. Joseph Gordon-Levitt, excellent dans son rôle de jeune homme qui ne peut se défaire du sexe, est en grande partie responsable de ce trouble et, à l&rsquo;heure des bilans, le succès de <em>Mysterious Skin</em> lui doit beaucoup. Gregg Araki signe une œuvre qui fait froid dans le dos, mais c&rsquo;est bien le signe que c&rsquo;est une réussite.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001A5RF66/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001A5RF66">Acheter le film en DVD sur Amazon</a></li>
 </ul>

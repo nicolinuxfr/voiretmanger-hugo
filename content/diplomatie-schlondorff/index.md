@@ -24,7 +24,7 @@ pays = [ "Allemagne", "France" ]
 <div style="text-align:center;"><img class="aligncenter" src="diplomatie-schlondorff-andre-dussollier.jpg" alt="Diplomatie schlondorff andre dussollier" title="diplomatie-schlondorff-andre-dussollier.jpg" width="1800" height="1200" /></div>
 <p><em>Diplomatie</em> n’a pas vocation à être un chef d’œuvre et le dernier long-métrage de Volker Schlöndorff ne fait pas preuve de cette ambition démesurée. Modestement, il imagine une confrontation historique qui n’a jamais eu lieu, mais qui est parfaitement crédible et c’est encore le plus important. Porté par deux acteurs exceptionnels, tout simplement, <em>Diplomatie</em> se regarde avec grand plaisir et avec une tension que l’on n’attendait pas. Une belle manière d’aborder l’Histoire, d’autant plus belle pour un épisode historique aussi mal connu.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00IXJFHUS/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IXJFHUS">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00IXJFGP4/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00IXJFGP4">Acheter le film en DVD sur Amazon</a></li>

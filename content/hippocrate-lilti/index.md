@@ -24,7 +24,7 @@ pays = [ "France" ]
 <img class="aligncenter" src="hippocrate-reda-kateb.jpg" alt="Hippocrate reda kateb" title="hippocrate-reda-kateb.jpg" width="2100" height="1400" />
 <p>Thomas Lilti peut compter sur ses deux acteurs principaux pour réussir sa comédie dramatique. Vincent Lacoste est épatant dans son rôle de jeune interne qui doit affronter un choix de carrière difficile, mais qui doit aussi se confronter au poids parfois important de son père. Reda Kateb est lui aussi parfait dans ce rôle de médecin étranger poussé par une passion incontestable pour la médecine, quitte à faire les mauvais choix de carrière. La réussite de <em>Hippocrate</em> leur doit incontestablement beaucoup, mais il faut aussi saluer le travail d&rsquo;écriture du scénario qui s&rsquo;éloigne des caricatures du genre, pour constituer des dialogues toujours réalistes et très bien écrits. Ce deuxième long-métrage est une réussite pour Thomas Lilti et on a hâte de voir ce que le cinéaste nous réserve à l&rsquo;avenir…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00NERTUMU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00NERTUMU">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00N43LSRE/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00N43LSRE">Acheter le film en DVD sur Amazon</a></li>

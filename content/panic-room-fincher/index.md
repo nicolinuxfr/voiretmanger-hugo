@@ -25,7 +25,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="panic-room-forrest-whitaker.jpg" alt="Panic room forrest whitaker" title="panic-room-forrest-whitaker.jpg" width="1920" height="1280" />
 <p>Avec très peu d&rsquo;éléments, David Fincher parvient à tirer un film prenant et suffisamment cohérent pour qu&rsquo;on le suive avec beaucoup de plaisir. <em>Panic Room</em> est parfois un petit peu tiré par les cheveux, c&rsquo;est vrai, mais on se prend au jeu malgré tout et on craint pour les personnages. Dans le coffre, Jodie Foster assure son rôle de mère avec une pointe de folie qui convient très bien au personnage, tandis que Kristen Stewart à ses côtés est méconnaissable. De l&rsquo;autre côté, les trois malfrats sont convaincants, de Forest Whitaker à Jared Leto, en passant par le plus rare Dwight Yoakam. Parfaitement maîtrisé, souvent bluffant sur le plan technique, <em>Panic Room</em> est un vrai plaisir à (re)voir !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00017NUZO/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00017NUZO">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/panic-room/id369793479">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>

@@ -33,4 +33,4 @@ pays = [ "États-Unis" ]
 <li><a href="https://itunes.apple.com/fr/movie/the-company-men/id440052880">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_4678" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_4678" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_4678" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_4678" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

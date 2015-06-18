@@ -23,7 +23,7 @@ pays = [ "États-Unis" ]
 <img class="aligncenter" src="chefs-table-niki-nakayama.jpeg" alt="Chefs table niki nakayama" title="chefs-table-niki-nakayama.jpeg" width="2100" height="1400" />
 <p>Parfois, <em>Chef&rsquo;s Table</em> y parvient complètement et certains épisodes sont vraiment excellents, en particulier celui sur Niki Nakayama qui dresse un portrait très juste et passionnant. D&rsquo;autres fois, c&rsquo;est un peu moins réussi : celui de Ben Shewry nous parle plus de sa famille et de l&rsquo;équipe de basket de son fils, alors qu&rsquo;on aimerait en savoir beaucoup plus sur sa cuisine et ses expérimentations, chaque mardi. Quant au portrait de Massimo Bottura, il est un petit peu trop lisse pour ne pas paraître suspect. Celui de Dan Barber est plus réussi et le segment sur Francis Mallmann est vraiment fascinant. Dans l&rsquo;ensemble, David Gelb a signé une série de haute volée sur le plan technique et qui parvient toujours à intéresser. <em>Chef&rsquo;s Table</em> présente des chefs très différents, mais avec des points communs fascinants. La quête d&rsquo;excellence, la volonté constante de se surpasser, l&rsquo;envie de prouver au monde sa réussite, mais aussi un certain isolement. Peut-on réussir dans ce domaine sans perdre sa famille ? Chaque cuisiner a une réponse différente à cette question, mais si David Gelb parvient à nous donner faim avec sa série, il ne devrait pas créer beaucoup de vocations.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.netflix.com/WiMovie/80007945?trkid=50263268">Regarder le film sur Netflix</a></li>
 </ul>

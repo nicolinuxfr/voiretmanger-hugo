@@ -25,7 +25,7 @@ original = "Collateral"
 <img class="aligncenter" src="collateral-jada-pinkett-smith-jamie-foxx.jpg" alt="Collateral jada pinkett smith jamie foxx" title="collateral-jada-pinkett-smith-jamie-foxx.jpg" width="2048" height="1365" />
 <p>Michael Mann n&rsquo;opte pas pour des caméras numériques dans <em>Collatéral</em> uniquement pour le plaisir de la nouveauté. Les plans nocturnes de Los Angeles sont indéniablement splendides et ils offrent au film une ambiance que l&rsquo;on a l&rsquo;habitude de voir au cinéma, mais qui était nouvelle à sa sortie. Porté par deux acteurs au meilleur de leur forme, ce film est très simple et c&rsquo;est aussi précisément pour cela qu&rsquo;il est réussi. Le cinéaste ne s&rsquo;embarrasse pas d&rsquo;une intrigue complexe qui n&rsquo;est, au fond, pas très importante. Michael Mann peut ainsi mieux se concentrer sur ses personnages et ses paysages : <em>Collatéral</em> n&rsquo;a pas pris une ride !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B003EN2SKU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B003EN2SKU">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0041KW89G/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0041KW89G">Acheter le film en DVD sur Amazon</a></li>

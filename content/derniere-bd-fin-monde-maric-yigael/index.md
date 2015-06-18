@@ -21,7 +21,7 @@ pays = [ "France" ]
 <img class="aligncenter" src="maric-yigael-la-derniere-bd-avant-la-fin-du-monde.jpg" alt="Maric yigael la derniere bd avant la fin du monde" title="maric-yigael-la-derniere-bd-avant-la-fin-du-monde.JPG" width="2100" height="1400" />
 <p><em>La Dernière BD avant la Fin du Monde</em> était une bonne idée, d&rsquo;autant que la série qui la précède fonctionnait plutôt bien. Damien Maric et Yigaël poursuivent l&rsquo;histoire mise en place dans les sept épisodes et ils se sont manifestement dits qu&rsquo;en allant encore plus loin dans les références et les clins d&rsquo;œil, ils auraient quelque chose d&rsquo;encore plus drôle. Le résultat prouve bien qu&rsquo;il n&rsquo;en est rien et que, bien au contraire, cette bande-dessinée souffre d&rsquo;un trop plein. Dommage…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00MA4JT10/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00MA4JT10">Acheter la bande-dessinée sur Amazon</a></li>
 </ul>

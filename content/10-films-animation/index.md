@@ -22,8 +22,8 @@ tag = [ "Animation", "Noir et blanc", "Top" ]
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=110203.html"></p>
 <div style="text-align: center;"><img class="aligncenter" src="peur-du-noir.jpg" border="0" alt="peur-du-noir.jpg" width="690" height="394" /></div>
 <p></a></p>
-<h3>9 &#8211; <a href="http://voiretmanger.fr/2009/09/04/numero-9-acker/">Numéro 9</a></h3>
-<p>Ce film d&rsquo;animation remarqué à sa sortie grâce à son producteur (un certain Tim Burton) m&rsquo;avait bluffé sur le plan graphique et j&rsquo;en garde encore le souvenir d&rsquo;un univers très beau, très poétique dans le genre post-apocalyptique. Le scénario m&rsquo;avait paru faiblard, mais avec le recul et l&rsquo;aide de ce <a href="http://voiretmanger.fr/2009/09/04/numero-9-acker/#comment-579">très long commentaire</a>, je ne le trouve pas si mauvais que cela. L&rsquo;animation est en tout cas magnifique et mérite à elle seule de voir le film.</p>
+<h3>9 &#8211; <a href="/2009/09/04/numero-9-acker/">Numéro 9</a></h3>
+<p>Ce film d&rsquo;animation remarqué à sa sortie grâce à son producteur (un certain Tim Burton) m&rsquo;avait bluffé sur le plan graphique et j&rsquo;en garde encore le souvenir d&rsquo;un univers très beau, très poétique dans le genre post-apocalyptique. Le scénario m&rsquo;avait paru faiblard, mais avec le recul et l&rsquo;aide de ce <a href="/2009/09/04/numero-9-acker/#comment-579">très long commentaire</a>, je ne le trouve pas si mauvais que cela. L&rsquo;animation est en tout cas magnifique et mérite à elle seule de voir le film.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=115469.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=115469.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=115469.html"></p>
@@ -36,7 +36,7 @@ tag = [ "Animation", "Noir et blanc", "Top" ]
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=17344.html"></p>
 <div style="text-align: center;"><img class="aligncenter" src="renaissance.jpg" border="0" alt="renaissance.jpg" width="690" height="392" /></div>
 <p></a></p>
-<h3>7 &#8211; <a href="http://voiretmanger.fr/2009/10/15/mary-et-max-elliot/">Mary and Max</a></h3>
+<h3>7 &#8211; <a href="/2009/10/15/mary-et-max-elliot/">Mary and Max</a></h3>
 <p>J&rsquo;ai longuement hésité entre <em>Mary and Max</em> et la série des Wallace et Groomit, proches par la technique à base de pâte à modeler et de photographies. Un travail lent et minutieux qui donne des images vraiment magnifiques, à la poésie désuète. Wallace et Groomit conserve un charme fou grâce à son humour anglais si typique, mais <em>Mary and Max</em> dispose d&rsquo;un sujet exceptionnel avec cette idée d&rsquo;un échange épistolaire entre deux inconnus mal dans leur peau. Le film, en noir et blanc et sépia, est sublime et l&rsquo;histoire magnifique.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=139621.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=139621.html"></a></p>
@@ -57,14 +57,14 @@ tag = [ "Animation", "Noir et blanc", "Top" ]
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=37485.html"></p>
 <div style="text-align: center;"><img class="aligncenter" src="le-voyage-de-chihiro.jpg" border="0" alt="le-voyage-de-chihiro.jpg" width="690" height="373" /></div>
 <p></a></p>
-<h3>4 &#8211; <a href="http://voiretmanger.fr/2009/06/23/lascars-lazaro-klotz/">Lascars</a></h3>
+<h3>4 &#8211; <a href="/2009/06/23/lascars-lazaro-klotz/">Lascars</a></h3>
 <p>Véritable coup de cœur de 2009 en matière d&rsquo;animation, <em>Lascars</em> est un film étonnant. Parlant de la banlieue sans misérabilisme, à travers une galerie de personnages hauts en couleur dans tous les sens du terme, ce film enchante tant par les trouvailles graphiques que par l&rsquo;histoire et surtout l&rsquo;univers proposé. Très drôle et proposant un message pas bête sur les banlieues, <em>Lascars</em> est une vraie réussite.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=27920.html"></p>
 <div style="text-align: center;"><img class="aligncenter" src="lascars.jpg" border="0" alt="lascars.jpg" width="690" height="374" /></div>
 <p></a></p>
-<h3>3 &#8211; <a href="http://voiretmanger.fr/2008/09/07/wall-e-dernier-bijou-des-studios-pixar/">Wall-E</a></h3>
+<h3>3 &#8211; <a href="/2008/09/07/wall-e-dernier-bijou-des-studios-pixar/">Wall-E</a></h3>
 <p>Il fallait sans doute un Pixar dans ce classement. Le studio n&rsquo;a cessé, depuis sa création, d&rsquo;innover tant sur le plan technique (l&rsquo;animation devenait pour la première fois photoréaliste) que sur le plan scénaristique, pariant toujours sur l&rsquo;originalité. <em>Wall-E</em> est, à mon avis, leur plus grand succès. La technique fit encore un pas en avant avec un univers plus réaliste que jamais, mais ce fut surtout une histoire un peu folle d&rsquo;amour entre deux robots que tout sépare. Ces robots bien plus humains que leur apparence ne laissait entendre marqueront sans doute longtemps l&rsquo;imaginaire collectif.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=123734.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=123734.html"></a></p>

@@ -33,4 +33,4 @@ pays = [ "États-Unis" ]
 <li><a href="https://itunes.apple.com/fr/movie/blade-runner-directors-cut/id367780139">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_5272" class="footnote"><em>Au-delà de Blade Runner</em>, par Mike Davis, est une référence bien connue des étudiants en géographie… [<a href="#identifier_0_5272" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_5272" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_5272" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_5272" class="footnote"><em>Au-delà de Blade Runner</em>, par Mike Davis, est une référence bien connue des étudiants en géographie… [<a href="#identifier_0_5272" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_5272" class="footnote"><a href="/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_5272" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

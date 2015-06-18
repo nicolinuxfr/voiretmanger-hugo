@@ -26,7 +26,7 @@ original = "Mrs. Doubtfire"
 <img class="aligncenter" src="madame-doubtfire-robin-williams.jpg" alt="Madame doubtfire robin williams" title="madame-doubtfire-robin-williams.jpg" width="2100" height="1400" />
 <p>À défaut d&rsquo;être hilarant en permanence, <em>Madame Doubtfire</em> est une comédie touchante, en plus d&rsquo;être très drôle par moments. Chris Colombus a signé un film qui n&rsquo;intéressera pas que les plus petits, mais qui parlera aussi aux plus grands et même si le ton très années 1990 a un petit peu vieilli, l&rsquo;ensemble a conservé toute sa force. Et s&rsquo;il ne fallait qu&rsquo;une raison pour le voir, ce serait sûrement pour Robin Williams, épatant dans ce jeu de transformation.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001G53K9Q/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001G53K9Q">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00004VY2W/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00004VY2W">Acheter le film en DVD sur Amazon</a></li>

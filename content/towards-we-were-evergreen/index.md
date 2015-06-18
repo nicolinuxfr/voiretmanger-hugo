@@ -21,7 +21,7 @@ pays = [ "Grande-Bretagne" ]
 <div class="video-container"><iframe class="aligncenter" src="//www.youtube.com/embed/h_J_4q4LP74" frameborder="0" allowfullscreen></iframe></div>
 <p>À défaut de savoir si We Were Evergreen transformera l’essai avec un deuxième album, ce <em>Towards</em> est déjà une belle réussite pour le trio de Français partis à la conquête de l’Angleterre. Comme à leurs débuts, la maturité de ces quinze morceaux est surprenante quand on sait qu’ils n&rsquo;ont même pas trente ans. En attendant d&rsquo;écouter ce qu&rsquo;ils feront ensuite, cette première publication mérite d&rsquo;être écoutée avec l&rsquo;été qui approche.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m’aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m’aider</a> ?</h3>
 <ul>
 <li><a href="https://itunes.apple.com/fr/album/towards/id816373325">Acheter l’album sur l’iTunes Store</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00J7VUFC6/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00J7VUFC6">Acheter l’album en CD sur Amazon</a></li>

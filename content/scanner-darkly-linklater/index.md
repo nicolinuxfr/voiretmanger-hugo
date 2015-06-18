@@ -27,7 +27,7 @@ pays = [ "États-Unis" ]
 <div style="text-align: center;"><img class="aligncenter" src="scanner-darkly-downey-jr.jpg" border="0" alt="scanner-darkly-downey-jr.jpg" width="690" height="388" /></div>
 <p><em>A Scanner Darkly</em> apparaît <em>in fine</em> comme une expérience intéressante, pour un film qui n&rsquo;est pas vraiment réussi. Si l&rsquo;on peut apprécier le travail réalisé après le tournage pour transformer un film &laquo;&nbsp;normal&nbsp;&raquo; en film d&rsquo;animation à l&rsquo;ancienne, ce procédé limite un peu l&rsquo;intérêt pour le scénario. Ce dernier aurait mérité un peu plus d&rsquo;explications, pour une fois : le spectateur en sait finalement trop peu pour vraiment s&rsquo;intéresser à un univers qui mériterait plus de considération. Cela dit, on ne peut que saluer l&rsquo;expérimentation qui ne suffit pas à faire un vraiment bon film, mais qui, à l&rsquo;image de <em>Renaissance</em>, justifie qu&rsquo;on s&rsquo;y intéresse. À voir donc, au moins par curiosité.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B003M8NGQM/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B003M8NGQM">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000OMCJ1M/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000OMCJ1M">Acheter le film en DVD sur Amazon</a></li>

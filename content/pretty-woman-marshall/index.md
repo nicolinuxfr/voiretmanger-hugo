@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <div style="text-align:center;"><img class="aligncenter" src="pretty-woman-julia-roberts.jpg" alt="Pretty woman julia roberts" title="pretty-woman-julia-roberts.jpg" width="1500" height="1000" /></div>
 <p><em>Pretty Woman</em> est un film culte pour beaucoup d’amateurs de comédies romantiques et ce n’est sans doute pas un hasard. Garry Marshall a su rassembler tous les éléments qui font le succès du genre, mais il profite aussi et surtout de deux excellents acteurs. Au-delà des clichés, au-delà des défauts que l’on peut relever, c’est au fond cela que l’on retient. Et la fameuse chanson qui a donné au long-métrage son titre, naturellement…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m’aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m’aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001L7TEF8/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001L7TEF8">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00006470Y/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00006470Y">Acheter le film en DVD sur Amazon</a></li>

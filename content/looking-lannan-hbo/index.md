@@ -30,7 +30,7 @@ pays = [ "États-Unis" ]
 <img src="looking-hbo-saison-2.jpg" alt="" width="2048" height="1365" class="aligncenter size-full wp-image-13406" />
 <p>Quelles que soient les raisons, HBO a décidé d&rsquo;annuler la série et il ne devrait pas y avoir de troisième saison. C&rsquo;est dommage, car <em>Looking</em> se termine avec quelques épisodes vraiment prometteurs et on avait beaucoup d&rsquo;espoir pour la suite. En l&rsquo;état, la série créée par Michael Lannan en restera au stade du prometteur. On peut encore espérer que la chaîne change d&rsquo;avis et lui laisse une chance de plus, mais c&rsquo;est mal parti, hélas.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m’aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m’aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00HYCNXRY/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00HYCNXRY">Acheter la première saison en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00J8Q9526/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00J8Q9526">Acheter la première saison en DVD sur Amazon</a></li>

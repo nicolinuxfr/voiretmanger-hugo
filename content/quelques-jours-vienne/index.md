@@ -115,6 +115,6 @@ tag = [ "Cuisine", "Famille", "Histoire", "Musique", "Tourisme", "Vienne" ]
 <img src="abba-cover-band-vienna.jpg" alt="abba-cover-band-vienna.jpg" width="600" height="397" border="0" />
 <p style="text-align: center;"><em>© mon pôpa</em></p>
 </div>
-<p>La musique à Vienne, c&rsquo;est aussi l&rsquo;opéra, mais ça, j&rsquo;ai déjà eu l&rsquo;occasion d&rsquo;en parler dans <a href="http://voiretmanger.fr/2010/01/03/fledermaus-strauss-wiener-staatsoper/">un autre billet</a>.</p>
+<p>La musique à Vienne, c&rsquo;est aussi l&rsquo;opéra, mais ça, j&rsquo;ai déjà eu l&rsquo;occasion d&rsquo;en parler dans <a href="/2010/01/03/fledermaus-strauss-wiener-staatsoper/">un autre billet</a>.</p>
 <p><em>Toutes les photos sont de moi et ont été prises avec mon iPhone, sauf mention contraire.</em></p>
 

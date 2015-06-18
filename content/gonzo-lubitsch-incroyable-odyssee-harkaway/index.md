@@ -34,4 +34,4 @@ weight = 2010
 <li><a href="https://itunes.apple.com/fr/book/the-gone-away-world/id437001761?mt=11">Acheter le livre en anglais sur l&rsquo;iBookstore</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_7662" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7662" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_7662" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_7662" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

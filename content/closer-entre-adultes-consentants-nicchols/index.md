@@ -25,7 +25,7 @@ original = "Closer"
 <div style="text-align:center;"><img class="aligncenter" src="natalie-portman-closer-entre-adultes-consentants.jpg" alt="Natalie portman closer entre adultes consentants" title="natalie-portman-closer-entre-adultes-consentants.jpg" width="1800" height="1200" /></div>
 <p>Portée par les notes de Damien Rice qui ouvrent et ferment son film et surtout par quatre excellents acteurs qui donnent au texte original toute sa force, cette adaptation de <em>Closer</em> est une réussite. Mike Nicchols instille une ambiance particulière et fait de chaque confrontation un grand moment. <em>Closer, entre adultes consentants</em> ressemble à un marivaudage, mais dans une version modernisée qui prouve que les histoires du XVIIIe n’ont, au fond, pas vieilli.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m’aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m’aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B000O76BP2/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000O76BP2">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000A3X4KU/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000A3X4KU">Acheter le film en DVD sur Amazon</a></li>

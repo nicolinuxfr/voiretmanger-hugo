@@ -31,4 +31,4 @@ pays = [ "France", "Mexique" ]
 <li><a href="https://itunes.apple.com/fr/movie/la-vida-loca-vost/id449482249">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_1959" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1959" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_1959" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1959" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

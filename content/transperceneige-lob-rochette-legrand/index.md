@@ -31,4 +31,4 @@ pays = [ "France" ]
 <li><a href="http://www.amazon.fr/gp/product/2203334894/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2203334894">Acheter le troisième tome sur Amazon</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_10332" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10332" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_10332" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10332" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

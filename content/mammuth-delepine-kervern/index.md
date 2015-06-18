@@ -16,7 +16,7 @@ pays = [ "France" ]
 
 +++
 
-<p>Benoît Delépine et Gustave Kervern, les deux réalisateurs issus de Groland, continuent leur travail cinématographique à la fois engagé politiquement et à l&rsquo;humour si particulier du pays imaginaire de l&rsquo;émission de Canal+. Après <a href="http://voiretmanger.fr/2009/01/14/louise-michel/"><em>Louise-Michel</em></a> et les patrons salauds l&rsquo;an dernier, ils s&rsquo;attaquent cette année aux retraites avec Mammuth, sorte de road-trip décalé. Un film qui ne m&rsquo;a pas emballé autant que prévu, peut-être en raison de l&rsquo;ambiance qui ne se prête pas tant à l&rsquo;humour qu&rsquo;à une sorte de mélancolie teintée de fantastique.</p>
+<p>Benoît Delépine et Gustave Kervern, les deux réalisateurs issus de Groland, continuent leur travail cinématographique à la fois engagé politiquement et à l&rsquo;humour si particulier du pays imaginaire de l&rsquo;émission de Canal+. Après <a href="/2009/01/14/louise-michel/"><em>Louise-Michel</em></a> et les patrons salauds l&rsquo;an dernier, ils s&rsquo;attaquent cette année aux retraites avec Mammuth, sorte de road-trip décalé. Un film qui ne m&rsquo;a pas emballé autant que prévu, peut-être en raison de l&rsquo;ambiance qui ne se prête pas tant à l&rsquo;humour qu&rsquo;à une sorte de mélancolie teintée de fantastique.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=146642.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=146642.html" target="_blank"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=146642.html" target="_blank"></a></p>
@@ -39,4 +39,4 @@ pays = [ "France" ]
 <li><a href="http://itunes.apple.com/fr/movie/mammuth/id471641402">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_3274" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_3274" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_3274" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_3274" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

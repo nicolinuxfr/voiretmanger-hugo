@@ -15,7 +15,7 @@ pays = [ "France", "Philippines" ]
 
 +++
 
-<p>Les femmes âgées prêtes à tout pour sauver leur descendance sont apparemment à la mode chez certains cinéastes asiatiques. Après <a href="http://voiretmanger.fr/2010/01/30/mother-bong/"><em>Mother</em> de Joon-ho Bong</a>, Brillante Mendoza s&rsquo;intéresse à des grands-mères avec <em>Lola</em>. Il y a aussi un homicide, mais la comparaison s&rsquo;arrête vite. Le Philippin propose, au-delà du portrait croisé de deux femmes impressionnantes de force malgré leur grand âge, un aperçu assez brillant de son pays et de sa société. Magnifique.</p>
+<p>Les femmes âgées prêtes à tout pour sauver leur descendance sont apparemment à la mode chez certains cinéastes asiatiques. Après <a href="/2010/01/30/mother-bong/"><em>Mother</em> de Joon-ho Bong</a>, Brillante Mendoza s&rsquo;intéresse à des grands-mères avec <em>Lola</em>. Il y a aussi un homicide, mais la comparaison s&rsquo;arrête vite. Le Philippin propose, au-delà du portrait croisé de deux femmes impressionnantes de force malgré leur grand âge, un aperçu assez brillant de son pays et de sa société. Magnifique.</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=172486.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=172486.html" target="_blank"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=172486.html" target="_blank"></p>

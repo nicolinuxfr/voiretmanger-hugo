@@ -24,7 +24,7 @@ pays = [ "États-Unis", "Grande-Bretagne", "Italie" ]
 <img class="aligncenter" src="rome-james-purefoy-hbo.jpg" alt="Rome james purefoy hbo" title="rome-james-purefoy-hbo.jpg" width="2100" height="1400" />
 <p>HBO a encore signé une grande série avec cette reconstitution historique d&rsquo;excellente qualité. On peut regretter que le projet ait été interrompu si tôt pour des problèmes de financement, mais on peut aussi reconnaître que la vingtaine d&rsquo;épisodes produits reste parmi les plus réussis en matière de série historique. À bien des égards, <em>Rome</em> fait mieux que de nombreux longs-métrages pourtant bien mieux financés. Avec ses personnages tous convaincants et son scénario bien écrit, la série créée par John Millius, William J. MacDonald et Bruno Heller est une vraie réussite, à (re)voir avec plaisir !</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002MGJSQW/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002MGJSQW">Acheter la série en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B005BHE48Q/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005BHE48Q">Acheter la série en DVD sur Amazon</a></li>

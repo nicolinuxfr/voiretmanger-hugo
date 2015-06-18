@@ -33,4 +33,4 @@ pays = [ "France" ]
 <li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&x=0&tag=leblogdenic07-21&linkCode=ur2&y=0&camp=1642&creative=19458&field-keywords=christian%20boltanski&url=search-alias%3Daps#/ref=nb_sb_noss?__mk_fr_FR=ÅMÅZÕÑ">Christian Boltanski sur Amazon</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_2873" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_2873" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_2873" class="footnote"><a href="/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_2873" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

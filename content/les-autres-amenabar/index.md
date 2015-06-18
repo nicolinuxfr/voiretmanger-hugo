@@ -25,7 +25,7 @@ original = "The Others"
 <img class="aligncenter" src="nicole-kidman-les-autres.jpg" alt="Nicole kidman les autres" title="nicole-kidman-les-autres.jpg" width="100%" />
 <p>Avec <em>Les Autres</em>, Alejandro Amenábar parvient à tenir tout au long de son long-métrage une tension qui masque mieux encore la solution dévoilée à la toute fin. Le procédé n’est pas vraiment nouveau, mais il est parfaitement maîtrisé ici et c’est ce qui explique la réussite de ce film félicité à de multiples occasions à sa sortie. Quelques années plus tard, il n’a pas vieilli et l’absence complète d’effets spéciaux n’y est pas pour rien. <em>Les Autres</em>, un classique à (re)découvrir…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002CXG7M8/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002CXG7M8">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B000K4X8Y6/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B000K4X8Y6">Acheter le film en DVD sur Amazon</a></li>

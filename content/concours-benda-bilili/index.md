@@ -17,7 +17,7 @@ tag = [ "Affiches", "Cinéma", "Places de ciné" ]
 <p><strong>Synopsis</strong> : Ricky avait un rêve : faire de Staff Benda Bilili le meilleur orchestre du Congo.<br />
 Roger, enfant des rues, désirait plus que tout rejoindre ces stars du ghetto kinois qui écument la ville sur des fauteuils roulants customisés façon Mad Max. Mais avant tout il faut survivre, déjouer les pièges de la rue de Kinshasa, chanter et danser pour s&rsquo;évader. Pendant cinq ans, des premières chansons à leur triomphe dans les festivals du monde entier, BENDA BILILI nous raconte ce rêve devenu réalité.</p>
 </blockquote>
-<p>&gt; <strong><a href="http://voiretmanger.fr/2010/07/29/benda-bilili-barret-tullaye/">Lire ma critique du film</a></strong></p>
+<p>&gt; <strong><a href="/2010/07/29/benda-bilili-barret-tullaye/">Lire ma critique du film</a></strong></p>
 <p>À l&rsquo;occasion de la sortie prochaine du film, <strong>l&rsquo;agence Le-K m&rsquo;a proposé d&rsquo;organiser un concours et de vous offrir cinq paires de places de cinéma et cinq affiches du film</strong>. Pour gagner un de ces dix lots mis en jeu, remplissez le questionnaire ci-dessous. Si vous avez toutes les bonnes réponses, vous serez peut-être tirés au sort…</p>
 <p>À vous de jouer maintenant ! N&rsquo;oubliez pas de bien lire les règles, de mettre une adresse mail valide et de ne jouer qu&rsquo;une seule fois… Bonne chance !</p>
 <p>Chargement du concours en cours&#8230;</p>

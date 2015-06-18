@@ -35,4 +35,4 @@ pays = [ "France" ]
 <li><a href="https://itunes.apple.com/fr/movie/limaginarium-du-docteur-parnassus/id485563344">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_2088" class="footnote">Quelle idée aussi de vouloir regarder <em>Twilight</em> à Châtelet un mercredi à 17 heures, sans avoir réservé ? [<a href="#identifier_0_2088" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2088" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_2088" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_2088" class="footnote">Quelle idée aussi de vouloir regarder <em>Twilight</em> à Châtelet un mercredi à 17 heures, sans avoir réservé ? [<a href="#identifier_0_2088" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2088" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_2088" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

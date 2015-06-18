@@ -37,4 +37,4 @@ original = "Das Weiße Band - Eine deutsche Kindergeschichte"
 <li><a href="http://itunes.apple.com/fr/movie/le-ruban-blanc/id436671469">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_1976" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1976" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_1976" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_1976" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

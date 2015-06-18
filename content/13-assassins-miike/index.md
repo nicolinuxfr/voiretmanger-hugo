@@ -33,4 +33,4 @@ weight = 2012
 <li><a href="http://itunes.apple.com/fr/movie/13-assassins/id503494904">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_6214" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_6214" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_6214" class="footnote"><a href="/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_6214" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

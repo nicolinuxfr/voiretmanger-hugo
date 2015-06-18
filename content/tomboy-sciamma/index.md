@@ -32,4 +32,4 @@ pays = [ "France" ]
 <li><a href="https://itunes.apple.com/fr/movie/tomboy/id448246214">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_4769" class="footnote">En anglais, &laquo;&nbsp;<em>tomboy</em>&nbsp;&raquo; est le garçon manqué. [<a href="#identifier_0_4769" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_4769" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_4769" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_4769" class="footnote">En anglais, &laquo;&nbsp;<em>tomboy</em>&nbsp;&raquo; est le garçon manqué. [<a href="#identifier_0_4769" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_4769" class="footnote"><a href="/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_4769" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

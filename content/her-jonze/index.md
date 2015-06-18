@@ -24,7 +24,7 @@ pays = [ "États-Unis" ]
 <div style="text-align:center;"><img class="aligncenter" src="her-joaquin-phoenix-amy-adams.jpg" alt="Her joaquin phoenix amy adams" title="her-joaquin-phoenix-amy-adams.jpg" width="1800" height="1200" /></div>
 <p>Avec <em>Her</em>, Spike Jonze une idée qui relève de la science-fiction en imaginant qu’un homme et une intelligence artificielle désincarnée tombent amoureux. Une idée un peu folle, mais qui fonctionne à la merveille : c’est sans doute la réussite incontestable du film que de parvenir à rendre cette relation crédible. On y croit et on est ému par ces deux êtres, l’un de chair, l’autre purement virtuel, qui tombent amoureux de façon irrationnelle, mais en même temps avec beaucoup de force. <em>Her</em> est un long-métrage atypique, mais c’est surtout un très beau film, que vous auriez tort de ne pas voir…</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00HYJRIE6/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00HYJRIE6">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00HYJRI00/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00HYJRI00">Acheter le film en DVD sur Amazon</a></li>

@@ -34,4 +34,4 @@ pays = [ "France" ]
 <li><a href="http://itunes.apple.com/fr/movie/8th-wonderland/id471773220">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
-<ol class="footnotes"><li id="footnote_0_3350" class="footnote">Aaaah la bonne vieille époque des chats IRC… Ça c&rsquo;était quelque chose&#8230; #nostalgie #moidemontemps [<a href="#identifier_0_3350" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_3350" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_3350" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>
+<ol class="footnotes"><li id="footnote_0_3350" class="footnote">Aaaah la bonne vieille époque des chats IRC… Ça c&rsquo;était quelque chose&#8230; #nostalgie #moidemontemps [<a href="#identifier_0_3350" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_3350" class="footnote"><a href="/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_3350" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

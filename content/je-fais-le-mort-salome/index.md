@@ -24,7 +24,7 @@ pays = [ "France" ]
 <img class="aligncenter" src="je-fais-le-mort-francois-damiens-geraldine-nakache.jpg" alt="Je fais le mort francois damiens geraldine nakache" title="je-fais-le-mort-francois-damiens-geraldine-nakache.jpg" width="1920" height="1280" />
 <p>Porté par un François Damiens en grande forme — l&rsquo;acteur ne cabotine pas, il est précisément là où il doit être, mais il est exactement là où il faut, c&rsquo;est impressionnant —, <em>Je fais le mort</em> est un film surprenant. Tantôt comédie sociale, tantôt comédie romantique, c&rsquo;est aussi un polar avec une vraie enquête et du suspense — chapeau si vous devinez qui est le coupable avant la fin ! — et c&rsquo;est également un film sur la condition d&rsquo;acteurs. Jean-Paul Salome signe-là un long-métrage protéiforme maîtrisé et juste.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B00HWGKM9Y/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00HWGKM9Y">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B00HWGKM8A/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00HWGKM8A">Acheter le film en DVD sur Amazon</a></li>

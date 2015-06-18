@@ -26,7 +26,7 @@ original = "Monsters vs. Aliens"
 <img class="aligncenter" src="monsters-vs-aliens.jpg" border="0" alt="monsters-vs-aliens.jpg" width="690" height="293" />
 <p>L&rsquo;animation grand public offre rarement de bonnes surprises. Depuis les premiers succès, celui de <em>L&rsquo;Age de Glace</em> notamment, les studios ont trouvé une recette qui marche et la recyclent sans même tenter de faire preuve d&rsquo;originalité. Le résultat est souvent à la hauteur de cette ambition nulle, décevant. Certains sortent néanmoins leur épingle du jeu, et on peut classer <em>Monstres contre Aliens</em> dans cette catégorie. Si ce film ne fait pas vraiment preuve d&rsquo;originalité, il réussit son pari en jouant à fond la carte du second degré et en ne tombant jamais dans le mièvre supposé plaire aux enfants. Un film qui ne restera pas dans les annales, mais qui supporte très bien une après-midi en famille, devant la télévision.</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B002JP9X7K/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B002JP9X7K">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B004KAKJDY/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B004KAKJDY">Acheter le film en DVD sur Amazon</a></li>

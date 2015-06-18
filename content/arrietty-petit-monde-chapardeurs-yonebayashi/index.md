@@ -14,7 +14,7 @@ weight = 2011
 
 +++
 
-<p>Deux ans après <em><a href="http://voiretmanger.fr/2009/04/12/ponyo-sur-la-falaise-miyazaki/">Ponyo sur la falaise</a></em>, les studios Ghibli reviennent au cinéma avec un long-métrage non plus réalisé par le maître Hayao Miyazaki, mais par Hiromasa Yonebayashi. Un changement de génération qui ne change pas pour autant le cinéma Ghibli : on reste ainsi en terrain connu avec cette histoire de petits êtres qui chapardent aux humains pour vivre. Comme à chaque film, le studio étonne par sa capacité à mettre en image des histoires niaises sur le papier… sans tomber dans le niais à l&rsquo;écran. Encore une très belle surprise…</p>
+<p>Deux ans après <em><a href="/2009/04/12/ponyo-sur-la-falaise-miyazaki/">Ponyo sur la falaise</a></em>, les studios Ghibli reviennent au cinéma avec un long-métrage non plus réalisé par le maître Hayao Miyazaki, mais par Hiromasa Yonebayashi. Un changement de génération qui ne change pas pour autant le cinéma Ghibli : on reste ainsi en terrain connu avec cette histoire de petits êtres qui chapardent aux humains pour vivre. Comme à chaque film, le studio étonne par sa capacité à mettre en image des histoires niaises sur le papier… sans tomber dans le niais à l&rsquo;écran. Encore une très belle surprise…</p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176684.html"> </a></p>
 <p style="text-align: center;"><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176684.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176684.html"></p>

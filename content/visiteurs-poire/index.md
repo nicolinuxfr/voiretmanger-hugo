@@ -26,7 +26,7 @@ pays = [ "France" ]
 <img class="aligncenter" src="visiteurs-reno-clavier.jpg" alt="visiteurs-reno-clavier.jpg" width="690" height="290" border="0" />
 <p><em>Les Visiteurs</em> a su trouver le ton juste. Farce basique à base de décalages temporels, c&rsquo;est aussi une comédie dotée d&rsquo;un scénario très bien écrit qui fait mouche. On ne compte plus les répliques passées dans le langage courant, à commencer par le fameux &laquo;&nbsp;<em>Qu&rsquo;est-ce que c&rsquo;est que ce binz ?&nbsp;&raquo;</em> répété à de nombreuses reprises par Christian Clavier. C&rsquo;est bien la preuve que le film est une réussite dans le genre. Et effectivement, le revoir après plusieurs années est envisageable : parfait pour la période estivale, &laquo;&nbsp;<em>okaaaaay ?</em>&nbsp;&raquo;</p>
 <div class="amazon">
-<h3>Vous voulez <a href="http://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<h3>Vous voulez <a href="/soutien/">m&rsquo;aider</a> ?</h3>
 <ul>
 <li><a href="http://www.amazon.fr/gp/product/B001HBW30G/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B001HBW30G">Acheter le film en Blu-ray sur Amazon</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B0014C5Y7C/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B0014C5Y7C">Acheter le film en DVD sur Amazon</a></li>

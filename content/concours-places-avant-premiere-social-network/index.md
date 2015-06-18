@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Concours : 2 places à gagner pour l’avant-première de The Social Network"
 title = "Concours : 2 places à gagner pour l’avant-première de The Social Network"
 url = "/concours-places-avant-premiere-social-network"

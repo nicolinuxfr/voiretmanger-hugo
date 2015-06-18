@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;échange</em> : même les grands peuvent se planter&#8230;"
 title = "L'échange : même les grands peuvent se planter&#8230;"
 url = "/lechange-meme-les-grands-peuvent-se-planter"

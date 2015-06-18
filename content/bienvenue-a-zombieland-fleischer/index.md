@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Bienvenue à Zombieland, Ruben Fleischer"
 title = "Bienvenue à Zombieland, Ruben Fleischer"
 url = "/bienvenue-a-zombieland-fleischer"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Fringe</em>, J. J. Abrams, Alex Kurtzman et Roberto Orci (FOX)"
 title = "Fringe, J. J. Abrams, Alex Kurtzman et Roberto Orci (FOX)"
 url = "/fringe-abrams-kurtzman-orci-fox"

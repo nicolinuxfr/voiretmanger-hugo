@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Daredevil</em>, Drew Goddard (Netflix)"
 title = "Daredevil, Drew Goddard (Netflix)"
 url = "/daredevil-goddard-netflix"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Livre des Peurs Primaires, Guillaume Vissac"
 title = "Livre des Peurs Primaires, Guillaume Vissac"
 url = "/livre-peurs-primaires-vissac"

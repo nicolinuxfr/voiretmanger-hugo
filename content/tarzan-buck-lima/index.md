@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Tarzan</em>, Chris Buck et Kevin Lima"
 title = "Tarzan, Chris Buck et Kevin Lima"
 url = "/tarzan-buck-lima"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "César et Oscars 2012 : l&rsquo;heure est à l&rsquo;hommage"
 title = "César et Oscars 2012 : l'heure est à l'hommage"
 url = "/cesar-oscars-2012-hommage"

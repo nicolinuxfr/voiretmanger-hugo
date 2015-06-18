@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Reservoir Dogs</em>, Quentin Tarantino"
 title = "Reservoir Dogs, Quentin Tarantino"
 url = "/reservoir-dogs-tarantino"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le magasin des suicides</em>, Patrice Leconte"
 title = "Le magasin des suicides, Patrice Leconte"
 url = "/magasin-suicides-leconte"

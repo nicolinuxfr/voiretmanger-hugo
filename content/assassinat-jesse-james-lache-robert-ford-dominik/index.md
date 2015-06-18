@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Assassinat de Jesse James par le lâche Robert Ford</em>, Andrew Dominik"
 title = "L'Assassinat de Jesse James par le lâche Robert Ford, Andrew Dominik"
 url = "/assassinat-jesse-james-lache-robert-ford-dominik"

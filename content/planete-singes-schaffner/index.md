@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La planète des Singes</em>, Franklin J. Schaffner"
 title = "La planète des Singes, Franklin J. Schaffner"
 url = "/planete-singes-schaffner"

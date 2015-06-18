@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Massive Attack au Zénith (11 novembre 2009)"
 title = "Massive Attack au Zénith (11 novembre 2009)"
 url = "/massive-attack-zenith-2009"

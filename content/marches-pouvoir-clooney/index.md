@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Marches du Pouvoir</em>, George Clooney"
 title = "Les Marches du Pouvoir, George Clooney"
 url = "/marches-pouvoir-clooney"

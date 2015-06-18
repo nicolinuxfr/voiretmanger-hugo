@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Musique : 2010 en dix albums"
 title = "Musique : 2010 en dix albums"
 url = "/musique-2010-dix-albums"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Olive Kitteridge</em>, Lisa Cholodenko (HBO)"
 title = "Olive Kitteridge, Lisa Cholodenko (HBO)"
 url = "/olive-kitteridge-cholodenko-hbo"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Sentiers de la Perdition</em>, Sam Mendes"
 title = "Les Sentiers de la Perdition, Sam Mendes"
 url = "/sentiers-perdition-mendes"

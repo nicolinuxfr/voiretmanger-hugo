@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Animal Kingdom</em>, David Michôd"
 title = "Animal Kingdom, David Michôd"
 url = "/animal-kingdom-michod"

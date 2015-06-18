@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Takao Takano à Lyon"
 title = "Takao Takano à Lyon"
 url = "/takao-takano-lyon"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Moonrise Kingdom</em>, Wes Anderson"
 title = "Moonrise Kingdom, Wes Anderson"
 url = "/moonrise-kingdom-anderson"

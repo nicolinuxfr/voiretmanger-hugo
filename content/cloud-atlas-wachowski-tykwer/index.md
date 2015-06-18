@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Cloud Atlas</em>, Lana et Andy Wachowski et Tom Tykwer"
 title = "Cloud Atlas, Lana et Andy Wachowski et Tom Tykwer"
 url = "/cloud-atlas-wachowski-tykwer"

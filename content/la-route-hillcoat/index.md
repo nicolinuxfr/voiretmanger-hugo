@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Route, John Hillcoat"
 title = "La Route, John Hillcoat"
 url = "/la-route-hillcoat"

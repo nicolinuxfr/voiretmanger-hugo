@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Lilo et Stitch</em>, Dean DeBlois et Chris Sanders"
 title = "Lilo et Stitch, Dean DeBlois et Chris Sanders"
 url = "/lilo-stitch-deblois-sanders"

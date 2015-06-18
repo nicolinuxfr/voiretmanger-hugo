@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Better Call Saul</em>, Vince Gilligan et Peter Gould (AMC)"
 title = "Better Call Saul, Vince Gilligan et Peter Gould (AMC)"
 url = "/better-call-saul-gilligan-gould-amc"

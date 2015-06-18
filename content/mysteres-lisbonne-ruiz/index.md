@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mystères de Lisbonne, Raùl Ruiz"
 title = "Mystères de Lisbonne, Raùl Ruiz"
 url = "/mysteres-lisbonne-ruiz"

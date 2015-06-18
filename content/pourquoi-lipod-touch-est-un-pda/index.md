@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Pourquoi l&rsquo;iPod touch est un PDA (pour moi)"
 title = "Pourquoi l'iPod touch est un PDA (pour moi)"
 url = "/pourquoi-lipod-touch-est-un-pda"

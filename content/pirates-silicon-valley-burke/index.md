@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Pirates de la Silicon Valley</em>, Martyn Burke"
 title = "Les Pirates de la Silicon Valley, Martyn Burke"
 url = "/pirates-silicon-valley-burke"

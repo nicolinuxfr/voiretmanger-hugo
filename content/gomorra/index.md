@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Gomorra"
 title = "Gomorra"
 url = "/gomorra"

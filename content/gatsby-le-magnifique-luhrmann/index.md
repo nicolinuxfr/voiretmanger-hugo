@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Gatsby le Magnifique</em>, Baz Luhrmann"
 title = "Gatsby le Magnifique, Baz Luhrmann"
 url = "/gatsby-le-magnifique-luhrmann"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La route, Cormac McCarthy"
 title = "La route, Cormac McCarthy"
 url = "/la-route-cormac-mccarthy"

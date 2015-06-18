@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les 101 Dalmatiens</em>, Clyde Geronimi, Hamilton Luske et Wolfgang Reitherman"
 title = "Les 101 Dalmatiens, Clyde Geronimi, Hamilton Luske et Wolfgang Reitherman"
 url = "/101-dalmatiens-geronimi-luske-reitherman"

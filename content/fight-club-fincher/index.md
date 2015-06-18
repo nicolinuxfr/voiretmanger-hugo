@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Fight Club</em>, David Fincher"
 title = "Fight Club, David Fincher"
 url = "/fight-club-fincher"

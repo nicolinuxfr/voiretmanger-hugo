@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La chevauchée fantastique, John Ford"
 title = "La chevauchée fantastique, John Ford"
 url = "/cheuvauchee-fantastique-ford"

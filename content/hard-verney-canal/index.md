@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hard</em>, Cathy Verney (Canal+)"
 title = "Hard, Cathy Verney (Canal+)"
 url = "/hard-verney-canal"

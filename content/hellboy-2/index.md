@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Hellboy 2"
 title = "Hellboy 2"
 url = "/hellboy-2"

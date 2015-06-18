@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Trois Mousquetaires, Paul W.S. Anderson"
 title = "Les Trois Mousquetaires, Paul W.S. Anderson"
 url = "/trois-mousquetaires-anderson"

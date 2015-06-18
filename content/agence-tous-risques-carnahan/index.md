@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Agence tous risques,  Joe Carnahan"
 title = "L'Agence tous risques,  Joe Carnahan"
 url = "/agence-tous-risques-carnahan"

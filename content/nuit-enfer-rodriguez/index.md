@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Une nuit en enfer</em>, Robert Rodriguez"
 title = "Une nuit en enfer, Robert Rodriguez"
 url = "/nuit-enfer-rodriguez"

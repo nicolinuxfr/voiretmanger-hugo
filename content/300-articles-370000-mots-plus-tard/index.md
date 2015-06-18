@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "300 articles et 370 000 mots plus tard"
 title = "300 articles et 370 000 mots plus tard"
 url = "/300-articles-370000-mots-plus-tard"

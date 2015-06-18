@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Divergente 2 : L’Insurrection</em>, Robert Schwentke"
 title = "Divergente 2 : L’Insurrection, Robert Schwentke"
 url = "/divergente-2-insurrection"

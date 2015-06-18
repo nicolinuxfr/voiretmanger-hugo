@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Ez3kiel : un groupe qui gagnerait à être connu"
 title = "Ez3kiel : un groupe qui gagnerait à être connu"
 url = "/ez3kiel-groupe-qui-gagnerait-a-etre-connu"

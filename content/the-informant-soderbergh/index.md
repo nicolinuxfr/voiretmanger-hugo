@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Informant, Steven Soderbergh"
 title = "The Informant, Steven Soderbergh"
 url = "/the-informant-soderbergh"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Daybreakers, Michael et Peter Spierig"
 title = "Daybreakers, Michael et Peter Spierig"
 url = "/daybreakers-spierig"

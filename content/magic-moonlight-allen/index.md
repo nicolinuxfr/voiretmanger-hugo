@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Magic in the Moonlight</em>, Woody Allen"
 title = "Magic in the Moonlight, Woody Allen"
 url = "/magic-moonlight-allen"

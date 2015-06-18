@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Royaume de Ga’Hoole : la légende des gardiens, Zack Snyder"
 title = "Le Royaume de Ga’Hoole : la légende des gardiens, Zack Snyder"
 url = "/royaume-gahoole-legende-gardiens-snyder"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Essential Killing, Jerzy Skolimowski"
 title = "Essential Killing, Jerzy Skolimowski"
 url = "/essential-killing-skolimowski"

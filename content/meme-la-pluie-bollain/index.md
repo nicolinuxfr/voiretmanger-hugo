@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Même la pluie, Icíar Bollain"
 title = "Même la pluie, Icíar Bollain"
 url = "/meme-la-pluie-bollain"

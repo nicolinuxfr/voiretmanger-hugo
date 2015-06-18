@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Croods</em>, Chris Sanders et Kirk DeMicco"
 title = "Les Croods, Chris Sanders et Kirk DeMicco"
 url = "/les-croods-sanders-demicco"

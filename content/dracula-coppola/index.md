@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Dracula</em>, Francis Ford Coppola"
 title = "Dracula, Francis Ford Coppola"
 url = "/dracula-coppola"

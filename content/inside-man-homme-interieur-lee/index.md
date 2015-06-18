@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Inside Man : l&rsquo;Homme de l&rsquo;intérieur</em>, Spike Lee"
 title = "Inside Man : l'Homme de l'intérieur, Spike Lee"
 url = "/inside-man-homme-interieur-lee"

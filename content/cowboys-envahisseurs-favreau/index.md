@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Cowboys &#038; envahisseurs</em>, Jon Favreau"
 title = "Cowboys &#038; envahisseurs, Jon Favreau"
 url = "/cowboys-envahisseurs-favreau"

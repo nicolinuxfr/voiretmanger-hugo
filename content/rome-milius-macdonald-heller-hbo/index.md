@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Rome</em>, John Milius, William J. MacDonald et Bruno Heller (HBO)"
 title = "Rome, John Milius, William J. MacDonald et Bruno Heller (HBO)"
 url = "/rome-milius-macdonald-heller-hbo"

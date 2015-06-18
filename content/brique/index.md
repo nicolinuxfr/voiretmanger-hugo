@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Voici ma brique</em>"
 title = "Voici ma brique"
 url = "/brique"

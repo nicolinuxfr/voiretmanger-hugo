@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Dernière BD avant la Fin du Monde</em>, Damien Maric et Yigaël"
 title = "La Dernière BD avant la Fin du Monde, Damien Maric et Yigaël"
 url = "/derniere-bd-fin-monde-maric-yigael"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Dark Knight : Le Chevalier noir</em>, Christopher Nolan"
 title = "The Dark Knight : Le Chevalier noir, Christopher Nolan"
 url = "/dark-knight-chevalier-noir-nolan"

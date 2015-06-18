@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Comme des images</em>, Clémentine Beauvais"
 title = "Comme des images, Clémentine Beauvais"
 url = "/comme-des-images-beauvais"

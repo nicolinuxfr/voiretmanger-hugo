@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Fast and Furious 5</em>, Justin Lin"
 title = "Fast and Furious 5, Justin Lin"
 url = "/fast-and-furious-5-lin"

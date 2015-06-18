@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Samsara, Ron Fricke"
 title = "Samsara, Ron Fricke"
 url = "/samsara-fricke"

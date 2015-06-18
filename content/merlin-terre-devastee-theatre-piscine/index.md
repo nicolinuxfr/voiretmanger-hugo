@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Merlin ou la terre dévastée au théâtre de la Piscine (8 janvier 2010)"
 title = "Merlin ou la terre dévastée au théâtre de la Piscine (8 janvier 2010)"
 url = "/merlin-terre-devastee-theatre-piscine"

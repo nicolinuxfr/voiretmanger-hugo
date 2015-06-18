@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Stardust, le mystère de l&rsquo;étoile</em>, Matthew Vaughn"
 title = "Stardust, le mystère de l'étoile, Matthew Vaughn"
 url = "/stardust-mystere-etoile-vaughn"

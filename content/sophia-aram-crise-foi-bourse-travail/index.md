@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sophia Aram (Crise de foi) à la Bourse du Travail (16 novembre 2012)"
 title = "Sophia Aram (Crise de foi) à la Bourse du Travail (16 novembre 2012)"
 url = "/sophia-aram-crise-foi-bourse-travail"

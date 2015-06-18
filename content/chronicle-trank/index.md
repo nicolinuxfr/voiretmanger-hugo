@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Chronicle, Josh Trank"
 title = "Chronicle, Josh Trank"
 url = "/chronicle-trank"

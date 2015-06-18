@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Michael Jackson, un phénomène fascinant"
 title = "Michael Jackson, un phénomène fascinant"
 url = "/michael-jackson-phenomene-fascinant"

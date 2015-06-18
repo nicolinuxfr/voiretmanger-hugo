@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Transfert effectué !"
 title = "Transfert effectué !"
 url = "/transfert-effectue"

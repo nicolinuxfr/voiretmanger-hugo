@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Frangins à Lyon"
 title = "Les Frangins à Lyon"
 url = "/frangins-lyon"

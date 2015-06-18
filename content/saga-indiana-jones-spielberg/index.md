@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La saga <em>Indiana Jones</em>, Steven Spielberg"
 title = "La saga Indiana Jones, Steven Spielberg"
 url = "/saga-indiana-jones-spielberg"

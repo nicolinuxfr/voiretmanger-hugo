@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le roi de l&rsquo;évasion, Alain Guiraudie"
 title = "Le roi de l'évasion, Alain Guiraudie"
 url = "/le-roi-de-evasion-guiraudie"

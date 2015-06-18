@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Wall-E, dernier bijou des studios Pixar"
 title = "Wall-E, dernier bijou des studios Pixar"
 url = "/wall-e-dernier-bijou-des-studios-pixar"

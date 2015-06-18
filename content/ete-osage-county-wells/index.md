@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Un été à Osage County</em>, John Wells"
 title = "Un été à Osage County, John Wells"
 url = "/ete-osage-county-wells"

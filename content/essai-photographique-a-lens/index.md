@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Essai photographique à l&rsquo;ENS"
 title = "Essai photographique à l'ENS"
 url = "/essai-photographique-a-lens"

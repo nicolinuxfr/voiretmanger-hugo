@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Un conseil très Municipal au Théâtre Mélo d’Amélie (28 août 2010)"
 title = "Un conseil très Municipal au Théâtre Mélo d’Amélie (28 août 2010)"
 url = "/conseil-tres-municipal-melo-amelie"

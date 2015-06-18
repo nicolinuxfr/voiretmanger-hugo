@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Taxi Téhéran</em>, Jafar Panahi"
 title = "Taxi Téhéran, Jafar Panahi"
 url = "/taxi-teheran-panahi"

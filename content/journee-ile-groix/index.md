@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Une journée sur l&rsquo;île de Groix"
 title = "Une journée sur l'île de Groix"
 url = "/journee-ile-groix"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Adrienn Pàl, Ágnes Kocsis"
 title = "Adrienn Pàl, Ágnes Kocsis"
 url = "/adrienn-pal-kocsis"

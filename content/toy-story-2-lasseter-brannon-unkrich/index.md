@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Toy Story 2</em>, John Lasseter, Ash Brannon et Lee Unkrich"
 title = "Toy Story 2, John Lasseter, Ash Brannon et Lee Unkrich"
 url = "/toy-story-2-lasseter-brannon-unkrich"

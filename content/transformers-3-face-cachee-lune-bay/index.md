@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Transformers 3 : La Face cachée de la Lune</em>, Michael Bay"
 title = "Transformers 3 : La Face cachée de la Lune, Michael Bay"
 url = "/transformers-3-face-cachee-lune-bay"

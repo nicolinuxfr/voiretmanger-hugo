@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;ordre et la morale, Mathieu Kassovitz"
 title = "L'ordre et la morale, Mathieu Kassovitz"
 url = "/ordre-morale-kassovitz"

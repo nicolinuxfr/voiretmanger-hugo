@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Aigle de la Neuvième Légion</em>, Kevin MacDonald"
 title = "L'Aigle de la Neuvième Légion, Kevin MacDonald"
 url = "/aigle-neuvieme-legion-macdonald"

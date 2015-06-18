@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Chant des Sirènes, Orelsan"
 title = "Le Chant des Sirènes, Orelsan"
 url = "/chant-sirenes-orelsan"

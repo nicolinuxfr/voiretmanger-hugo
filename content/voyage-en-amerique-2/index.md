@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Voyage en Amérique (août 2008) — Billet n°2 : Sur la route&#8230;"
 title = "Voyage en Amérique (août 2008) — Billet n°2 : Sur la route&#8230;"
 url = "/voyage-en-amerique-2"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Claire Diterzi et Dominique A au Bikini (20 novembre 2009)"
 title = "Claire Diterzi et Dominique A au Bikini (20 novembre 2009)"
 url = "/claire-diterzi-dominique-a-bikini"

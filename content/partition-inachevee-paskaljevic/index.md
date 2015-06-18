@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La partition inachevée</em>, Goran Paskaljevic"
 title = "La partition inachevée, Goran Paskaljevic"
 url = "/partition-inachevee-paskaljevic"

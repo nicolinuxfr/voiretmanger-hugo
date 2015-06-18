@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Quai d&rsquo;Orsay</em>, Bertrand Tavernier"
 title = "Quai d'Orsay, Bertrand Tavernier"
 url = "/quai-orsay-tavernier"

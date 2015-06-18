@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Spirit, de Frank Miller"
 title = "The Spirit, de Frank Miller"
 url = "/the-spirit-de-franck-miller"

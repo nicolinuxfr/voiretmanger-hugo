@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Happiness Therapy</em>, David O. Russell"
 title = "Happiness Therapy, David O. Russell"
 url = "/happiness-therapy-russell"

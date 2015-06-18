@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Arrietty le petit monde des chapardeurs, Hiromasa Yonebayashi"
 title = "Arrietty le petit monde des chapardeurs, Hiromasa Yonebayashi"
 url = "/arrietty-petit-monde-chapardeurs-yonebayashi"

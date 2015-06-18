@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>A Scanner Darkly</em>, Richard Linklater"
 title = "A Scanner Darkly, Richard Linklater"
 url = "/scanner-darkly-linklater"

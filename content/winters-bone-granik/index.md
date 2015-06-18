@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Winter&rsquo;s Bone, Debra Granik"
 title = "Winter's Bone, Debra Granik"
 url = "/winters-bone-granik"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Lone Ranger, Naissance d&rsquo;un héros</em>, Gore Verbinski"
 title = "The Lone Ranger, Naissance d'un héros, Gore Verbinski"
 url = "/the-lone-ranger-naissance-heros-verbinski"

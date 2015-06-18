@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Toute première fois</em>, Noémie Saglio et Maxime Govare"
 title = "Toute première fois, Noémie Saglio et Maxime Govare"
 url = "/toute-premiere-fois-saglio-govare"

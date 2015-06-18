@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "When You&rsquo;re Strange, Tom DiCillo"
 title = "When You're Strange, Tom DiCillo"
 url = "/when-you-re-strange-dicillo"

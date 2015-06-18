@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Petit Homme, la musique participative"
 title = "Petit Homme, la musique participative"
 url = "/petit-homme-musique-participative"

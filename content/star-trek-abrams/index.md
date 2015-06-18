@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek</em>, J.J. Abrams"
 title = "Star Trek, J.J. Abrams"
 url = "/star-trek-abrams"

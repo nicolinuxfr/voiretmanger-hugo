@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "This is it, Michael Jackson"
 title = "This is it, Michael Jackson"
 url = "/this-is-it-jackson"

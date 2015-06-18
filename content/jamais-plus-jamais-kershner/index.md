@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jamais plus jamais</em>, Irvin Kershner"
 title = "Jamais plus jamais, Irvin Kershner"
 url = "/jamais-plus-jamais-kershner"

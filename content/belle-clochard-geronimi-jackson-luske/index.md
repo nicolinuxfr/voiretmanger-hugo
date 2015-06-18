@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Belle et le Clochard</em>, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 title = "La Belle et le Clochard, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 url = "/belle-clochard-geronimi-jackson-luske"

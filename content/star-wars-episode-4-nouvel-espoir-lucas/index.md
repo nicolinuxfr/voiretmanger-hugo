@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Wars, Épisode IV : Un nouvel espoir</em>, George Lucas"
 title = "Star Wars, Épisode IV : Un nouvel espoir, George Lucas"
 url = "/star-wars-episode-4-nouvel-espoir-lucas"

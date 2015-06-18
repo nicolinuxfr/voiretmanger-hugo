@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les joies de la HIFI&#8230;"
 title = "Les joies de la HIFI&#8230;"
 url = "/les-joies-de-la-hifi"

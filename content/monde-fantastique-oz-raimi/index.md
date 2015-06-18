@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Monde fantastique d&rsquo;Oz, Sam Raimi"
 title = "Le Monde fantastique d'Oz, Sam Raimi"
 url = "/monde-fantastique-oz-raimi"

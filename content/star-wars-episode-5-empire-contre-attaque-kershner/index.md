@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Wars, Épisode V : L&rsquo;Empire contre-attaque</em>, Irvin Kershner"
 title = "Star Wars, Épisode V : L'Empire contre-attaque, Irvin Kershner"
 url = "/star-wars-episode-5-empire-contre-attaque-kershner"

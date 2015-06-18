@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Transformers : L&rsquo;Âge de l&rsquo;extinction</em>, Michael Bay"
 title = "Transformers : L'Âge de l'extinction, Michael Bay"
 url = "/transformers-age-extinction-bay"

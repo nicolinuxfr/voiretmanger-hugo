@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Charlie et la chocolaterie</em>, Tim Burton"
 title = "Charlie et la chocolaterie, Tim Burton"
 url = "/charlie-chocolaterie-burton"

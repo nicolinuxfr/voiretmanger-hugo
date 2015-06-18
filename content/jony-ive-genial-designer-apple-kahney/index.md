@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jony Ive &#8211; Le génial designer d&rsquo;Apple</em>, Leander Kahney"
 title = "Jony Ive &#8211; Le génial designer d'Apple, Leander Kahney"
 url = "/jony-ive-genial-designer-apple-kahney"

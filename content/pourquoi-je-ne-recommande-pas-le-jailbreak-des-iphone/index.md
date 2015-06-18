@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Pourquoi je ne recommande pas le jailbreak des iPhone/iPod touch&#8230;"
 title = "Pourquoi je ne recommande pas le jailbreak des iPhone/iPod touch&#8230;"
 url = "/pourquoi-je-ne-recommande-pas-le-jailbreak-des-iphone"

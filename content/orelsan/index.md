@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Orelsan : en français, rap rime avec polémique"
 title = "Orelsan : en français, rap rime avec polémique"
 url = "/orelsan"

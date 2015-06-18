@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Lascars</em>, de Lazaro et Klotz"
 title = "Lascars, de Lazaro et Klotz"
 url = "/lascars-lazaro-klotz"

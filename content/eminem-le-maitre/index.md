@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Eminem, le maître"
 title = "Eminem, le maître"
 url = "/eminem-le-maitre"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Blanche-Neige et les sept nains</em>, David Hand"
 title = "Blanche-Neige et les sept nains, David Hand"
 url = "/blanche-neige-sept-nains-hand"

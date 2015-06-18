@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Effets secondaires</em>, Steven Soderbergh"
 title = "Effets secondaires, Steven Soderbergh"
 url = "/effets-secondaires-soderbergh"

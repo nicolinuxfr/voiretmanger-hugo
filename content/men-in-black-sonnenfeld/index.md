@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Men in Black</em> et <em>MIIB</em>, Barry Sonnenfeld"
 title = "Men in Black et MIIB, Barry Sonnenfeld"
 url = "/men-in-black-sonnenfeld"

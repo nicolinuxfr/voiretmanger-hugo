@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hercule</em>, John Musker et Ron Clements"
 title = "Hercule, John Musker et Ron Clements"
 url = "/hercule-musker-clements"

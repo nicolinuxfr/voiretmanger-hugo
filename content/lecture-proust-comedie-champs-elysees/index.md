@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Lecture d&rsquo;instants choisis de Proust, Comédie des Champs-Élysées"
 title = "Lecture d'instants choisis de Proust, Comédie des Champs-Élysées"
 url = "/lecture-proust-comedie-champs-elysees"

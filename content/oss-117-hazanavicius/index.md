@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>OSS 117</em>, Michel Hazanavicius"
 title = "OSS 117, Michel Hazanavicius"
 url = "/oss-117-hazanavicius"

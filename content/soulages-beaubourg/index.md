@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Soulages à Beaubourg (2009-2010)"
 title = "Soulages à Beaubourg (2009-2010)"
 url = "/soulages-beaubourg"

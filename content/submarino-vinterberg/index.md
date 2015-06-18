@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Submarino, Thomas Vinterberg"
 title = "Submarino, Thomas Vinterberg"
 url = "/submarino-vinterberg"

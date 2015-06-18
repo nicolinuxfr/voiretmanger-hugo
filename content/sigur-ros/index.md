@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sigur Rós, Með suð í eyrum við spilum endalaust : qu&rsquo;est-ce qu&rsquo;une bonne musique ?"
 title = "Sigur Rós, Með suð í eyrum við spilum endalaust : qu'est-ce qu'une bonne musique ?"
 url = "/sigur-ros"

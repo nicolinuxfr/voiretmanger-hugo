@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Coréen Barbecue, Lyon"
 title = "Coréen Barbecue, Lyon"
 url = "/coreen-barbecue-lyon"

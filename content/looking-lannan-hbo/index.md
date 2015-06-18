@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Looking</em>, Michael Lannan (HBO)"
 title = "Looking, Michael Lannan (HBO)"
 url = "/looking-lannan-hbo"

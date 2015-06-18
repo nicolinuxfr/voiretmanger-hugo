@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La cuisine à la télévision"
 title = "La cuisine à la télévision"
 url = "/cuisine-television"

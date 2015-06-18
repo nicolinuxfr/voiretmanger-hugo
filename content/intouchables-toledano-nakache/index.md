@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Intouchables</em>, Eric Toledano et Olivier Nakache"
 title = "Intouchables, Eric Toledano et Olivier Nakache"
 url = "/intouchables-toledano-nakache"

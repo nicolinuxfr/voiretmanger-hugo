@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Boy A : un droit à la seconde chance ?"
 title = "Boy A : un droit à la seconde chance ?"
 url = "/boy-a"

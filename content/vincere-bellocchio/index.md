@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Vincere, Marco Bellocchio"
 title = "Vincere, Marco Bellocchio"
 url = "/vincere-bellocchio"

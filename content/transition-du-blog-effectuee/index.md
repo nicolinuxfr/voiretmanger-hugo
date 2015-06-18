@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Transition du blog effectuée !"
 title = "Transition du blog effectuée !"
 url = "/transition-du-blog-effectuee"

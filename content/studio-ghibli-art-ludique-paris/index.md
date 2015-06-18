@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Dessins du studio Ghibli au Musée Art Ludique de Paris"
 title = "Dessins du studio Ghibli au Musée Art Ludique de Paris"
 url = "/studio-ghibli-art-ludique-paris"

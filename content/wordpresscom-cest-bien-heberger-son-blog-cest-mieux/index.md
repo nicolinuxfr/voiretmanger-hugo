@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "WordPress.com, c&rsquo;est bien, héberger son blog, c&rsquo;est mieux&#8230;"
 title = "WordPress.com, c'est bien, héberger son blog, c'est mieux&#8230;"
 url = "/wordpresscom-cest-bien-heberger-son-blog-cest-mieux"

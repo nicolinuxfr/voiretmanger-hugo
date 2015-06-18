@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mad Max : Au-delà du dôme du tonnerre</em>, George Miller et George Ogilvie"
 title = "Mad Max : Au-delà du dôme du tonnerre, George Miller et George Ogilvie"
 url = "/mad-max-dome-tonnerre-miller-ogilvie"

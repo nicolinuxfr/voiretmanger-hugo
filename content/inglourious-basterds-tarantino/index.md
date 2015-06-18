@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Inglourious Basterds</em>, Quentin Tarantino"
 title = "Inglourious Basterds, Quentin Tarantino"
 url = "/inglourious-basterds-tarantino"

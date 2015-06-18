@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Belle et la Bête</em>, Christophe Gans"
 title = "La Belle et la Bête, Christophe Gans"
 url = "/belle-bete-gans"

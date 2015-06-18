@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Cogan : Killing Them Softly</em>, Andrew Dominik"
 title = "Cogan : Killing Them Softly, Andrew Dominik"
 url = "/cogan-killing-them-softly-dominik"

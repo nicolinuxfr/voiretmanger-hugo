@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "France Inter : la fin d&rsquo;une époque"
 title = "France Inter : la fin d'une époque"
 url = "/france-inter-fin-epoque"

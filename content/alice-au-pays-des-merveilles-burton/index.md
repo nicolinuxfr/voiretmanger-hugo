@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Alice au Pays des Merveilles</em>, Tim Burton"
 title = "Alice au Pays des Merveilles, Tim Burton"
 url = "/alice-au-pays-des-merveilles-burton"

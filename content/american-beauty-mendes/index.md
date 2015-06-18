@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>American Beauty</em>, Sam Mendes"
 title = "American Beauty, Sam Mendes"
 url = "/american-beauty-mendes"

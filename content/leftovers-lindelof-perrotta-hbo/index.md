@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Leftovers</em>, Damon Lindelof et Tom Perrotta (HBO)"
 title = "The Leftovers, Damon Lindelof et Tom Perrotta (HBO)"
 url = "/leftovers-lindelof-perrotta-hbo"

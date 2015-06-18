@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Il pleuvait des oiseaux</em>, Jocelyne Saucier"
 title = "Il pleuvait des oiseaux, Jocelyne Saucier"
 url = "/pleuvait-oiseaux-saucier"

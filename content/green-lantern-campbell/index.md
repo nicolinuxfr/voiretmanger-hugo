@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Green Lantern</em>, Martin Campbell"
 title = "Green Lantern, Martin Campbell"
 url = "/green-lantern-campbell"

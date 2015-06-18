@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Thor : Le Monde des Ténèbres</em>, Alan Taylor"
 title = "Thor : Le Monde des Ténèbres, Alan Taylor"
 url = "/thor-le-monde-des-tenebres-taylor"

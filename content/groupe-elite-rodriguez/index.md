@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Groupe d&rsquo;élite, Alberto Rodriguez"
 title = "Groupe d'élite, Alberto Rodriguez"
 url = "/groupe-elite-rodriguez"

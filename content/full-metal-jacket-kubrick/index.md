@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Full Metal Jacket</em>, Stanley Kubrick"
 title = "Full Metal Jacket, Stanley Kubrick"
 url = "/full-metal-jacket-kubrick"

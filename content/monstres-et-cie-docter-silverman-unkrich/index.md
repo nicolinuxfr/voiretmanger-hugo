@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Monstres &#038; Cie</em>, Pete Docter, David Silverman et Lee Unkrich"
 title = "Monstres &#038; Cie, Pete Docter, David Silverman et Lee Unkrich"
 url = "/monstres-et-cie-docter-silverman-unkrich"

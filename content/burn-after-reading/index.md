@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Burn After Reading</em>"
 title = "Burn After Reading"
 url = "/burn-after-reading"

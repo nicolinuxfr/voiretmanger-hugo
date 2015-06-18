@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le roi lion, la comédie musicale"
 title = "Le roi lion, la comédie musicale"
 url = "/le-roi-lion-la-comedie-musicale"

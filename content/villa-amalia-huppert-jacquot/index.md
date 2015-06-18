@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Villa Amalia, Isabelle Huppert (Benoît Jacquot)"
 title = "Villa Amalia, Isabelle Huppert (Benoît Jacquot)"
 url = "/villa-amalia-huppert-jacquot"

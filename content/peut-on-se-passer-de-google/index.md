@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Peut-on se passer de Google ?"
 title = "Peut-on se passer de Google ?"
 url = "/peut-on-se-passer-de-google"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Orange mécanique</em>, Stanley Kubrick"
 title = "Orange mécanique, Stanley Kubrick"
 url = "/orange-mecanique-kubrick"

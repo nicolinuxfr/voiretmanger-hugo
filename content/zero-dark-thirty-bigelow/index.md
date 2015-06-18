@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Zero Dark Thirty</em>, Kathryn Bigelow"
 title = "Zero Dark Thirty, Kathryn Bigelow"
 url = "/zero-dark-thirty-bigelow"

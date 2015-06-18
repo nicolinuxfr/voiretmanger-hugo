@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twixt</em>, Francis Ford Coppola"
 title = "Twixt, Francis Ford Coppola"
 url = "/twixt-coppola"

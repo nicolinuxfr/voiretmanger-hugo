@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Exercices de style, au Lucernaire"
 title = "Exercices de style, au Lucernaire"
 url = "/exercices-de-style-au-lucernaire"

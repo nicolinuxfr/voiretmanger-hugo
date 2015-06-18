@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>#Chef</em>, Jon Favreau"
 title = "#Chef, Jon Favreau"
 url = "/chef-favreau"

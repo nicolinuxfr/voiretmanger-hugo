@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Belle au bois dormant</em>, Clyde Geronimi"
 title = "La Belle au bois dormant, Clyde Geronimi"
 url = "/belle-bois-dormant-geronimi"

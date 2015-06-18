@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Labyrinthe de Pan</em>, Guillermo del Toro"
 title = "Le Labyrinthe de Pan, Guillermo del Toro"
 url = "/labyrinthe-pan-toro"

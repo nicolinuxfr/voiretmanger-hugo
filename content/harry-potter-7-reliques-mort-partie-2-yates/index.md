@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et les Reliques de la Mort (partie 2)</em>, David Yates"
 title = "Harry Potter et les Reliques de la Mort (partie 2), David Yates"
 url = "/harry-potter-7-reliques-mort-partie-2-yates"

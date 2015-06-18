@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Qu’est-ce qu’on a fait au Bon Dieu ?</em>, Philippe de Chauveron"
 title = "Qu’est-ce qu’on a fait au Bon Dieu ?, Philippe de Chauveron"
 url = "/bon-dieu-chauveron"

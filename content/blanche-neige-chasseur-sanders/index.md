@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Blanche-Neige et le Chasseur</em>, Rupert Sanders"
 title = "Blanche-Neige et le Chasseur, Rupert Sanders"
 url = "/blanche-neige-chasseur-sanders"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Yellow Birds</em>, Kevin Powers"
 title = "Yellow Birds, Kevin Powers"
 url = "/yellow-birds-power"

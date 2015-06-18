@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Claire Diterzi : ou comment la musique française peut être bien&#8230;"
 title = "Claire Diterzi : ou comment la musique française peut être bien&#8230;"
 url = "/claire-diterzi-ou-comment-la-musique-francaise-peut-etre-bien"

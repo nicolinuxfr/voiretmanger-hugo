@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Apprenti Sorcier</em>, John Turteltaub"
 title = "L'Apprenti Sorcier, John Turteltaub"
 url = "/apprenti-sorcier-turteltaub"

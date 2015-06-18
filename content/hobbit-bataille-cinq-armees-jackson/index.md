@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Hobbit : La Bataille des Cinq Armées</em>, Peter Jackson"
 title = "Le Hobbit : La Bataille des Cinq Armées, Peter Jackson"
 url = "/hobbit-bataille-cinq-armees-jackson"

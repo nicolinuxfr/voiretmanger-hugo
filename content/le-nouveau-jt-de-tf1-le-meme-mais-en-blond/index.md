@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le nouveau JT de TF1 : le même mais en blond ?"
 title = "Le nouveau JT de TF1 : le même mais en blond ?"
 url = "/le-nouveau-jt-de-tf1-le-meme-mais-en-blond"

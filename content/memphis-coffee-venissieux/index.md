@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Memphis Coffee à Vénissieux"
 title = "Le Memphis Coffee à Vénissieux"
 url = "/memphis-coffee-venissieux"

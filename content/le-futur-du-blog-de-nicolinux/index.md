@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le futur du blog de Nicolinux&#8230;"
 title = "Le futur du blog de Nicolinux&#8230;"
 url = "/le-futur-du-blog-de-nicolinux"

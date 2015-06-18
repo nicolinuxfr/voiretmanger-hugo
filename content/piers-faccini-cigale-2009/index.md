@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Piers Faccini à la Cigale (16 décembre 2009)"
 title = "Piers Faccini à la Cigale (16 décembre 2009)"
 url = "/piers-faccini-cigale-2009"

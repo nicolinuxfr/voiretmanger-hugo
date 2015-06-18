@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Somewhere, Sofia Coppola"
 title = "Somewhere, Sofia Coppola"
 url = "/somewhere-coppola"

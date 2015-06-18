@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Bienvenue sur le blog de Nicolinux !"
 title = "Bienvenue sur le blog de Nicolinux !"
 url = "/bienvenue"

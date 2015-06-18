@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twin Peaks: Fire Walk with Me</em>, David Lynch"
 title = "Twin Peaks: Fire Walk with Me, David Lynch"
 url = "/twin-peaks-fire-walk-with-me-lynch"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Astérix chez les Pictes</em>, Jean-Yves Ferri et Didier Conrad"
 title = "Astérix chez les Pictes, Jean-Yves Ferri et Didier Conrad"
 url = "/asterix-chez-les-pictes-ferri-conrad"

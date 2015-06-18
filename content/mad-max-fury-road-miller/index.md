@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mad Max: Fury Road</em>, George Miller"
 title = "Mad Max: Fury Road, George Miller"
 url = "/mad-max-fury-road-miller"

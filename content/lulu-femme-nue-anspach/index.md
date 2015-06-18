@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Lulu, femme nue</em>, Solveig Anspach"
 title = "Lulu, femme nue, Solveig Anspach"
 url = "/lulu-femme-nue-anspach"

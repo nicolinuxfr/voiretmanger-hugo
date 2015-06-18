@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Aventures de Bernard et Bianca</em>, Wolfgang Reitherman, Art Stevens et John Lounsbery"
 title = "Les Aventures de Bernard et Bianca, Wolfgang Reitherman, Art Stevens et John Lounsbery"
 url = "/aventures-bernard-et-bianca-reitherman-stevens-lounsbery"

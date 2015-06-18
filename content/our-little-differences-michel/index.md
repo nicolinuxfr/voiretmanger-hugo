@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Our Little Differences, Sylvie Michel"
 title = "Our Little Differences, Sylvie Michel"
 url = "/our-little-differences-michel"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Only Lovers Left Alive</em>, Jim Jarmusch"
 title = "Only Lovers Left Alive, Jim Jarmusch"
 url = "/only-lovers-left-alive-jarmusch"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Poetry, Lee Chang-Dong"
 title = "Poetry, Lee Chang-Dong"
 url = "/poetry-chang-dong"

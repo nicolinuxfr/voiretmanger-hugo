@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Restless, Gus Van Sant"
 title = "Restless, Gus Van Sant"
 url = "/restless-van-sant"

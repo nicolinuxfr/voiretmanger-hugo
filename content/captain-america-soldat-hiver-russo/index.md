@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Captain America : Le Soldat de l&rsquo;hiver</em>, Anthony et Joe Russo"
 title = "Captain America : Le Soldat de l'hiver, Anthony et Joe Russo"
 url = "/captain-america-soldat-hiver-russo"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Donnie Darko</em>, Richard Kelly"
 title = "Donnie Darko, Richard Kelly"
 url = "/donnie-darko-kelly"

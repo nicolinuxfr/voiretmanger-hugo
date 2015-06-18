@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Winter Sleep</em>, Nuri Bilge Ceylan (Palme d&rsquo;or 2014)"
 title = "Winter Sleep, Nuri Bilge Ceylan (Palme d'or 2014)"
 url = "/winter-sleep-ceylan"

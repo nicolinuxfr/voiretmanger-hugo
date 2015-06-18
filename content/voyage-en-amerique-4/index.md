@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Voyage en Amérique (août 2008) — Billet n°4 : Glaciers National Park"
 title = "Voyage en Amérique (août 2008) — Billet n°4 : Glaciers National Park"
 url = "/voyage-en-amerique-4"

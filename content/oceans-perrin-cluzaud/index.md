@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Océans, Jacques Perrin et Jacques Cluzaud"
 title = "Océans, Jacques Perrin et Jacques Cluzaud"
 url = "/oceans-perrin-cluzaud"

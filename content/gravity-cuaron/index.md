@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Gravity</em>, Alfonso Cuarón"
 title = "Gravity, Alfonso Cuarón"
 url = "/gravity-cuaron"

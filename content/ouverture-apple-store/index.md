@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "J&rsquo;ai participé à l&rsquo;ouverture d&rsquo;un Apple Store"
 title = "J'ai participé à l'ouverture d'un Apple Store"
 url = "/ouverture-apple-store"

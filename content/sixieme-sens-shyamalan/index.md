@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Sixième Sens</em>, M. Night Shyamalan"
 title = "Sixième Sens, M. Night Shyamalan"
 url = "/sixieme-sens-shyamalan"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>American Bluff</em>, David O. Russell"
 title = "American Bluff, David O. Russell"
 url = "/american-bluff-russell"

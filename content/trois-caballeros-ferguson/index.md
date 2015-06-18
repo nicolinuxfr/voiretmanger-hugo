@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Trois Caballeros</em>, Norman Ferguson"
 title = "Les Trois Caballeros, Norman Ferguson"
 url = "/trois-caballeros-ferguson"

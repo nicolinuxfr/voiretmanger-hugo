@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mammuth, Benoît Delépine et Gustave Kervern"
 title = "Mammuth, Benoît Delépine et Gustave Kervern"
 url = "/mammuth-delepine-kervern"

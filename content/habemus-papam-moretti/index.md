@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Habemus Papam, Nanni Moretti"
 title = "Habemus Papam, Nanni Moretti"
 url = "/habemus-papam-moretti"

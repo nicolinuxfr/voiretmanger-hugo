@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Exposition Star Wars Identités à Lyon"
 title = "Exposition Star Wars Identités à Lyon"
 url = "/star-wars-identites-lyon"

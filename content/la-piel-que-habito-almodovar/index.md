@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Piel que Habito</em>, Pedro Almodóvar"
 title = "La Piel que Habito, Pedro Almodóvar"
 url = "/la-piel-que-habito-almodovar"

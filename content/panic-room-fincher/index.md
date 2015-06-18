@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Panic Room</em>, David Fincher"
 title = "Panic Room, David Fincher"
 url = "/panic-room-fincher"

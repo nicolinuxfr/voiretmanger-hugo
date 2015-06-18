@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Bossu de Notre-Dame</em>, Gary Trousdale et Kirk Wise"
 title = "Le Bossu de Notre-Dame, Gary Trousdale et Kirk Wise"
 url = "/bossu-de-notre-dame-trousdale-wise"

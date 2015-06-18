@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Rio, Carlos Saldanha"
 title = "Rio, Carlos Saldanha"
 url = "/rio-saldanha"

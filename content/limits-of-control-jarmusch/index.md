@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Limits of Control</em>, Jim Jarmusch"
 title = "The Limits of Control, Jim Jarmusch"
 url = "/limits-of-control-jarmusch"

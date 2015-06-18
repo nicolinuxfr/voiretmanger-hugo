@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le dernier maître de l&rsquo;air, M. Night Shyamalan"
 title = "Le dernier maître de l'air, M. Night Shyamalan"
 url = "/dernier-maitre-air-shyamalan"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Wars, Épisode III : La Revanche des Sith</em>, George Lucas"
 title = "Star Wars, Épisode III : La Revanche des Sith, George Lucas"
 url = "/star-wars-episode-3-revanche-sith-lucas"

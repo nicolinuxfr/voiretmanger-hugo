@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Grand Central</em>, Rebecca Zlotowski"
 title = "Grand Central, Rebecca Zlotowski"
 url = "/grand-central-zlotowski"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Breathless, Yang Ik-June"
 title = "Breathless, Yang Ik-June"
 url = "/breathless-ik-june"

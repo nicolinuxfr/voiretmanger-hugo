@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Monstres Academy</em>, Dan Scanlon"
 title = "Monstres Academy, Dan Scanlon"
 url = "/monstres-academy-scanlon"

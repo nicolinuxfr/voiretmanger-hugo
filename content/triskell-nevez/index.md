@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Triskell à Névez"
 title = "Le Triskell à Névez"
 url = "/triskell-nevez"

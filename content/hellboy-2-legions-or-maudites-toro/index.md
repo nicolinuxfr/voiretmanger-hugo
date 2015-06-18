@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hellboy II : Les Légions d&rsquo;or maudites</em>, Guillermo del Toro"
 title = "Hellboy II : Les Légions d'or maudites, Guillermo del Toro"
 url = "/hellboy-2-legions-or-maudites-toro"

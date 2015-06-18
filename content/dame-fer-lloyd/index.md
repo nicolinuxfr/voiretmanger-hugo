@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Dame de fer</em>, Phyllida Lloyd"
 title = "La Dame de fer, Phyllida Lloyd"
 url = "/dame-fer-lloyd"

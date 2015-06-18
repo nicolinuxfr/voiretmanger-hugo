@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et la Coupe de Feu</em>, Mike Newell"
 title = "Harry Potter et la Coupe de Feu, Mike Newell"
 url = "/harry-potter-et-la-coupe-de-feu-newell"

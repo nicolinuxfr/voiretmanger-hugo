@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La porte du paradis</em>, Michael Cimino"
 title = "La porte du paradis, Michael Cimino"
 url = "/la-porte-du-paradis-cimino"

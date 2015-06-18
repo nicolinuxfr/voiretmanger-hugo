@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Un Prophète, Jacques Audiard"
 title = "Un Prophète, Jacques Audiard"
 url = "/un-prophete-audiard"

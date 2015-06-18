@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>2001 : l&rsquo;odyssée de l&rsquo;espace</em>, Stanley Kubrick"
 title = "2001 : l'odyssée de l'espace, Stanley Kubrick"
 url = "/2001-odyssee-espace-kubrick"

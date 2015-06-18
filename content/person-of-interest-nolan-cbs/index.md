@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Person of Interest</em>, Jonathan Nolan (CBS)"
 title = "Person of Interest, Jonathan Nolan (CBS)"
 url = "/person-of-interest-nolan-cbs"

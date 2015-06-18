@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Hero, Zhang Yimou"
 title = "Hero, Zhang Yimou"
 url = "/hero-yimou"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Star Wars, The Clone Wars : ou comment l&rsquo;animation libère"
 title = "Star Wars, The Clone Wars : ou comment l'animation libère"
 url = "/star-wars-the-clone-wars-ou-comment-lanimation-libere"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Un homme très recherché</em>, Anton Corbijn"
 title = "Un homme très recherché, Anton Corbijn"
 url = "/homme-tres-recherche-corbijn"

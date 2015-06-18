@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Coco Chanel &#038; Igor Stravinsky, Jan Kounen"
 title = "Coco Chanel &#038; Igor Stravinsky, Jan Kounen"
 url = "/chanel-stravinsky-kounen"

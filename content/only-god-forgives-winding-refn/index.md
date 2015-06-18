@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Only God Forgives</em>, Nicolas Winding Refn"
 title = "Only God Forgives, Nicolas Winding Refn"
 url = "/only-god-forgives-winding-refn"

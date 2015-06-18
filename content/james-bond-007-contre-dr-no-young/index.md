@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>James Bond 007 contre Dr. No</em>, Terence Young"
 title = "James Bond 007 contre Dr. No, Terence Young"
 url = "/james-bond-007-contre-dr-no-young"

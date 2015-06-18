@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Homeland</em>, Howard Gordon, Alex Gansa et Gideon Raff (Showtime)"
 title = "Homeland, Howard Gordon, Alex Gansa et Gideon Raff (Showtime)"
 url = "/homeland-gordon-gansa-raff-showtime"

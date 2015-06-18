@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Six Feet Under</em>, Alan Ball (HBO)"
 title = "Six Feet Under, Alan Ball (HBO)"
 url = "/six-feet-under-ball-hbo"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La vie d&rsquo;Adèle – Chapitres 1 &#038; 2</em>, Abdellatif Kechiche (Palme d&rsquo;or 2013)"
 title = "La vie d'Adèle – Chapitres 1 &#038; 2, Abdellatif Kechiche (Palme d'or 2013)"
 url = "/la-vie-adele-chapitres-1-2-kechiche"

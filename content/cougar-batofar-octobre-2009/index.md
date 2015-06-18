@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Cougar au Batofar (7 octobre 2009)"
 title = "Cougar au Batofar (7 octobre 2009)"
 url = "/cougar-batofar-octobre-2009"

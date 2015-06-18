@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>E.T. l&rsquo;extra-terrestre</em>, Steven Spielberg"
 title = "E.T. l'extra-terrestre, Steven Spielberg"
 url = "/et-extra-terrestre-spielberg"

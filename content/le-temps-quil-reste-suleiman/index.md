@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le temps qu&rsquo;il reste, Elia Suleiman"
 title = "Le temps qu'il reste, Elia Suleiman"
 url = "/le-temps-quil-reste-suleiman"

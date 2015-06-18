@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "35 Rhums, Claire Denis"
 title = "35 Rhums, Claire Denis"
 url = "/35-rhums-denis"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Expendables 2 : unité spéciale</em>, Simon West"
 title = "Expendables 2 : unité spéciale, Simon West"
 url = "/expendables-2-unite-speciale-west"

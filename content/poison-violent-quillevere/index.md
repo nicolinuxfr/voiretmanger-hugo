@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Un poison violent, Katell Quillévéré"
 title = "Un poison violent, Katell Quillévéré"
 url = "/poison-violent-quillevere"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Garçons et Guillaume, à table !</em>, Guillaume Gallienne"
 title = "Les Garçons et Guillaume, à table !, Guillaume Gallienne"
 url = "/garcons-guillaume-table-gallienne"

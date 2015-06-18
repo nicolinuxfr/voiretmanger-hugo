@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Detective Dee : Le mystère de la flamme fantôme, Tsui Hark"
 title = "Detective Dee : Le mystère de la flamme fantôme, Tsui Hark"
 url = "/detective-dee-hark"

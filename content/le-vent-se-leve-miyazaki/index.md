@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le vent se lève</em>, Hayao Miyazaki"
 title = "Le vent se lève, Hayao Miyazaki"
 url = "/le-vent-se-leve-miyazaki"

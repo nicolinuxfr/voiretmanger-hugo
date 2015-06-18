@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pink Floyd The Wall</em>, Alan Parker"
 title = "Pink Floyd The Wall, Alan Parker"
 url = "/pink-floyd-the-wall-parker"

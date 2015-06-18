@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>World War Z</em>, de Marc Forster"
 title = "World War Z, de Marc Forster"
 url = "/world-war-z-forster"

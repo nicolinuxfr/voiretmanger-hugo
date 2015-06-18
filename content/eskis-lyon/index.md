@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Eskis à Lyon"
 title = "Eskis à Lyon"
 url = "/eskis-lyon"

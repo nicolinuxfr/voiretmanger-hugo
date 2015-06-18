@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Ghinzu au Zénith (23 octobre 2009)"
 title = "Ghinzu au Zénith (23 octobre 2009)"
 url = "/ghinzu-zenith-octobre-2009"

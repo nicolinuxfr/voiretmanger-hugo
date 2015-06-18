@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Rebelle</em>, Mark Andrews et Brenda Chapman"
 title = "Rebelle, Mark Andrews et Brenda Chapman"
 url = "/rebelle-andrews-chapman"

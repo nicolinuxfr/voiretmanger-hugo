@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Il était une fois en Amérique, Sergio Leone"
 title = "Il était une fois en Amérique, Sergio Leone"
 url = "/il-etait-une-fois-en-amerique-leone"

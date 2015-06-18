@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek III : À la recherche de Spock</em>, Leonard Nimoy"
 title = "Star Trek III : À la recherche de Spock, Leonard Nimoy"
 url = "/star-trek-iii-a-la-recherche-de-spock-nimoy"

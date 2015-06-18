@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Soyez insatiables, soyez fous"
 title = "Soyez insatiables, soyez fous"
 url = "/steve-jobs-1955-2011"

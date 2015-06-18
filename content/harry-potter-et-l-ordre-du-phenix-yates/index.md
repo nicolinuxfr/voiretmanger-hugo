@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et l&rsquo;Ordre du Phénix</em>, David Yates"
 title = "Harry Potter et l'Ordre du Phénix, David Yates"
 url = "/harry-potter-et-l-ordre-du-phenix-yates"

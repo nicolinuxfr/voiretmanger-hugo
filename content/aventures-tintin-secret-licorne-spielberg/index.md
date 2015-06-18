@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Aventures de Tintin : Le Secret de la Licorne</em>, Steven Spielberg"
 title = "Les Aventures de Tintin : Le Secret de la Licorne, Steven Spielberg"
 url = "/aventures-tintin-secret-licorne-spielberg"

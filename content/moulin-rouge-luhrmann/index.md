@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Moulin Rouge !</em>, Baz Luhrmann"
 title = "Moulin Rouge !, Baz Luhrmann"
 url = "/moulin-rouge-luhrmann"

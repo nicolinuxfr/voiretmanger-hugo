@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Camille Redouble, Noémie Lvovsky"
 title = "Camille Redouble, Noémie Lvovsky"
 url = "/camille-redouble-lvovsky"

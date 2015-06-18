@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les chats persans, Bahman Ghobadi"
 title = "Les chats persans, Bahman Ghobadi"
 url = "/chats-persans-ghobadi"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "N&rsquo;est pas Apple qui veut&#8230;"
 title = "N'est pas Apple qui veut&#8230;"
 url = "/nest-pas-apple-qui-veut"

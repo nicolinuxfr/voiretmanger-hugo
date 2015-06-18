@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Dents de la Mer</em>, Steven Spielberg"
 title = "Les Dents de la Mer, Steven Spielberg"
 url = "/les-dents-de-la-mer-spielberg"

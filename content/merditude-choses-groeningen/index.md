@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La merditude des choses</em>, Felix van Groeningen"
 title = "La merditude des choses, Felix van Groeningen"
 url = "/merditude-choses-groeningen"

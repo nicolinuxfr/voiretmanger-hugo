@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Fargo</em>, Joel et Ethan Coen"
 title = "Fargo, Joel et Ethan Coen"
 url = "/fargo-coen"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Wikio cinéma : top 20 avril 2011"
 title = "Wikio cinéma : top 20 avril 2011"
 url = "/wikio-cinema-top-avril-2011"

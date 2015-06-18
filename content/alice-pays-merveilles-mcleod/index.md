@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Alice au Pays des Merveilles, Norman McLeod"
 title = "Alice au Pays des Merveilles, Norman McLeod"
 url = "/alice-pays-merveilles-mcleod"

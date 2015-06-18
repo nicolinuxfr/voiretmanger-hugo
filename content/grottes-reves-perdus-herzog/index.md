@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Grotte des rêves perdus, Werner Herzog"
 title = "La Grotte des rêves perdus, Werner Herzog"
 url = "/grottes-reves-perdus-herzog"

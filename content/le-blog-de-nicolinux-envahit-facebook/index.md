@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le blog de Nicolinux envahit Facebook ! (à moins que ça ne soit l&rsquo;inverse ?)"
 title = "Le blog de Nicolinux envahit Facebook ! (à moins que ça ne soit l'inverse ?)"
 url = "/le-blog-de-nicolinux-envahit-facebook"

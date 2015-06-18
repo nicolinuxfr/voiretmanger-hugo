@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les chèvres du Pentagone</em>, Grant Heslov"
 title = "Les chèvres du Pentagone, Grant Heslov"
 url = "/les-chevres-du-pentagone-heslov"

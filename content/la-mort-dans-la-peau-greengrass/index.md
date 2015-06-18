@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La mort dans la peau</em>, Paul Greengrass"
 title = "La mort dans la peau, Paul Greengrass"
 url = "/la-mort-dans-la-peau-greengrass"

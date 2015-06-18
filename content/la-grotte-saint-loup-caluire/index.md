@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La grotte Saint Loup à Caluire"
 title = "La grotte Saint Loup à Caluire"
 url = "/la-grotte-saint-loup-caluire"

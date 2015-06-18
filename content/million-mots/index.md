@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Un million de mots après"
 title = "Un million de mots après"
 url = "/million-mots"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Frère des Ours</em>, Aaron Blaise et Robert Walker"
 title = "Frère des Ours, Aaron Blaise et Robert Walker"
 url = "/frere-ours-blaise-walker"

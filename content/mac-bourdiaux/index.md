@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Mac, Pascal Bourdiaux"
 title = "Le Mac, Pascal Bourdiaux"
 url = "/mac-bourdiaux"

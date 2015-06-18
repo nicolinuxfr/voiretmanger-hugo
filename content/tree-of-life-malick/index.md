@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Tree of Life</em>, Terrence Malick (Palme d&rsquo;or 2011)"
 title = "The Tree of Life, Terrence Malick (Palme d'or 2011)"
 url = "/tree-of-life-malick"

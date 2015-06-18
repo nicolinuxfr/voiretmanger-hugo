@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Concours Benda Bilili ! : des places de ciné et des affiches à gagner !"
 title = "Concours Benda Bilili ! : des places de ciné et des affiches à gagner !"
 url = "/concours-benda-bilili"

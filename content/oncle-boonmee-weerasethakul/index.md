@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Oncle Boonmee, celui qui se souvient de ses vies antérieures</em>, Apichatpong Weerasethakul (Palme d&rsquo;or 2010)"
 title = "Oncle Boonmee, celui qui se souvient de ses vies antérieures, Apichatpong Weerasethakul (Palme d'or 2010)"
 url = "/oncle-boonmee-weerasethakul"

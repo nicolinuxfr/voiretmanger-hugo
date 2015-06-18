@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sexy Dance 3 The Battle, Jon Chu"
 title = "Sexy Dance 3 The Battle, Jon Chu"
 url = "/sexy-dance-3-battle-chu"

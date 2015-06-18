@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Shutter Island"
 title = "Shutter Island"
 url = "/shutter-island-scorsese"

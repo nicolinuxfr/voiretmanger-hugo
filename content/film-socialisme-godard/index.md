@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Film Socialisme, Jean-Luc Godard"
 title = "Film Socialisme, Jean-Luc Godard"
 url = "/film-socialisme-godard"

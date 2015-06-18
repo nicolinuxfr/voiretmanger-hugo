@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jurassic Park III</em>, Joe Johnston"
 title = "Jurassic Park III, Joe Johnston"
 url = "/jurassic-park-iii-johnston"

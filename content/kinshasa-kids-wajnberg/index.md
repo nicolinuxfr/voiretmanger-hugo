@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Kinshasa Kids, Marc-Henri Wajnberg"
 title = "Kinshasa Kids, Marc-Henri Wajnberg"
 url = "/kinshasa-kids-wajnberg"

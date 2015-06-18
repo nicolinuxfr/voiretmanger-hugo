@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Gardiens de la Galaxie</em>, James Gunn"
 title = "Les Gardiens de la Galaxie, James Gunn"
 url = "/gardiens-galaxie-gunn"

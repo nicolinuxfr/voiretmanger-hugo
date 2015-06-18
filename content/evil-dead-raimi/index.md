@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Evil Dead, Sam Raimi"
 title = "Evil Dead, Sam Raimi"
 url = "/evil-dead-raimi"

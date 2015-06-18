@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>I Love You Phillip Morris</em>, Glenn Ficarra et John Requa"
 title = "I Love You Phillip Morris, Glenn Ficarra et John Requa"
 url = "/i-love-you-phillip-morris-ficarra-requa"

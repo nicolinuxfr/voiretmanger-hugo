@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le bal des actrices, Maïwenn"
 title = "Le bal des actrices, Maïwenn"
 url = "/le-bal-des-actrices-maiwenn"

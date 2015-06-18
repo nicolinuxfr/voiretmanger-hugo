@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La boîte à musique</em>, Jack Kinney, Clyde Geronimi, Hamilton Luske, Joshua Meador et Robert Cormack"
 title = "La boîte à musique, Jack Kinney, Clyde Geronimi, Hamilton Luske, Joshua Meador et Robert Cormack"
 url = "/boite-musique-kinney-geronimi-luske-meador-cormack"

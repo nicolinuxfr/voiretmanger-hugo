@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Horde, Andrey Proshkin"
 title = "La Horde, Andrey Proshkin"
 url = "/horde-proshkin"

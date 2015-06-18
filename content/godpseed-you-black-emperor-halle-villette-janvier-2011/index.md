@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Godspeed You! Black Emperor à la Grande Halle de la Villette (14 janvier 2011)"
 title = "Godspeed You! Black Emperor à la Grande Halle de la Villette (14 janvier 2011)"
 url = "/godpseed-you-black-emperor-halle-villette-janvier-2011"

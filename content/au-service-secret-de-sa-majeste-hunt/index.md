@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Au service secret de sa Majesté</em>, Peter Hunt"
 title = "Au service secret de sa Majesté, Peter Hunt"
 url = "/au-service-secret-de-sa-majeste-hunt"

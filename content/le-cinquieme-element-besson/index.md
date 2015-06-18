@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Cinquième Élément</em>, Luc Besson"
 title = "Le Cinquième Élément, Luc Besson"
 url = "/le-cinquieme-element-besson"

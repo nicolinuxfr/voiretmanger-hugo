@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Concours : 2 places pour Monsters en avant-première à gagner !"
 title = "Concours : 2 places pour Monsters en avant-première à gagner !"
 url = "/concours-places-monsters-avant-premiere"

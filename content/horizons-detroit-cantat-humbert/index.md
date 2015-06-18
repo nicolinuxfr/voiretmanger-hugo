@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Horizons</em>, Détroit (Bertrand Cantat et Pascal Humbert)"
 title = "Horizons, Détroit (Bertrand Cantat et Pascal Humbert)"
 url = "/horizons-detroit-cantat-humbert"

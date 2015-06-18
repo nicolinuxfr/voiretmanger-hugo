@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Big Blue Ball et Coldplay : mes disques de l&rsquo;été 2008"
 title = "Big Blue Ball et Coldplay : mes disques de l'été 2008"
 url = "/big-blue-ball-et-coldplay-mes-disques-de-lete-2008"

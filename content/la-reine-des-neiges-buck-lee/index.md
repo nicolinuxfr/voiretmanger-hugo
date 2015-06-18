@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Reine des neiges</em>, Chris Buck et Jennifer Lee"
 title = "La Reine des neiges, Chris Buck et Jennifer Lee"
 url = "/la-reine-des-neiges-buck-lee"

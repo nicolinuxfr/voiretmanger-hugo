@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Avengers</em>, Joss Whedon"
 title = "Avengers, Joss Whedon"
 url = "/avengers-whedon"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Ruban blanc</em>, Michael Haneke (Palme d&rsquo;or 2009)"
 title = "Le Ruban blanc, Michael Haneke (Palme d'or 2009)"
 url = "/le-ruban-blanc-haneke"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Thee Silver Mt. Zion à l&rsquo;Alhambra (31 mars 2010)"
 title = "Thee Silver Mt. Zion à l'Alhambra (31 mars 2010)"
 url = "/three-silver-mt-zion-alhambra-mars-2010"

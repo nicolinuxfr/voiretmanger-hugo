@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Anatomie du cauchemar</em>, House Made of Dawn"
 title = "Anatomie du cauchemar, House Made of Dawn"
 url = "/anatomie-du-cauchemar"

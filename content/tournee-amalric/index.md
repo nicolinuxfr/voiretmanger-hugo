@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tournée, Mathieu Amalric"
 title = "Tournée, Mathieu Amalric"
 url = "/tournee-amalric"

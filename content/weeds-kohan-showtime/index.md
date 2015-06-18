@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Weeds</em>, Jenji Kohan (Showtime)"
 title = "Weeds, Jenji Kohan (Showtime)"
 url = "/weeds-kohan-showtime"

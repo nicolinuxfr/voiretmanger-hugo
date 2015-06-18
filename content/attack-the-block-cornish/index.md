@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Attack the Block, Joe Cornish"
 title = "Attack the Block, Joe Cornish"
 url = "/attack-the-block-cornish"

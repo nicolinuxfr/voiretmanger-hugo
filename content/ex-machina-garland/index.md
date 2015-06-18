@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "*Ex Machina*, Alex Garland"
 title = "Ex Machina, Alex Garland"
 url = "/ex-machina-garland"

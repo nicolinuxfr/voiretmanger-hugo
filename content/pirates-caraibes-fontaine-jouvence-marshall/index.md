@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pirates des Caraïbes : La Fontaine de Jouvence</em>, Rob Marshall"
 title = "Pirates des Caraïbes : La Fontaine de Jouvence, Rob Marshall"
 url = "/pirates-caraibes-fontaine-jouvence-marshall"

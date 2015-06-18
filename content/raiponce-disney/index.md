@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Raiponce</em>, Byron Howard et Nathan Greno"
 title = "Raiponce, Byron Howard et Nathan Greno"
 url = "/raiponce-disney"

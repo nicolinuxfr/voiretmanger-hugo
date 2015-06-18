@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Erin Brockovich, seule contre tous</em>, Steven Soderbergh"
 title = "Erin Brockovich, seule contre tous, Steven Soderbergh"
 url = "/erin-brockovich-seule-contre-tous-soderbergh"

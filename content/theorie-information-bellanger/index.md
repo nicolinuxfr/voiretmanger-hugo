@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La théorie de l&rsquo;information, Aurélien Bellanger"
 title = "La théorie de l'information, Aurélien Bellanger"
 url = "/theorie-information-bellanger"

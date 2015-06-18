@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Night and Day</em>, James Mangold"
 title = "Night and Day, James Mangold"
 url = "/night-and-day-mangold"

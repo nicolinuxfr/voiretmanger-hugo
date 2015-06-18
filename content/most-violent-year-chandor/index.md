@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>A Most Violent Year</em>, J.C. Chandor"
 title = "A Most Violent Year, J.C. Chandor"
 url = "/most-violent-year-chandor"

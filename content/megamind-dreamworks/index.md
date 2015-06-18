@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Megamind, Dreamworks"
 title = "Megamind, Dreamworks"
 url = "/megamind-dreamworks"

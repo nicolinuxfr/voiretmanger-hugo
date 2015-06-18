@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Docteur Folamour, Stanley Kubrick"
 title = "Docteur Folamour, Stanley Kubrick"
 url = "/docteur-folamour-kubrick"

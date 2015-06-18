@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>V pour Vendetta</em>, James McTeigue"
 title = "V pour Vendetta, James McTeigue"
 url = "/v-pour-vendetta-mcteigue"

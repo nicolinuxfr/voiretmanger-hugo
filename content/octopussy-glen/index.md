@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Octopussy, John Glen"
 title = "Octopussy, John Glen"
 url = "/octopussy-glen"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Grand Budapest Hotel</em>, Wes Anderson"
 title = "The Grand Budapest Hotel, Wes Anderson"
 url = "/grand-budapest-hotel-anderson"

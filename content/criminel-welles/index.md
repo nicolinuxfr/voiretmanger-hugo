@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Criminel, Orson Welles"
 title = "Le Criminel, Orson Welles"
 url = "/criminel-welles"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Une exécution ordinaire, Marc Dugain"
 title = "Une exécution ordinaire, Marc Dugain"
 url = "/execution-ordinaire-dugain"

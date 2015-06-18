@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Micmacs à tire-larigot, Jean-Pierre Jeunet"
 title = "Micmacs à tire-larigot, Jean-Pierre Jeunet"
 url = "/micmacs-tire-larigot-jeunet"

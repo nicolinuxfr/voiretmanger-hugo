@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Captain America : First Avenger</em>, Joe Johnston"
 title = "Captain America : First Avenger, Joe Johnston"
 url = "/captain-america-first-avenger-johnston"

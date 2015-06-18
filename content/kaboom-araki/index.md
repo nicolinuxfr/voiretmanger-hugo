@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Kaboom, Gregg Araki"
 title = "Kaboom, Gregg Araki"
 url = "/kaboom-araki"

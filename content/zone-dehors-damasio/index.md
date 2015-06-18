@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Zone du Dehors</em>, Alain Damasio"
 title = "La Zone du Dehors, Alain Damasio"
 url = "/zone-dehors-damasio"

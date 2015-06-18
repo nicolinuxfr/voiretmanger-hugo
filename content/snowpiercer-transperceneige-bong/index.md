@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Snowpiercer, Le Transperceneige</em>, Bong Joon-ho"
 title = "Snowpiercer, Le Transperceneige, Bong Joon-ho"
 url = "/snowpiercer-transperceneige-bong"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pacific Rim</em>, Guillermo del Toro"
 title = "Pacific Rim, Guillermo del Toro"
 url = "/pacific-rim-toro"

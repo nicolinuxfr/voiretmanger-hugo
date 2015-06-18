@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;armée du crime, Robert Guédiguian"
 title = "L'armée du crime, Robert Guédiguian"
 url = "/armee-du-crime-guediguian"

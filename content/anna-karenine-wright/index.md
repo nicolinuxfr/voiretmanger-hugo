@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Anna Karenine, Joe Wright"
 title = "Anna Karenine, Joe Wright"
 url = "/anna-karenine-wright"

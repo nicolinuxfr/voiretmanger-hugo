@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "38 témoins, Lucas Belvaux"
 title = "38 témoins, Lucas Belvaux"
 url = "/38-temoins-belvaux"

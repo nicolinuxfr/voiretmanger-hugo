@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>VIEUX FRÈRES – Partie 1</em>, FAUVE"
 title = "VIEUX FRÈRES – Partie 1, FAUVE"
 url = "/vieux-freres-partie-1-fauve"

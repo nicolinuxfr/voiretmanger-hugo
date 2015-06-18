@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Âge de Glace 3 : le temps des dinosaures"
 title = "L'Âge de Glace 3 : le temps des dinosaures"
 url = "/age-de-glace-3-temps-dinosaures"

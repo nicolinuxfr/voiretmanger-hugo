@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Nuits Fauves</em>, FAUVE à la Halle Tony Garnier (2 avril 2015)"
 title = "Les Nuits Fauves, FAUVE à la Halle Tony Garnier (2 avril 2015)"
 url = "/nuits-fauve-tony-garnier-2015"

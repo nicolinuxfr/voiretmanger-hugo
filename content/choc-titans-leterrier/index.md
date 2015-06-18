@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le choc des Titans, Louis Leterrier"
 title = "Le choc des Titans, Louis Leterrier"
 url = "/choc-titans-leterrier"

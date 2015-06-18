@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "True Blood saison 1, HBO"
 title = "True Blood saison 1, HBO"
 url = "/true-blood-saison-1-hbo"

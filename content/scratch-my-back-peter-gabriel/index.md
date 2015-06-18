@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Scratch My Back, Peter Gabriel"
 title = "Scratch My Back, Peter Gabriel"
 url = "/scratch-my-back-peter-gabriel"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jupiter : Le Destin de l&rsquo;univers</em>, Lana et Andy Wachowski"
 title = "Jupiter : Le Destin de l'univers, Lana et Andy Wachowski"
 url = "/jupiter-destin-univers-wachowski"

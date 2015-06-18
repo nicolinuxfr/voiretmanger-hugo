@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Carlos, Olivier Assayas"
 title = "Carlos, Olivier Assayas"
 url = "/carlos-assayas"

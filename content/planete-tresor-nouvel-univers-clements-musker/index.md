@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Planète au Trésor, un nouvel univers</em>, Ron Clements et John Musker"
 title = "La Planète au Trésor, un nouvel univers, Ron Clements et John Musker"
 url = "/planete-tresor-nouvel-univers-clements-musker"

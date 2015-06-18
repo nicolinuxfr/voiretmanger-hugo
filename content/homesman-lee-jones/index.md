@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Homesman</em>, Tommy Lee Jones"
 title = "The Homesman, Tommy Lee Jones"
 url = "/homesman-lee-jones"

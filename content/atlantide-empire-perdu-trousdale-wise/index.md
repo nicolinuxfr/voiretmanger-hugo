@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Atlantide, l&rsquo;Empire Perdu</em>, Gary Trousdale et Kirk Wise"
 title = "Atlantide, l'Empire Perdu, Gary Trousdale et Kirk Wise"
 url = "/atlantide-empire-perdu-trousdale-wise"

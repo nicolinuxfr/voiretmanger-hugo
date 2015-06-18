@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Cleveland contre Wall Street, Jean-Stéphane Bron"
 title = "Cleveland contre Wall Street, Jean-Stéphane Bron"
 url = "/cleveland-wall-street-bron"

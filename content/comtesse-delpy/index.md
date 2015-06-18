@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La comtesse, Julie Delpy"
 title = "La comtesse, Julie Delpy"
 url = "/comtesse-delpy"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Tel père, tel fils</em>, Hirokazu Kore-eda"
 title = "Tel père, tel fils, Hirokazu Kore-eda"
 url = "/tel-pere-tel-fils-koreeda"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Christophe à la Cité de la Musique (15 mars 2010)"
 title = "Christophe à la Cité de la Musique (15 mars 2010)"
 url = "/christophe-cite-musique-mars-2010"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Jour de Marché à Lyon"
 title = "Le Jour de Marché à Lyon"
 url = "/jour-de-marche-lyon"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Chute de la Maison Blanche</em>, Antoine Fuqua"
 title = "La Chute de la Maison Blanche, Antoine Fuqua"
 url = "/la-chute-de-la-maison-blanche-fuqua"

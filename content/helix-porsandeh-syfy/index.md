@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Helix</em>, Cameron Porsandeh (SyFy)"
 title = "Helix, Cameron Porsandeh (SyFy)"
 url = "/helix-porsandeh-syfy"

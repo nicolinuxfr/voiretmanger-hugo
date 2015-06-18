@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Vic Chesnutt, la musique à vif"
 title = "Vic Chesnutt, la musique à vif"
 url = "/vic-chesnutt-la-musique-a-vif"

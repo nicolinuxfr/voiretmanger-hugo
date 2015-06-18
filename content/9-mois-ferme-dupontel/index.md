@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>9 mois ferme</em>, Albert Dupontel"
 title = "9 mois ferme, Albert Dupontel"
 url = "/9-mois-ferme-dupontel"

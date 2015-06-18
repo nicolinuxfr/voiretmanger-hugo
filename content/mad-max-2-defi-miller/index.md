@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mad Max 2 : Le défi</em>, George Miller"
 title = "Mad Max 2 : Le défi, George Miller"
 url = "/mad-max-2-defi-miller"

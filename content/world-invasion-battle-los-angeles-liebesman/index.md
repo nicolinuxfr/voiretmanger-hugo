@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "World Invasion : Battle Los Angeles, Jonathan Liebesman"
 title = "World Invasion : Battle Los Angeles, Jonathan Liebesman"
 url = "/world-invasion-battle-los-angeles-liebesman"

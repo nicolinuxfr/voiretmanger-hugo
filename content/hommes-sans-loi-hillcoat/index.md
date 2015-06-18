@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Des hommes sans loi</em>, John Hillcoat"
 title = "Des hommes sans loi, John Hillcoat"
 url = "/hommes-sans-loi-hillcoat"

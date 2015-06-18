@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "En stage chez Ducasse : partie 3"
 title = "En stage chez Ducasse : partie 3"
 url = "/stage-chez-ducasse-3"

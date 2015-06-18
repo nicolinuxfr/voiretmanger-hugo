@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Des hommes et des dieux, Xavier Beauvois"
 title = "Des hommes et des dieux, Xavier Beauvois"
 url = "/hommes-dieux-beauvois"

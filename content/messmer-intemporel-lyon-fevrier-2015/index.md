@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Messmer Intemporel</em> à la Bourse du Travail (20 février 2015)"
 title = "Messmer Intemporel à la Bourse du Travail (20 février 2015)"
 url = "/messmer-intemporel-lyon-fevrier-2015"

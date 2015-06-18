@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Terminator 3 : le Soulèvement des Machines</em>, Jonathan Mostow"
 title = "Terminator 3 : le Soulèvement des Machines, Jonathan Mostow"
 url = "/terminator-3-soulevement-machines-mostow"

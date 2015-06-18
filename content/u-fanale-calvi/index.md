@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "U Fanale à Calvi"
 title = "U Fanale à Calvi"
 url = "/u-fanale-calvi"

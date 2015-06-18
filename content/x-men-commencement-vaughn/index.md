@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>X-Men : Le Commencement</em>, Matthew Vaughn"
 title = "X-Men : Le Commencement, Matthew Vaughn"
 url = "/x-men-commencement-vaughn"

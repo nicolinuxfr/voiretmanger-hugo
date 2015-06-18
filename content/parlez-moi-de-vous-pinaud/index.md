@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Parlez-moi de vous, Pierre Pinaud"
 title = "Parlez-moi de vous, Pierre Pinaud"
 url = "/parlez-moi-de-vous-pinaud"

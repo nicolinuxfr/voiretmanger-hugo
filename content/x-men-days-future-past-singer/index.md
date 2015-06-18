@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>X-Men : Days of Future Past</em>, Bryan Singer"
 title = "X-Men : Days of Future Past, Bryan Singer"
 url = "/x-men-days-future-past-singer"

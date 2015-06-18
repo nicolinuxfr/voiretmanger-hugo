@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Streets, le rap à l&rsquo;anglaise"
 title = "The Streets, le rap à l'anglaise"
 url = "/the-streets-le-rap-a-langlaise"

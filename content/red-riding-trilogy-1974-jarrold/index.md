@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Red Riding Trilogy : 1974, Julian Jarrold"
 title = "The Red Riding Trilogy : 1974, Julian Jarrold"
 url = "/red-riding-trilogy-1974-jarrold"

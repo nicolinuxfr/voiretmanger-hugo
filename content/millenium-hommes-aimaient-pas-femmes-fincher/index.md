@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Millenium : Les hommes qui n’aimaient pas les femmes</em>, David Fincher"
 title = "Millenium : Les hommes qui n’aimaient pas les femmes, David Fincher"
 url = "/millenium-hommes-aimaient-pas-femmes-fincher"

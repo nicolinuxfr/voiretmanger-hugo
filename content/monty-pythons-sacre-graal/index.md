@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Monty Python : Sacré Graal !</em>, Terry Gilliam et Terry Jones"
 title = "Monty Python : Sacré Graal !, Terry Gilliam et Terry Jones"
 url = "/monty-pythons-sacre-graal"

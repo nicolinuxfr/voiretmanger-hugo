@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Company Men</em>, John Wells"
 title = "The Company Men, John Wells"
 url = "/company-men-wells"

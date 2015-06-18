@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>No Country for Old Men</em>, Joel et Ethan Coen"
 title = "No Country for Old Men, Joel et Ethan Coen"
 url = "/no-country-for-old-men-coen"

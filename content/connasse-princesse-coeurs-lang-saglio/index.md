@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Connasse, princesse des cœurs</em>,  Eloïse Lang et Noémie Saglio"
 title = "Connasse, princesse des cœurs,  Eloïse Lang et Noémie Saglio"
 url = "/connasse-princesse-coeurs-lang-saglio"

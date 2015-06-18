@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et le Prince de sang mêlé</em>, David Yates"
 title = "Harry Potter et le Prince de sang mêlé, David Yates"
 url = "/harry-potter-et-le-prince-de-sang-mele-yates"

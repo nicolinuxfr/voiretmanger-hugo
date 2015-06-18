@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Brunoise à Villeurbanne"
 title = "La Brunoise à Villeurbanne"
 url = "/brunoise-villeurbanne"

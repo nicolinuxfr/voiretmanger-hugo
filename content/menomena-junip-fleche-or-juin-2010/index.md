@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Menomena et Junip à la Flèche d’or (5 juin 2010)"
 title = "Menomena et Junip à la Flèche d’or (5 juin 2010)"
 url = "/menomena-junip-fleche-or-juin-2010"

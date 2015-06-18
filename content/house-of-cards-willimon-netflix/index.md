@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>House of Cards</em>, Beau Willimon (Netflix)"
 title = "House of Cards, Beau Willimon (Netflix)"
 url = "/house-of-cards-willimon-netflix"

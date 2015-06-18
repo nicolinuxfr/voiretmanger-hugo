@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Chico et Rita, Fernando Trueba et Javier Mariscal"
 title = "Chico et Rita, Fernando Trueba et Javier Mariscal"
 url = "/chico-rita-trueba-mariscal"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Grande Aventure Lego</em>, Phil Lord et Chris Miller"
 title = "La Grande Aventure Lego, Phil Lord et Chris Miller"
 url = "/grande-aventure-lego-lord-miller"

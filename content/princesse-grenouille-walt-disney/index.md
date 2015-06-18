@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Princesse et la grenouille</em>,  John Musker et Ron Clements"
 title = "La Princesse et la grenouille,  John Musker et Ron Clements"
 url = "/princesse-grenouille-walt-disney"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Imaginarium du Docteur Parnassus, Terry Gilliam"
 title = "L'Imaginarium du Docteur Parnassus, Terry Gilliam"
 url = "/imaginarium-docteur-parnassus-gilliam"

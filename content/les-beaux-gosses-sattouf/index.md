@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les beaux gosses, Riad Sattouf"
 title = "Les beaux gosses, Riad Sattouf"
 url = "/les-beaux-gosses-sattouf"

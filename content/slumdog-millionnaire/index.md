@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mais pourquoi tout le monde aime Slumdog Millionnaire ?"
 title = "Mais pourquoi tout le monde aime Slumdog Millionnaire ?"
 url = "/slumdog-millionnaire"

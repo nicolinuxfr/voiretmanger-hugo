@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et la chambre des secrets</em>, Chris Colombus"
 title = "Harry Potter et la chambre des secrets, Chris Colombus"
 url = "/harry-potter-et-la-chambre-des-secrets-colombus"

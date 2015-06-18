@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Amour</em>, Michael Haneke (Palme d&rsquo;or 2012)"
 title = "Amour, Michael Haneke (Palme d'or 2012)"
 url = "/amour-haneke-palme-or-2012"

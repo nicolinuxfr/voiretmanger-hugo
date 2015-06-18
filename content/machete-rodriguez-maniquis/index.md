@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Machete, Robert Rodriguez et Ethan Maniquis"
 title = "Machete, Robert Rodriguez et Ethan Maniquis"
 url = "/machete-rodriguez-maniquis"

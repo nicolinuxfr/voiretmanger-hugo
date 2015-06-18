@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Marco Polo</em>, John Fusco (Netflix)"
 title = "Marco Polo, John Fusco (Netflix)"
 url = "/marco-polo-fusco-netflix"

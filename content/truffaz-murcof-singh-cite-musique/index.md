@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Truffaz, Murcof et Singh à la Cité de la Musique"
 title = "Truffaz, Murcof et Singh à la Cité de la Musique"
 url = "/truffaz-murcof-singh-cite-musique"

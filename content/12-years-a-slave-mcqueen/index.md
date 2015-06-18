@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>12 Years A Slave</em>, Steve McQueen"
 title = "12 Years A Slave, Steve McQueen"
 url = "/12-years-a-slave-mcqueen"

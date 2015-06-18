@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Fargo</em>, Noah Hawley (FX)"
 title = "Fargo, Noah Hawley (FX)"
 url = "/fargo-hawley-fx"

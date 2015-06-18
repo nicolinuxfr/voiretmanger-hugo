@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Old Boy</em>, Park Chan-wook"
 title = "Old Boy, Park Chan-wook"
 url = "/old-boy-park"

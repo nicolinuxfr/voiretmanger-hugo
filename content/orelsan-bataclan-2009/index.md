@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Orelsan au Bataclan (13 mai 2009)"
 title = "Orelsan au Bataclan (13 mai 2009)"
 url = "/orelsan-bataclan-2009"

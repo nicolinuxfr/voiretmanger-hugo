@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sigur Ros au Zénith (15 novembre 2008)"
 title = "Sigur Ros au Zénith (15 novembre 2008)"
 url = "/sigur-ros-au-zenith"

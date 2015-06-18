@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "In The Loop, Armando Iannucci"
 title = "In The Loop, Armando Iannucci"
 url = "/in-the-loop-iannucci"

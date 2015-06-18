@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twilight – Chapitre 5 : Révélation 2e partie</em>, Bill Condon"
 title = "Twilight – Chapitre 5 : Révélation 2e partie, Bill Condon"
 url = "/twilight-chapitre-5-revelation-2e-partie-condon"

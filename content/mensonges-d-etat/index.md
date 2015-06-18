@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mensonges d&rsquo;État"
 title = "Mensonges d'État"
 url = "/mensonges-d-etat"

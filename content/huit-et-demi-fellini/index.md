@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Huit et demi, Frederico Fellini"
 title = "Huit et demi, Frederico Fellini"
 url = "/huit-et-demi-fellini"

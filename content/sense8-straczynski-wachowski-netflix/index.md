@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Sense8</em>, J. Michael Straczynski et Lana et Andy Wachowski (Netflix)"
 title = "Sense8, J. Michael Straczynski et Lana et Andy Wachowski (Netflix)"
 url = "/sense8-straczynski-wachowski-netflix"

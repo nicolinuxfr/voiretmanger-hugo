@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Harvey Milk de&#8230; Gus Van Sant ?"
 title = "Harvey Milk de&#8230; Gus Van Sant ?"
 url = "/harvey-milk-gus-van-sant"

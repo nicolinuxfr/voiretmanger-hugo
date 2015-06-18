@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Wars, Épisode II : L&rsquo;Attaque des clones</em>, George Lucas"
 title = "Star Wars, Épisode II : L'Attaque des clones, George Lucas"
 url = "/star-wars-episode-2-attaque-clones-lucas"

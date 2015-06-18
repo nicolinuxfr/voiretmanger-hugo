@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Housemaid, Im Sang-soo"
 title = "The Housemaid, Im Sang-soo"
 url = "/the-housemaid-sang-soo"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Prometheus, Ridley Scott"
 title = "Prometheus, Ridley Scott"
 url = "/prometheus-scott"

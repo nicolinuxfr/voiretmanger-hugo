@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Ajami</em>, Scandar Copti et Yaron Shani"
 title = "Ajami, Scandar Copti et Yaron Shani"
 url = "/ajami-copti-shani"

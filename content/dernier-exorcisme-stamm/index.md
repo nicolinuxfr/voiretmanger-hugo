@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Dernier Exorcisme, Daniel Stamm"
 title = "Le Dernier Exorcisme, Daniel Stamm"
 url = "/dernier-exorcisme-stamm"

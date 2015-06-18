@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Peut-on vivre sans ordinateur (mais avec un iPad) ?"
 title = "Peut-on vivre sans ordinateur (mais avec un iPad) ?"
 url = "/vivre-sans-ordinateur-mais-avec-ipad"

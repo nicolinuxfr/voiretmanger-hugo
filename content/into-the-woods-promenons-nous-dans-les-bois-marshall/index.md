@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Into the Woods, Promenons-nous dans les bois</em>, Rob Marshall"
 title = "Into the Woods, Promenons-nous dans les bois, Rob Marshall"
 url = "/into-the-woods-promenons-nous-dans-les-bois-marshall"

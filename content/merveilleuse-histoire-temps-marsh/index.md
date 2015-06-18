@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Une merveilleuse histoire du temps</em>, James Marsh"
 title = "Une merveilleuse histoire du temps, James Marsh"
 url = "/merveilleuse-histoire-temps-marsh"

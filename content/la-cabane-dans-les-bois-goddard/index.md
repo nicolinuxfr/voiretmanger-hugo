@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La cabane dans les bois, Drew Goddard"
 title = "La cabane dans les bois, Drew Goddard"
 url = "/la-cabane-dans-les-bois-goddard"

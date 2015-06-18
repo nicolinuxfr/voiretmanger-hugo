@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mad Men</em>, Matthew Weiner (AMC)"
 title = "Mad Men, Matthew Weiner (AMC)"
 url = "/mad-men-weiner-amc"

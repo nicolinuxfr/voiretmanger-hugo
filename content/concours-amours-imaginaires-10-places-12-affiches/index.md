@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Concours Les Amours Imaginaires : 10 places et 12 affiches à gagner !"
 title = "Concours Les Amours Imaginaires : 10 places et 12 affiches à gagner !"
 url = "/concours-amours-imaginaires-10-places-12-affiches"

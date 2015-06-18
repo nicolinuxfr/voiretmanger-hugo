@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Gangs of New York</em>, Martin Scorsese"
 title = "Gangs of New York, Martin Scorsese"
 url = "/gangs-of-new-york-scorsese"

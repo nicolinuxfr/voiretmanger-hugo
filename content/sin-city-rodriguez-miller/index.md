@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Sin City</em>, Robert Rodriguez et Frank Miller"
 title = "Sin City, Robert Rodriguez et Frank Miller"
 url = "/sin-city-rodriguez-miller"

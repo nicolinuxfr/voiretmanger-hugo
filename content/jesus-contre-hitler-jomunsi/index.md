@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jésus contre Hitler</em>, Neil Jomunsi"
 title = "Jésus contre Hitler, Neil Jomunsi"
 url = "/jesus-contre-hitler-jomunsi"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Planète des Singes : les origines</em>, Rupert Wyatt"
 title = "La Planète des Singes : les origines, Rupert Wyatt"
 url = "/planete-singes-origines-wyatt"

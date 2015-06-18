@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Chaser, Hong-jin Na"
 title = "The Chaser, Hong-jin Na"
 url = "/the-chaser-hong-jin-na"

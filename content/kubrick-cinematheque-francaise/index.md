@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Exposition Kubrick à la Cinémathèque Française"
 title = "Exposition Kubrick à la Cinémathèque Française"
 url = "/kubrick-cinematheque-francaise"

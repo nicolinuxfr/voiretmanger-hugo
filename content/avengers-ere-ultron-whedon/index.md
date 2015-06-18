@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Avengers : L&rsquo;Ère d&rsquo;Ultron</em>, Joss Whedon"
 title = "Avengers : L'Ère d'Ultron, Joss Whedon"
 url = "/avengers-ere-ultron-whedon"

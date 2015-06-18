@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Red Riding Trilogy : 1980</em>, James Marsh"
 title = "The Red Riding Trilogy : 1980, James Marsh"
 url = "/red-riding-trilogy-1980-marsh"

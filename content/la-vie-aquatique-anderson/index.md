@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Vie aquatique, Wes Anderson"
 title = "La Vie aquatique, Wes Anderson"
 url = "/la-vie-aquatique-anderson"

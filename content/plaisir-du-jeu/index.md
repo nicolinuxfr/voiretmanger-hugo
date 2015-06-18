@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le plaisir du jeu"
 title = "Le plaisir du jeu"
 url = "/plaisir-du-jeu"

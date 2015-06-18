@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sans identité, Jaume Collet-Serra"
 title = "Sans identité, Jaume Collet-Serra"
 url = "/sans-identite-collet-serra"

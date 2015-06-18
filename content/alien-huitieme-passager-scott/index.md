@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Alien, le huitième passager</em>, Ridley Scott"
 title = "Alien, le huitième passager, Ridley Scott"
 url = "/alien-huitieme-passager-scott"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les 3C à Collonges au Mont d&rsquo;Or"
 title = "Les 3C à Collonges au Mont d'Or"
 url = "/3c-collonges-mont-or"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Chat Potté, Dreamworks"
 title = "Le Chat Potté, Dreamworks"
 url = "/le-chat-potte-dreamworks"

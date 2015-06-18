@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twilight chapitre 3 : Hésitation</em>, David Slade"
 title = "Twilight chapitre 3 : Hésitation, David Slade"
 url = "/twilight-3-hesitation-slade"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Tamara Drewe</em>, Stephen Frears"
 title = "Tamara Drewe, Stephen Frears"
 url = "/tamara-drewe-frears"

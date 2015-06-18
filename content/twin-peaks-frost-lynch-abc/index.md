@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twin Peaks</em>, Mark Frost et David Lynch (ABC)"
 title = "Twin Peaks, Mark Frost et David Lynch (ABC)"
 url = "/twin-peaks-frost-lynch-abc"

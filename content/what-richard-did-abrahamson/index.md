@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "What Richard Did, Lenny Abrahamson"
 title = "What Richard Did, Lenny Abrahamson"
 url = "/what-richard-did-abrahamson"

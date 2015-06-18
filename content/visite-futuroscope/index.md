@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Une visite au Futuroscope"
 title = "Une visite au Futuroscope"
 url = "/visite-futuroscope"

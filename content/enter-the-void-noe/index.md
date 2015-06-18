@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Enter The Void, Gaspard Noé"
 title = "Enter The Void, Gaspard Noé"
 url = "/enter-the-void-noe"

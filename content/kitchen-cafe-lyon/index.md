@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Kitchen Café à Lyon"
 title = "Le Kitchen Café à Lyon"
 url = "/kitchen-cafe-lyon"

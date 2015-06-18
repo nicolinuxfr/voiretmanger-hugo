@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Grand Soir, Benoît Delépine et Gustave Kervern"
 title = "Le Grand Soir, Benoît Delépine et Gustave Kervern"
 url = "/grand-soir-delepine-kervern"

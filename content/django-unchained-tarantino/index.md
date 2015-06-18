@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Django Unchained</em>, Quentin Tarantino"
 title = "Django Unchained, Quentin Tarantino"
 url = "/django-unchained-tarantino"

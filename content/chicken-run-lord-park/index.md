@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Chicken Run</em>, Peter Lord et Nick Park"
 title = "Chicken Run, Peter Lord et Nick Park"
 url = "/chicken-run-lord-park"

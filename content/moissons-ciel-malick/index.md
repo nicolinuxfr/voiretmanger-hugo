@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les moissons du ciel</em>, Terrence Malick"
 title = "Les moissons du ciel, Terrence Malick"
 url = "/moissons-ciel-malick"

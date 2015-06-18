@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Rango, Gore Verbinski"
 title = "Rango, Gore Verbinski"
 url = "/rango-verbinski"

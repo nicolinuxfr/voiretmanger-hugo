@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Prince of Persia : Les Sables du Temps</em>, Mike Newell"
 title = "Prince of Persia : Les Sables du Temps, Mike Newell"
 url = "/prince-persia-sable-temps-newell"

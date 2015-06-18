@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La carte et le territoire, Michel Houellebecq"
 title = "La carte et le territoire, Michel Houellebecq"
 url = "/carte-territoire-houellebecq"

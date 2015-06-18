@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Sleepy Hollow, la légende du cavalier sans tête</em>, Tim Burton"
 title = "Sleepy Hollow, la légende du cavalier sans tête, Tim Burton"
 url = "/sleepy-hollow-legende-cavalier-sans-tete-burton"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La crise expliquée par Groland : et tout s&rsquo;éclaire !"
 title = "La crise expliquée par Groland : et tout s'éclaire !"
 url = "/la-crise-groland"

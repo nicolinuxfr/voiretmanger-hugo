@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Rosemary&rsquo;s Baby, Roman Polanski"
 title = "Rosemary's Baby, Roman Polanski"
 url = "/rosemary-s-baby-polanski"

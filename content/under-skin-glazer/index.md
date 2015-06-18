@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Under the Skin</em>, Jonathan Glazer"
 title = "Under the Skin, Jonathan Glazer"
 url = "/under-skin-glazer"

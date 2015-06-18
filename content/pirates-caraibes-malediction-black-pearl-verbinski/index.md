@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pirates des Caraïbes : la Malédiction du Black Pearl</em>, Gore Verbinski"
 title = "Pirates des Caraïbes : la Malédiction du Black Pearl, Gore Verbinski"
 url = "/pirates-caraibes-malediction-black-pearl-verbinski"

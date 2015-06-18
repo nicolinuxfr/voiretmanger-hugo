@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les diamants sont éternels</em>, Guy Hamilton"
 title = "Les diamants sont éternels, Guy Hamilton"
 url = "/les-diamants-sont-eternels-hamilton"

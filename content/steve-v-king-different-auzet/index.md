@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Steve V (King Different)</em>, Roland Auzet (Théâtre de la Renaissance, 14 mars 2014)"
 title = "Steve V (King Different), Roland Auzet (Théâtre de la Renaissance, 14 mars 2014)"
 url = "/steve-v-king-different-auzet"

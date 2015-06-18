@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Volt, star malgré lui"
 title = "Volt, star malgré lui"
 url = "/volt-star-malgre-lui"

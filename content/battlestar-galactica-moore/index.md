@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Battlestar Galactica</em>, Ronald D. Moore (SyFy)"
 title = "Battlestar Galactica, Ronald D. Moore (SyFy)"
 url = "/battlestar-galactica-moore"

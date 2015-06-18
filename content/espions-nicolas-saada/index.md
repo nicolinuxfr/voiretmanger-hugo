@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Espion(s) de Nicolas Saada : le bon cinéma français existerait donc ?"
 title = "Espion(s) de Nicolas Saada : le bon cinéma français existerait donc ?"
 url = "/espions-nicolas-saada"

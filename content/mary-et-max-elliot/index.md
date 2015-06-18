@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mary et Max, Adam Elliot"
 title = "Mary et Max, Adam Elliot"
 url = "/mary-et-max-elliot"

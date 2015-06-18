@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Piège de cristal</em>, John McTiernan"
 title = "Piège de cristal, John McTiernan"
 url = "/piege-de-cristal-mctiernan"

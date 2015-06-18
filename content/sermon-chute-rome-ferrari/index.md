@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le sermon sur la chute de Rome, Jérôme Ferrari"
 title = "Le sermon sur la chute de Rome, Jérôme Ferrari"
 url = "/sermon-chute-rome-ferrari"

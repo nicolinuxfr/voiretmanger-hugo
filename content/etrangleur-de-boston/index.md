@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;étrangleur de Boston, Richard Fleischer"
 title = "L'étrangleur de Boston, Richard Fleischer"
 url = "/etrangleur-de-boston"

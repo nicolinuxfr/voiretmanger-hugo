@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Pierre Lapointe à la Boule Noire (9 octobre 2009)"
 title = "Pierre Lapointe à la Boule Noire (9 octobre 2009)"
 url = "/pierre-lapointe-boule-noire-2009"

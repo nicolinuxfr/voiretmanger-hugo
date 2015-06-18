@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Chats Siamois à Lyon"
 title = "Les Chats Siamois à Lyon"
 url = "/chats-siamois-lyon"

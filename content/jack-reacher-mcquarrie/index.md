@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Jack Reacher, Christopher McQuarrie"
 title = "Jack Reacher, Christopher McQuarrie"
 url = "/jack-reacher-mcquarrie"

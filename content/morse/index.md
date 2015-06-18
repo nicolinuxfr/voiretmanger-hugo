@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Morse : Twilight&#8230; en bien !"
 title = "Morse : Twilight&#8230; en bien !"
 url = "/morse"

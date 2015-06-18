@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Alien, la résurrection</em>, Jean-Pierre Jeunet"
 title = "Alien, la résurrection, Jean-Pierre Jeunet"
 url = "/alien-la-resurrection-jeunet"
@@ -7,6 +8,7 @@ Lastmod = "2013-05-29T22:32:14"
 cover = "alien-resurrection-sigourney-weaver.jpg"
 categorie = [ "À voir" ]
 tag = [ "Action", "Blockbuster", "Extra-terrestre", "Horreur", "Science-Fiction", "Vite oublié" ]
+createur = ["Jean-Pierre Jeunet"]
 acteur = [ "Dominique Pinon", "Ron Perlman", "Sigourney Weaver", "Winona Ryder" ]
 annee = [ "1997" ]
 weight = 1997

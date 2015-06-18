@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Soprano</em>, David Chase (HBO)"
 title = "Les Soprano, David Chase (HBO)"
 url = "/soprano-chase-hbo"

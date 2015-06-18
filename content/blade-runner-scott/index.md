@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Blade Runner, Ridley Scott"
 title = "Blade Runner, Ridley Scott"
 url = "/blade-runner-scott"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Étrange Histoire de Benjamin Button</em>, David Fincher"
 title = "L'Étrange Histoire de Benjamin Button, David Fincher"
 url = "/etrange-histoire-benjamin-button-fincher"

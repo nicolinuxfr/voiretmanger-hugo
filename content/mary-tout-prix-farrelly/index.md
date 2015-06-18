@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mary à tout prix</em>, Peter et Bobby Farrelly"
 title = "Mary à tout prix, Peter et Bobby Farrelly"
 url = "/mary-tout-prix-farrelly"

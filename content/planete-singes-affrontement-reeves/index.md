@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Planète des Singes : l&rsquo;affrontement</em>, Matt Reeves"
 title = "La Planète des Singes : l'affrontement, Matt Reeves"
 url = "/planete-singes-affrontement-reeves"

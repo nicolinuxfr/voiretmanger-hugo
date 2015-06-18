@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Place Beyond the Pines</em>, Derek Cianfrance"
 title = "The Place Beyond the Pines, Derek Cianfrance"
 url = "/the-place-beyond-the-pines-cianfrance"

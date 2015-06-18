@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le bistrot du boucher à Poitiers"
 title = "Le bistrot du boucher à Poitiers"
 url = "/bistrot-boucher-poitiers"

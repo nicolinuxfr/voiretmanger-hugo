@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sur la piste du Marsupilami, Alain Chabat"
 title = "Sur la piste du Marsupilami, Alain Chabat"
 url = "/piste-marsupilami-chabat"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Watchmen : les Gardiens</em>, Zack Snyder"
 title = "Watchmen : les Gardiens, Zack Snyder"
 url = "/watchmen-gardiens-snyder"

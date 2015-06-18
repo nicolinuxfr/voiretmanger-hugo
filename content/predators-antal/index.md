@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Predators, Nimrod Antal"
 title = "Predators, Nimrod Antal"
 url = "/predators-antal"

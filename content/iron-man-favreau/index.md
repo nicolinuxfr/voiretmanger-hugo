@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Iron Man</em>, Jon Favreau"
 title = "Iron Man, Jon Favreau"
 url = "/iron-man-favreau"

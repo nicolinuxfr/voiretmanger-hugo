@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Minor Majority, de la pop légère et agréable"
 title = "Minor Majority, de la pop légère et agréable"
 url = "/minor-majority-pop-legere-agreable"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Man of Steel</em>, Zack Snyder"
 title = "Man of Steel, Zack Snyder"
 url = "/man-of-steel-snyder"

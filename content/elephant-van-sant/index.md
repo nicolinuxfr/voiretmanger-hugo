@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Elephant</em>, Gus Van Sant (Palme d&rsquo;or 2003)"
 title = "Elephant, Gus Van Sant (Palme d'or 2003)"
 url = "/elephant-van-sant"

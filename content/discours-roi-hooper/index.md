@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Discours d&rsquo;un Roi</em>, Tom Hooper"
 title = "Le Discours d'un Roi, Tom Hooper"
 url = "/discours-roi-hooper"

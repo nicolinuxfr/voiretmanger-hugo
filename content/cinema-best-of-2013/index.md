@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le meilleur du cinéma en 2013"
 title = "Le meilleur du cinéma en 2013"
 url = "/cinema-best-of-2013"

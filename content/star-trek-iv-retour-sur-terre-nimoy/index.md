@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek IV : Retour sur Terre</em>, Leonard Nimoy"
 title = "Star Trek IV : Retour sur Terre, Leonard Nimoy"
 url = "/star-trek-iv-retour-sur-terre-nimoy"

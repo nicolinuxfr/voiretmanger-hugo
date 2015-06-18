@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Trois souvenirs de ma jeunesse</em>, Arnaud Depleschin"
 title = "Trois souvenirs de ma jeunesse, Arnaud Depleschin"
 url = "/trois-souvenirs-jeunesse-desplechin"

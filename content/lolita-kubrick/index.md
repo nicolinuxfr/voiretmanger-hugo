@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Lolita, Stanley Kubrick"
 title = "Lolita, Stanley Kubrick"
 url = "/lolita-kubrick"

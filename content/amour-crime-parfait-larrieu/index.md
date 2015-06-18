@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;amour est un crime parfait</em>, Jean-Marie et Arnaud Larrieu"
 title = "L'amour est un crime parfait, Jean-Marie et Arnaud Larrieu"
 url = "/amour-crime-parfait-larrieu"

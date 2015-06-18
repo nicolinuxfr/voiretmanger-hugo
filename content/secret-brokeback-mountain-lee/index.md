@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le secret de Brokeback Mountain</em>, Ang Lee"
 title = "Le secret de Brokeback Mountain, Ang Lee"
 url = "/secret-brokeback-mountain-lee"

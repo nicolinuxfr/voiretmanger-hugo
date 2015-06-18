@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Spartacus, Stanley Kubrick"
 title = "Spartacus, Stanley Kubrick"
 url = "/spartacus-kubrick"

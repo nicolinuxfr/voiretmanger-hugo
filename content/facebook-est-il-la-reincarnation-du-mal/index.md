@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Facebook est-il la réincarnation du Mal ?"
 title = "Facebook est-il la réincarnation du Mal ?"
 url = "/facebook-est-il-la-reincarnation-du-mal"

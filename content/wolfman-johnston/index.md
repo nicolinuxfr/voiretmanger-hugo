@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Wolfman, Joe Johnston"
 title = "Wolfman, Joe Johnston"
 url = "/wolfman-johnston"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Dans la brume électrique</em>, Bertrand Tavernier"
 title = "Dans la brume électrique, Bertrand Tavernier"
 url = "/dans-la-brume-electrique-tavernier"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Intuit, Ramona Falls"
 title = "Intuit, Ramona Falls"
 url = "/intuit-ramona-falls"

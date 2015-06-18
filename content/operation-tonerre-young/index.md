@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Opération Tonnerre</em>, Terence Young"
 title = "Opération Tonnerre, Terence Young"
 url = "/operation-tonerre-young"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>American Sniper</em>, Clint Eastwood"
 title = "American Sniper, Clint Eastwood"
 url = "/american-sniper-eastwood"

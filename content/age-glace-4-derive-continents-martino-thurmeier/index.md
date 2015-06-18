@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Âge de glace 4 : La dérive des continents</em>, Steve Martino et Mike Thurmeier"
 title = "L'Âge de glace 4 : La dérive des continents, Steve Martino et Mike Thurmeier"
 url = "/age-glace-4-derive-continents-martino-thurmeier"

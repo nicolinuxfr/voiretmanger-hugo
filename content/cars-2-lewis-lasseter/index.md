@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Cars 2</em>, Brad Lewis et John Lasseter"
 title = "Cars 2, Brad Lewis et John Lasseter"
 url = "/cars-2-lewis-lasseter"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek Generations</em>, de David Carson"
 title = "Star Trek Generations, de David Carson"
 url = "/star-trek-generations-carson"

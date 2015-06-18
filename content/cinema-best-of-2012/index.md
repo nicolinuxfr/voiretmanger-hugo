@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Que fallait-il voir au cinéma en 2012 ?"
 title = "Que fallait-il voir au cinéma en 2012 ?"
 url = "/cinema-best-of-2012"

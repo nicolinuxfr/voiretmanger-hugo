@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Porcupine Tree à l&rsquo;Olympia (13 octobre 2009)"
 title = "Porcupine Tree à l'Olympia (13 octobre 2009)"
 url = "/porcupine-tree-olympia-octobre-2009"

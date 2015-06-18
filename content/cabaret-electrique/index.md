@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Cabaret Électrique au Cirque Électrique"
 title = "Le Cabaret Électrique au Cirque Électrique"
 url = "/cabaret-electrique"

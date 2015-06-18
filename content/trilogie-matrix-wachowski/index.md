@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La trilogie <em>Matrix</em>, Andy et Larry Wachowski"
 title = "La trilogie Matrix, Andy et Larry Wachowski"
 url = "/trilogie-matrix-wachowski"

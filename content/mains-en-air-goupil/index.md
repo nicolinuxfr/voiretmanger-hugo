@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les mains en l&rsquo;air, Romain Goupil"
 title = "Les mains en l'air, Romain Goupil"
 url = "/mains-en-air-goupil"

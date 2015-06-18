@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pinocchio</em>, Hamilton Luske et Ben Sharpsteen"
 title = "Pinocchio, Hamilton Luske et Ben Sharpsteen"
 url = "/pinocchio-luske-sharpsteen"

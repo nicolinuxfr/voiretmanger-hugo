@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Ghost Writer, Roman Polanski"
 title = "The Ghost Writer, Roman Polanski"
 url = "/the-ghost-writer-polanski"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Petite Sirène</em>, Ron Clements et John Musker"
 title = "La Petite Sirène, Ron Clements et John Musker"
 url = "/petite-sirene-clements-musker"

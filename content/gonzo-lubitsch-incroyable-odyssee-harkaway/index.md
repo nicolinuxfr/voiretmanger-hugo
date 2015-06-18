@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Gonzo Lubitsch ou l&rsquo;incroyable odyssée, Nick Harkaway"
 title = "Gonzo Lubitsch ou l'incroyable odyssée, Nick Harkaway"
 url = "/gonzo-lubitsch-incroyable-odyssee-harkaway"

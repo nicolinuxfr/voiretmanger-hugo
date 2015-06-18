@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La crise, quelle crise ?"
 title = "La crise, quelle crise ?"
 url = "/la-crise-quelle-crise"

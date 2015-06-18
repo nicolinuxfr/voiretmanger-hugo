@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>S.O.S. Fantômes</em>, Ivan Reitman"
 title = "S.O.S. Fantômes, Ivan Reitman"
 url = "/sos-fantomes-reitman"

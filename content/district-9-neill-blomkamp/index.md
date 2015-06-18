@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "District 9, Neill Blomkamp"
 title = "District 9, Neill Blomkamp"
 url = "/district-9-neill-blomkamp"

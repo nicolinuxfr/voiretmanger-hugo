@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Limitless, Neil Burger"
 title = "Limitless, Neil Burger"
 url = "/limitless-burger"

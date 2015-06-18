@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Shrek 4 il était une fin</em>, Dreamworks"
 title = "Shrek 4 il était une fin, Dreamworks"
 url = "/shrek-4-dreamworks"

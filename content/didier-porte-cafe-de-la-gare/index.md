@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Didier Porte au Café de la Gare"
 title = "Didier Porte au Café de la Gare"
 url = "/didier-porte-cafe-de-la-gare"

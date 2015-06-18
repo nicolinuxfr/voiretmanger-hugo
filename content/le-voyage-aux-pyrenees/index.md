@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le voyage aux Pyrénées, ou pourquoi je n&rsquo;aime pas le cinéma français&#8230;"
 title = "Le voyage aux Pyrénées, ou pourquoi je n'aime pas le cinéma français&#8230;"
 url = "/le-voyage-aux-pyrenees"

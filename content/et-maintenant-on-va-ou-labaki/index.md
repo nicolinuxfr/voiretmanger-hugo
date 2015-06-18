@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Et maintenant on va où ?, Nadine Labaki"
 title = "Et maintenant on va où ?, Nadine Labaki"
 url = "/et-maintenant-on-va-ou-labaki"

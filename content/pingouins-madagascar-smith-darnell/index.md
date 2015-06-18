@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Pingouins de Madagascar</em>, Simon J. Smith et Eric Darnell"
 title = "Les Pingouins de Madagascar, Simon J. Smith et Eric Darnell"
 url = "/pingouins-madagascar-smith-darnell"

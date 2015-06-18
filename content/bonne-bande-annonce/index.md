@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Qu&rsquo;est-ce qu&rsquo;une bonne bande-annonce ?"
 title = "Qu'est-ce qu'une bonne bande-annonce ?"
 url = "/bonne-bande-annonce"

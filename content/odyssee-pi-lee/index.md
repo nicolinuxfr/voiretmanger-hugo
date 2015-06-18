@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Odyssée de Pi, Ang Lee"
 title = "L'Odyssée de Pi, Ang Lee"
 url = "/odyssee-pi-lee"

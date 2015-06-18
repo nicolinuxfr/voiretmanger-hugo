@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>14</em>, Jean Echenoz"
 title = "14, Jean Echenoz"
 url = "/14-echenoz"

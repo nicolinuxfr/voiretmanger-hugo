@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Twilight — Chapitre 1 : Fascination, Catherine Hardwicke"
 title = "Twilight — Chapitre 1 : Fascination, Catherine Hardwicke"
 url = "/twilight-chapitre-1"

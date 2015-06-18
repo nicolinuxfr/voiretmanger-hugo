@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Insidious : Chapitre 2</em>, James Wan"
 title = "Insidious : Chapitre 2, James Wan"
 url = "/insidious-chapitre-2-wan"

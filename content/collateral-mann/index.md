@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Collatéral</em>, Michael Mann"
 title = "Collatéral, Michael Mann"
 url = "/collateral-mann"

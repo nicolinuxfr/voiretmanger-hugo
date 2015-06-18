@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Deadwood</em>, David Milch (HBO)"
 title = "Deadwood, David Milch (HBO)"
 url = "/deadwood-hbo"

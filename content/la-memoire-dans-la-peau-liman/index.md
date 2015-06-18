@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La mémoire dans la peau</em>, Doug Liman"
 title = "La mémoire dans la peau, Doug Liman"
 url = "/la-memoire-dans-la-peau-liman"

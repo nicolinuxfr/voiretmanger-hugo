@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Flight</em>, Robert Zemeckis"
 title = "Flight, Robert Zemeckis"
 url = "/flight-zemeckis"

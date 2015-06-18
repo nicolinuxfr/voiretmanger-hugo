@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Casino Royale, John Huston, Val Guest, Kenneth Hughes, Joseph McGrath et Robert Parrish"
 title = "Casino Royale, John Huston, Val Guest, Kenneth Hughes, Joseph McGrath et Robert Parrish"
 url = "/casino-royale-huston-guest-hughes-mcgrath-parrish"

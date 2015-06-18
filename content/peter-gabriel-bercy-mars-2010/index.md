@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Peter Gabriel à Bercy (22 mars 2010)"
 title = "Peter Gabriel à Bercy (22 mars 2010)"
 url = "/peter-gabriel-bercy-mars-2010"

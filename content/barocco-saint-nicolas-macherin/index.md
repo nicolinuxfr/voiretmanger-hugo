@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Barocco à Saint-Nicolas-de-Macherin"
 title = "Le Barocco à Saint-Nicolas-de-Macherin"
 url = "/barocco-saint-nicolas-macherin"

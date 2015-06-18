@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Transperceneige</em>, Lob, Rochette et Legrand"
 title = "Transperceneige, Lob, Rochette et Legrand"
 url = "/transperceneige-lob-rochette-legrand"

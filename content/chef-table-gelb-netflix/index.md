@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Chef&rsquo;s Table</em>, David Gelb (Netflix)"
 title = "Chef's Table, David Gelb (Netflix)"
 url = "/chef-table-gelb-netflix"

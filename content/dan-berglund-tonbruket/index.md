@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Dan Berglund, Dan Berglund&rsquo;s Tonbruket"
 title = "Dan Berglund, Dan Berglund's Tonbruket"
 url = "/dan-berglund-tonbruket"

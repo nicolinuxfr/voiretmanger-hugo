@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Dans ses yeux, Juan José Campanella"
 title = "Dans ses yeux, Juan José Campanella"
 url = "/dans-ses-yeux-campanella"

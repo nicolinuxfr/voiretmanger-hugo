@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Livre de la Jungle</em>, Wolfgang Reitherman"
 title = "Le Livre de la Jungle, Wolfgang Reitherman"
 url = "/livre-jungle-reitherman"

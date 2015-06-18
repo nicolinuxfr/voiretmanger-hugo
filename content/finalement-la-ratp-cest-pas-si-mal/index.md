@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Finalement, la RATP, c&rsquo;est pas si mal !"
 title = "Finalement, la RATP, c'est pas si mal !"
 url = "/finalement-la-ratp-cest-pas-si-mal"

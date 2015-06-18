@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Die Fledermaus, Johan Strauss (Wiener Staatsoper, 1 janvier 2010)"
 title = "Die Fledermaus, Johan Strauss (Wiener Staatsoper, 1 janvier 2010)"
 url = "/fledermaus-strauss-wiener-staatsoper"

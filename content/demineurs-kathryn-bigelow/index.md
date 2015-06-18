@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Démineurs, Kathryn Bigelow"
 title = "Démineurs, Kathryn Bigelow"
 url = "/demineurs-kathryn-bigelow"

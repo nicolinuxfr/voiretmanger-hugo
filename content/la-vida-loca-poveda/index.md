@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Vida Loca</em>, Christian Poveda"
 title = "La Vida Loca, Christian Poveda"
 url = "/la-vida-loca-poveda"

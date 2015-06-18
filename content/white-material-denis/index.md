@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "White Material, Claire Denis"
 title = "White Material, Claire Denis"
 url = "/white-material-denis"

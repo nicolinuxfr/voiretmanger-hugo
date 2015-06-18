@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Apollonide, souvenirs de la maison close</em>, Bertrand Bonello"
 title = "L'Apollonide, souvenirs de la maison close, Bertrand Bonello"
 url = "/apollonide-souvenirs-maison-close-bonello"

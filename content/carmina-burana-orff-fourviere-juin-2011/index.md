@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Carmina Burana, Carl Orff (Théâtre de Fourvière, 8 juin 2011)"
 title = "Carmina Burana, Carl Orff (Théâtre de Fourvière, 8 juin 2011)"
 url = "/carmina-burana-orff-fourviere-juin-2011"

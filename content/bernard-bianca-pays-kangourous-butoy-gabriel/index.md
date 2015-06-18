@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Bernard et Bianca au pays des Kangourous</em>, Hendel Butoy et Mike Gabriel"
 title = "Bernard et Bianca au pays des Kangourous, Hendel Butoy et Mike Gabriel"
 url = "/bernard-bianca-pays-kangourous-butoy-gabriel"

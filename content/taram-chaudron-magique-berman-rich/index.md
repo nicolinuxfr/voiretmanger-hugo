@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Taram et le chaudron magique</em>, Ted Berman et Richard Rich"
 title = "Taram et le chaudron magique, Ted Berman et Richard Rich"
 url = "/taram-chaudron-magique-berman-rich"

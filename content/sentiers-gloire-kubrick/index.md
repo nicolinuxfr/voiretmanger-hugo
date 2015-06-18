@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Sentiers de la Gloire</em>, Stanley Kubrick"
 title = "Les Sentiers de la Gloire, Stanley Kubrick"
 url = "/sentiers-gloire-kubrick"

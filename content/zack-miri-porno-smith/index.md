@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Zack et Miri font un porno, Kevin Smith"
 title = "Zack et Miri font un porno, Kevin Smith"
 url = "/zack-miri-porno-smith"

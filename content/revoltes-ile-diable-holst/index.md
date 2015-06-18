@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les révoltés de l&rsquo;île du Diable, Marius Holst"
 title = "Les révoltés de l'île du Diable, Marius Holst"
 url = "/revoltes-ile-diable-holst"

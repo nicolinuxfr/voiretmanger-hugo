@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Strain</em>, Guillermo del Toro et Chuck Hogan (FX)"
 title = "The Strain, Guillermo del Toro et Chuck Hogan (FX)"
 url = "/strain-toro-hogan-fx"

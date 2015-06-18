@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Max et les Maximonstres</em>, Spike Jonze"
 title = "Max et les Maximonstres, Spike Jonze"
 url = "/max-maximonstres-jonze"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Speed Racer</em>, Andy et Lana Wachowski"
 title = "Speed Racer, Andy et Lana Wachowski"
 url = "/speed-racer-wachowski"

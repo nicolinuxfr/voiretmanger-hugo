@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Amour dure trois ans, Frédéric Beigbeder"
 title = "L'Amour dure trois ans, Frédéric Beigbeder"
 url = "/amour-dure-trois-ans-beigbeder"

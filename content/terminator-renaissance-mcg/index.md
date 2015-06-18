@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Terminator Renaissance</em>, McG"
 title = "Terminator Renaissance, McG"
 url = "/terminator-renaissance-mcg"

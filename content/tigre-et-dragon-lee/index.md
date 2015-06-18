@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Tigre et Dragon</em>, Ang Lee"
 title = "Tigre et Dragon, Ang Lee"
 url = "/tigre-et-dragon-lee"

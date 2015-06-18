@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Bad Lieutenant : Escale à La Nouvelle-Orléans, Werner Herzog"
 title = "Bad Lieutenant : Escale à La Nouvelle-Orléans, Werner Herzog"
 url = "/bad-lieutenant-escale-nouvelle-orleans-herzog"

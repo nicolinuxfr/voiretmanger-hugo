@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Je me lance dans l&rsquo;hébergement payant&#8230;"
 title = "Je me lance dans l'hébergement payant&#8230;"
 url = "/je-me-lance-dans-lhebergement-payant"

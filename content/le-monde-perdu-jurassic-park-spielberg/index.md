@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Monde Perdu : Jurassic Park</em>, Steven Spielberg"
 title = "Le Monde Perdu : Jurassic Park, Steven Spielberg"
 url = "/le-monde-perdu-jurassic-park-spielberg"

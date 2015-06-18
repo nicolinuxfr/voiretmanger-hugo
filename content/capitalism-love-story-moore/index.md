@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Capitalism : A Love Story, Michael Moore"
 title = "Capitalism : A Love Story, Michael Moore"
 url = "/capitalism-love-story-moore"

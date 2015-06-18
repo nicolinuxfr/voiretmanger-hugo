@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "13 Assassins, Takashi Miike"
 title = "13 Assassins, Takashi Miike"
 url = "/13-assassins-miike"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Folie des Grandeurs</em>, Gérard Oury"
 title = "La Folie des Grandeurs, Gérard Oury"
 url = "/folie-grandeurs-oury"

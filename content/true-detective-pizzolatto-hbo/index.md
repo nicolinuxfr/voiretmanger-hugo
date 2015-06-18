@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>True Detective</em>, Nic Pizzolatto (HBO)"
 title = "True Detective, Nic Pizzolatto (HBO)"
 url = "/true-detective-pizzolatto-hbo"

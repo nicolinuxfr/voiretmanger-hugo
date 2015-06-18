@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Destination Finale 5, Steven Quale"
 title = "Destination Finale 5, Steven Quale"
 url = "/destination-finale-5-quale"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La trilogie <em>Spider-Man</em>, Sam Raimi"
 title = "La trilogie Spider-Man, Sam Raimi"
 url = "/trilogie-spider-man-raimi"

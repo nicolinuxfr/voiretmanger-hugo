@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Un château en Italie</em>, Valeria Bruni Tedeshi"
 title = "Un château en Italie, Valeria Bruni Tedeshi"
 url = "/un-chateau-en-italie-bruni-tedeshi"

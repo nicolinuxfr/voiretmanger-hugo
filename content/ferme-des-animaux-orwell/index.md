@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La ferme des animaux, George Orwell"
 title = "La ferme des animaux, George Orwell"
 url = "/ferme-des-animaux-orwell"

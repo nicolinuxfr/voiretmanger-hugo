@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Benda Bilili !, Renaud Barret et Florent de La Tullaye"
 title = "Benda Bilili !, Renaud Barret et Florent de La Tullaye"
 url = "/benda-bilili-barret-tullaye"

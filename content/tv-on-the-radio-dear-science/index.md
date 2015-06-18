@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "TV on the Radio &#8211; Dear Science"
 title = "TV on the Radio &#8211; Dear Science"
 url = "/tv-on-the-radio-dear-science"

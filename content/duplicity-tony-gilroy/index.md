@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Duplicity, Tony Gilroy"
 title = "Duplicity, Tony Gilroy"
 url = "/duplicity-tony-gilroy"

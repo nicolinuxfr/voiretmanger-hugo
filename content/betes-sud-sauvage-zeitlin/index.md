@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Bêtes du sud sauvage, Benh Zeitlin"
 title = "Les Bêtes du sud sauvage, Benh Zeitlin"
 url = "/betes-sud-sauvage-zeitlin"

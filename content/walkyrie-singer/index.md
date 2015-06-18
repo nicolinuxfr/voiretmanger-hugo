@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Walkyrie, Bryan Singer"
 title = "Walkyrie, Bryan Singer"
 url = "/walkyrie-singer"

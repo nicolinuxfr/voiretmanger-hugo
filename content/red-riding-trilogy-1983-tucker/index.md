@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Red Riding Trilogy : 1983, Anand Tucker"
 title = "The Red Riding Trilogy : 1983, Anand Tucker"
 url = "/red-riding-trilogy-1983-tucker"

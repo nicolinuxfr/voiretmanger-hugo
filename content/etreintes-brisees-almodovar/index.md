@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Étreintes brisées, Almodóvar"
 title = "Étreintes brisées, Almodóvar"
 url = "/etreintes-brisees-almodovar"

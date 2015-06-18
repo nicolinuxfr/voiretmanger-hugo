@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hunger Games : La Révolte, partie 1</em>, Francis Lawrence"
 title = "Hunger Games : La Révolte, partie 1, Francis Lawrence"
 url = "/hunger-games-revolte-partie-1-lawrence"

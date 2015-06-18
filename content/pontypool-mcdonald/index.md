@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Pontypool, Bruce McDonald"
 title = "Pontypool, Bruce McDonald"
 url = "/pontypool-mcdonald"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Comptoir de Saint-Cyr à Saint-Cyr-au-Mont-d&rsquo;Or"
 title = "Le Comptoir de Saint-Cyr à Saint-Cyr-au-Mont-d'Or"
 url = "/comptoir-saint-cyr-mont-or"

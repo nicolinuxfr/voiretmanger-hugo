@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Basil, détective privé</em>, Ron Clements, Burny Mattinson, David Michener et John Musker"
 title = "Basil, détective privé, Ron Clements, Burny Mattinson, David Michener et John Musker"
 url = "/basil-detective-prive-clements-mattinson-michener-musker"

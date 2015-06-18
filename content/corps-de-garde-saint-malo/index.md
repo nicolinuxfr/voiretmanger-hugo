@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Corps de Garde à Saint-Malo"
 title = "Le Corps de Garde à Saint-Malo"
 url = "/corps-de-garde-saint-malo"

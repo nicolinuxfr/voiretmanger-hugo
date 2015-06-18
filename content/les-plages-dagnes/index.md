@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les plages d&rsquo;Agnès : belle autobiographie cinématographique"
 title = "Les plages d'Agnès : belle autobiographie cinématographique"
 url = "/les-plages-dagnes"

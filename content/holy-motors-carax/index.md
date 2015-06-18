@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Holy Motors, Leos Carax"
 title = "Holy Motors, Leos Carax"
 url = "/holy-motors-carax"

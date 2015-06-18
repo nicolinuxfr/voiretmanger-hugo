@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Moulin de Rosmadec à Pont-Aven"
 title = "Le Moulin de Rosmadec à Pont-Aven"
 url = "/moulin-rosmadec-pont-aven"

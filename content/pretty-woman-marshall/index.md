@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pretty Woman</em>, Garry Marshall"
 title = "Pretty Woman, Garry Marshall"
 url = "/pretty-woman-marshall"

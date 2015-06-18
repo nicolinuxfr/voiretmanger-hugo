@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>X-Men l&rsquo;affrontement final</em>, Brett Ratner"
 title = "X-Men l'affrontement final, Brett Ratner"
 url = "/x-men-affrontement-final-ratner"

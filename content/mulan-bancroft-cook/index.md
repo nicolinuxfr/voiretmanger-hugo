@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mulan</em>, Tony Bancroft et Barry Cook"
 title = "Mulan, Tony Bancroft et Barry Cook"
 url = "/mulan-bancroft-cook"

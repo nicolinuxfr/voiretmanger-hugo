@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hunger Games</em>, Gary Ross"
 title = "Hunger Games, Gary Ross"
 url = "/hunger-games-ross"

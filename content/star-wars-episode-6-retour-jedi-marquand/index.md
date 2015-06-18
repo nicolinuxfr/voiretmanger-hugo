@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Wars, Épisode VI : Le Retour du Jedi</em>, Richard Marquand"
 title = "Star Wars, Épisode VI : Le Retour du Jedi, Richard Marquand"
 url = "/star-wars-episode-6-retour-jedi-marquand"

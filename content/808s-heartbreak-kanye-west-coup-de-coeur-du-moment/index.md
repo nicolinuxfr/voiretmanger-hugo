@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "808s &#038; Heartbreak, Kanye West : coup de cœur du moment"
 title = "808s &#038; Heartbreak, Kanye West : coup de cœur du moment"
 url = "/808s-heartbreak-kanye-west-coup-de-coeur-du-moment"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Dallas Buyers Club</em>, Jean-Marc Vallée"
 title = "Dallas Buyers Club, Jean-Marc Vallée"
 url = "/dallas-buyers-club-vallee"

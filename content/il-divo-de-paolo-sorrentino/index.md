@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Il Divo, de Paolo Sorrentino"
 title = "Il Divo, de Paolo Sorrentino"
 url = "/il-divo-de-paolo-sorrentino"

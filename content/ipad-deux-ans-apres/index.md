@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Peut-on se contenter d&rsquo;un iPad (deux ans après) ?"
 title = "Peut-on se contenter d'un iPad (deux ans après) ?"
 url = "/ipad-deux-ans-apres"

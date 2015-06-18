@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Scream 4, Wes Craven"
 title = "Scream 4, Wes Craven"
 url = "/scream-4-craven"

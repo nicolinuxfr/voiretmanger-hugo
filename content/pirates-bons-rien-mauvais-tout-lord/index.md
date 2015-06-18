@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Pirates ! Bons à rien, Mauvais en tout</em>, Peter Lord"
 title = "Les Pirates ! Bons à rien, Mauvais en tout, Peter Lord"
 url = "/pirates-bons-rien-mauvais-tout-lord"

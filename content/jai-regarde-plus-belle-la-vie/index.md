@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "J&rsquo;ai regardé Plus Belle la Vie&#8230;"
 title = "J'ai regardé Plus Belle la Vie&#8230;"
 url = "/jai-regarde-plus-belle-la-vie"

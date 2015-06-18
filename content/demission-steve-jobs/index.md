@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "&laquo;&nbsp;Malheureusement, ce jour est arrivé&nbsp;&raquo;"
 title = "&laquo;&nbsp;Malheureusement, ce jour est arrivé&nbsp;&raquo;"
 url = "/demission-steve-jobs"

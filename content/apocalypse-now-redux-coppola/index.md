@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Apocalypse Now Redux</em>, Francis Ford Coppola (Palme d&rsquo;or 1979)"
 title = "Apocalypse Now Redux, Francis Ford Coppola (Palme d'or 1979)"
 url = "/apocalypse-now-redux-coppola"

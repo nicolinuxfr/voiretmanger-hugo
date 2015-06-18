@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Dernier Combat</em>, Luc Besson"
 title = "Le Dernier Combat, Luc Besson"
 url = "/dernier-combat-besson"

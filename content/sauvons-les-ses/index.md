@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sauvons les SES !"
 title = "Sauvons les SES !"
 url = "/sauvons-les-ses"

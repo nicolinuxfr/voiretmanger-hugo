@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Rencontres du troisième type</em>, Steven Spielberg"
 title = "Rencontres du troisième type, Steven Spielberg"
 url = "/rencontres-du-troisieme-type-spielberg"

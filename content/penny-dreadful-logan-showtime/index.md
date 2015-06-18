@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Penny Dreadful</em>, John Logan (Showtime)"
 title = "Penny Dreadful, John Logan (Showtime)"
 url = "/penny-dreadful-logan-showtime"

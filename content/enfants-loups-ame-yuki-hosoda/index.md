@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Enfants Loups, Ame &#038; Yuki</em>, Mamoru Hosoda"
 title = "Les Enfants Loups, Ame &#038; Yuki, Mamoru Hosoda"
 url = "/enfants-loups-ame-yuki-hosoda"

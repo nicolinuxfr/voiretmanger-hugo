@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tartinades : pâtes à tartiner « maison »"
 title = "Tartinades : pâtes à tartiner « maison »"
 url = "/tartinades"

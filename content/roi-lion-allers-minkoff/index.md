@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Roi Lion</em>, Roger Allers et Rob Minkoff"
 title = "Le Roi Lion, Roger Allers et Rob Minkoff"
 url = "/roi-lion-allers-minkoff"

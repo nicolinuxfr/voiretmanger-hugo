@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Scott Pilgrim, Edgar Wright"
 title = "Scott Pilgrim, Edgar Wright"
 url = "/scott-pilgrim-wright"

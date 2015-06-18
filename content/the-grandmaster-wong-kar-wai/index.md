@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Grandmaster, Wong Kar-wai"
 title = "The Grandmaster, Wong Kar-wai"
 url = "/the-grandmaster-wong-kar-wai"

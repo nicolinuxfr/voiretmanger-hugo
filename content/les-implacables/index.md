@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Implacables"
 title = "Les Implacables"
 url = "/les-implacables"

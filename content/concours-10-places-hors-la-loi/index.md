@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Concours : 10 places pour Hors-la-loi à gagner !"
 title = "Concours : 10 places pour Hors-la-loi à gagner !"
 url = "/concours-10-places-hors-la-loi"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Lost in Translation</em>, Sofia Coppola"
 title = "Lost in Translation, Sofia Coppola"
 url = "/lost-in-translation-coppola"

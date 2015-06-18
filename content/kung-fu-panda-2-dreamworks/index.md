@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Kung Fu Panda 2, Dreamworks"
 title = "Kung Fu Panda 2, Dreamworks"
 url = "/kung-fu-panda-2-dreamworks"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La cuisine de Madame Châtelet à Lyon"
 title = "La cuisine de Madame Châtelet à Lyon"
 url = "/cuisine-madame-chatelet-lyon"

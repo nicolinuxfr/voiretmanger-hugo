@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>A.I. Intelligence artificielle</em>, Steven Spielberg"
 title = "A.I. Intelligence artificielle, Steven Spielberg"
 url = "/ai-intelligence-artificielle-spielberg"

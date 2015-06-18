@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les noces rebelles, de Sam Mendes"
 title = "Les noces rebelles, de Sam Mendes"
 url = "/les-noces-rebelles-de-sam-mendes"

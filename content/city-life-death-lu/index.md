@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "City of Life and Death, Chuan Lu"
 title = "City of Life and Death, Chuan Lu"
 url = "/city-life-death-lu"

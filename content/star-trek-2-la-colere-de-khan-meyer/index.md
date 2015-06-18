@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek II : La Colère de Khan</em>, Nicholas Meyer"
 title = "Star Trek II : La Colère de Khan, Nicholas Meyer"
 url = "/star-trek-2-la-colere-de-khan-meyer"

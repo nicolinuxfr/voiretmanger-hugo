@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Astérix : Le Domaine des dieux</em>, Louis Clichy et Alexandre Astier"
 title = "Astérix : Le Domaine des dieux, Louis Clichy et Alexandre Astier"
 url = "/asterix-domaine-dieux-clichy-astier"

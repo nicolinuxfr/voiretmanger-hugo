@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Magali et Martin, Lyon"
 title = "Magali et Martin, Lyon"
 url = "/magali-martin-lyon"

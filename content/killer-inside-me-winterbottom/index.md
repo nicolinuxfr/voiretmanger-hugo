@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Killer Inside Me, Michael Winterbottom"
 title = "The Killer Inside Me, Michael Winterbottom"
 url = "/killer-inside-me-winterbottom"

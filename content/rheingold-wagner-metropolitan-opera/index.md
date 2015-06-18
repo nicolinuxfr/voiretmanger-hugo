@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Das Rheingold, Richard Wagner (Metropolitan Opera, 9 octobre 2010)"
 title = "Das Rheingold, Richard Wagner (Metropolitan Opera, 9 octobre 2010)"
 url = "/rheingold-wagner-metropolitan-opera"

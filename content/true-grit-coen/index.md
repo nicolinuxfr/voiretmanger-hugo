@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>True Grit</em>, Joel et Ethan Coen"
 title = "True Grit, Joel et Ethan Coen"
 url = "/true-grit-coen"

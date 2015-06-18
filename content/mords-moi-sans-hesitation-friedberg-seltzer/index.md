@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Mords-moi sans hésitation, Jason Friedberg et Aaron Seltzer"
 title = "Mords-moi sans hésitation, Jason Friedberg et Aaron Seltzer"
 url = "/mords-moi-sans-hesitation-friedberg-seltzer"

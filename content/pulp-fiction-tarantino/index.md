@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pulp Fiction</em>, Quentin Tarantino (Palme d&rsquo;or 1994)"
 title = "Pulp Fiction, Quentin Tarantino (Palme d'or 1994)"
 url = "/pulp-fiction-tarantino"

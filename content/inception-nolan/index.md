@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Inception</em>, Christopher Nolan"
 title = "Inception, Christopher Nolan"
 url = "/inception-nolan"

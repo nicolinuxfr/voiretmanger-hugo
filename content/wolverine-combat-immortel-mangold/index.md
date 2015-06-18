@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Wolverine : le combat de l&rsquo;immortel</em>, James Mangold"
 title = "Wolverine : le combat de l'immortel, James Mangold"
 url = "/wolverine-combat-immortel-mangold"

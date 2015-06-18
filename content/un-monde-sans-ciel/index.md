@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Un monde sans ciel"
 title = "Un monde sans ciel"
 url = "/un-monde-sans-ciel"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Madama Butterfly, Giacomo Puccini (San Francisco Opera)"
 title = "Madama Butterfly, Giacomo Puccini (San Francisco Opera)"
 url = "/madama-butterfly-puccini-san-francisco-opera"

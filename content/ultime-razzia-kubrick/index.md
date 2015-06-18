@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Ultime Razzia, Stanley Kubrick"
 title = "L'Ultime Razzia, Stanley Kubrick"
 url = "/ultime-razzia-kubrick"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le baiser du tueur, Stanley Kubrick"
 title = "Le baiser du tueur, Stanley Kubrick"
 url = "/baiser-tueur-kubrick"

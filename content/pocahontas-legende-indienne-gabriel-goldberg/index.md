@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pocahontas, une légende indienne</em>, Mike Gabriel et Eric Goldberg"
 title = "Pocahontas, une légende indienne, Mike Gabriel et Eric Goldberg"
 url = "/pocahontas-legende-indienne-gabriel-goldberg"

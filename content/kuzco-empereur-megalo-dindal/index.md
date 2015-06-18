@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Kuzco, l&rsquo;empereur mégalo</em>, Mark Dindal"
 title = "Kuzco, l'empereur mégalo, Mark Dindal"
 url = "/kuzco-empereur-megalo-dindal"

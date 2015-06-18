@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Jason Bourne : l&rsquo;héritage</em>, Tony Gilroy"
 title = "Jason Bourne : l'héritage, Tony Gilroy"
 url = "/jason-bourne-heritage-gilroy"

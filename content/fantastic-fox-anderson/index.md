@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Fantastic Mr. Fox, Wes Anderson"
 title = "Fantastic Mr. Fox, Wes Anderson"
 url = "/fantastic-fox-anderson"

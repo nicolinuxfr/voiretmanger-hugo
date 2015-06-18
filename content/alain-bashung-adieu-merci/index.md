@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Alain Bashung : adieu et merci"
 title = "Alain Bashung : adieu et merci"
 url = "/alain-bashung-adieu-merci"

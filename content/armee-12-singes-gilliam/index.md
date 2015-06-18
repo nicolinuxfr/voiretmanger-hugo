@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Armée des 12 Singes</em>, Terry Gilliam"
 title = "L'Armée des 12 Singes, Terry Gilliam"
 url = "/armee-12-singes-gilliam"

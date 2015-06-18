@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Piranha 3D, Alexandre Aja"
 title = "Piranha 3D, Alexandre Aja"
 url = "/piranha-3d-aja"

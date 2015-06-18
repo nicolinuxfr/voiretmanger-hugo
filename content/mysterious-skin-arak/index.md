@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mysterious Skin</em>, Gregg Araki"
 title = "Mysterious Skin, Gregg Araki"
 url = "/mysterious-skin-arak"

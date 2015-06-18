@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Illusionniste, Sylvain Chomet"
 title = "L'Illusionniste, Sylvain Chomet"
 url = "/illusionniste-chomet"

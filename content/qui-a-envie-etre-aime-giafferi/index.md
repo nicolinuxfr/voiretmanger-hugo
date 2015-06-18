@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Qui a envie d’être aimé ?, Anne Giafferi"
 title = "Qui a envie d’être aimé ?, Anne Giafferi"
 url = "/qui-a-envie-etre-aime-giafferi"

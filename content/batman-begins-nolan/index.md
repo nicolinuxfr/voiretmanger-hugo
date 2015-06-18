@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Batman Begins, Christopher Nolan"
 title = "Batman Begins, Christopher Nolan"
 url = "/batman-begins-nolan"

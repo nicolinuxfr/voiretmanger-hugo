@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tucker &#038; Dale fightent le mal, Eli Craig"
 title = "Tucker &#038; Dale fightent le mal, Eli Craig"
 url = "/tucker-dale-fightent-mal-craig"

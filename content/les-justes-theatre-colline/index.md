@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Justes au Théâtre de la Colline (3 avril 2010)"
 title = "Les Justes au Théâtre de la Colline (3 avril 2010)"
 url = "/les-justes-theatre-colline"

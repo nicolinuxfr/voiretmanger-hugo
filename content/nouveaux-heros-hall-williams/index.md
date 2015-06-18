@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Nouveaux Héros</em>, Don Hall et Chris Williams (II)"
 title = "Les Nouveaux Héros, Don Hall et Chris Williams (II)"
 url = "/nouveaux-heros-hall-williams"

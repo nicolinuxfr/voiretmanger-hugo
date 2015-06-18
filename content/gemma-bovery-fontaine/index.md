@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Gemma Bovery</em>, Anne Fontaine"
 title = "Gemma Bovery, Anne Fontaine"
 url = "/gemma-bovery-fontaine"

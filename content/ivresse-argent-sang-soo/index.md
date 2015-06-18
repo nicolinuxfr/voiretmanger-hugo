@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;ivresse de l&rsquo;argent, Im Sang-soo"
 title = "L'ivresse de l'argent, Im Sang-soo"
 url = "/ivresse-argent-sang-soo"

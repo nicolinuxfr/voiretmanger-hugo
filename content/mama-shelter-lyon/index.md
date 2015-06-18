@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Mama Shelter à Lyon"
 title = "Le Mama Shelter à Lyon"
 url = "/mama-shelter-lyon"

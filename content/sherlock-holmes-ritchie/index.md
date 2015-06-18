@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sherlock Holmes, Guy Ritchie"
 title = "Sherlock Holmes, Guy Ritchie"
 url = "/sherlock-holmes-ritchie"

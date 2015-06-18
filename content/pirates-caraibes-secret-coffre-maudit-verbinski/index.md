@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pirates des Caraïbes : le Secret du Coffre Maudit</em>, Gore Verbinski"
 title = "Pirates des Caraïbes : le Secret du Coffre Maudit, Gore Verbinski"
 url = "/pirates-caraibes-secret-coffre-maudit-verbinski"

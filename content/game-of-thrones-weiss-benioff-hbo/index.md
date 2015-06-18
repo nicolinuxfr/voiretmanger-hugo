@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Game of Thrones</em>, D. B. Weiss et David Benioff (HBO)"
 title = "Game of Thrones, D. B. Weiss et David Benioff (HBO)"
 url = "/game-of-thrones-weiss-benioff-hbo"

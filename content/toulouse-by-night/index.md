@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Toulouse by night"
 title = "Toulouse by night"
 url = "/toulouse-by-night"

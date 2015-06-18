@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tilva Roš, Nikola Ležaic"
 title = "Tilva Roš, Nikola Ležaic"
 url = "/tilva-ros-lezaic"

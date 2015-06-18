@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Lord of War, Andrew Niccol"
 title = "Lord of War, Andrew Niccol"
 url = "/lord-of-war-niccol"

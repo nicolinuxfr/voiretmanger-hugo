@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Musée Miniature et Cinéma à Lyon"
 title = "Le Musée Miniature et Cinéma à Lyon"
 url = "/musee-miniature-cinema-lyon"

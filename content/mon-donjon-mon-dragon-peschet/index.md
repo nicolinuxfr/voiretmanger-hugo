@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mon Donjon Mon Dragon</em>, Lilian Peschet"
 title = "Mon Donjon Mon Dragon, Lilian Peschet"
 url = "/mon-donjon-mon-dragon-peschet"

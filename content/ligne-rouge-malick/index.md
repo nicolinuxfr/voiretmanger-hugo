@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La ligne rouge</em>, Terrence Malick"
 title = "La ligne rouge, Terrence Malick"
 url = "/ligne-rouge-malick"

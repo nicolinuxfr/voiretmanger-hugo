@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Rox et Rouky</em>, Ted Berman, Richard Rich et Art Stevens"
 title = "Rox et Rouky, Ted Berman, Richard Rich et Art Stevens"
 url = "/rox-rouky-berman-rich-stevens"

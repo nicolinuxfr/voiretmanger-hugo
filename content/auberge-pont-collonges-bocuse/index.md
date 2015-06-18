@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Auberge du Pont de Collonges, à Collonges au Mont d&rsquo;Or (Paul Bocuse)"
 title = "L'Auberge du Pont de Collonges, à Collonges au Mont d'Or (Paul Bocuse)"
 url = "/auberge-pont-collonges-bocuse"

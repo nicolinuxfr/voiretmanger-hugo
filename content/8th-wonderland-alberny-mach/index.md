@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "8th Wonderland, Nicolas Alberny et Jean Mach"
 title = "8th Wonderland, Nicolas Alberny et Jean Mach"
 url = "/8th-wonderland-alberny-mach"

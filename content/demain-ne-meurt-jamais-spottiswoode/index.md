@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Demain ne meurt jamais</em>, Roger Spottiswoode"
 title = "Demain ne meurt jamais, Roger Spottiswoode"
 url = "/demain-ne-meurt-jamais-spottiswoode"

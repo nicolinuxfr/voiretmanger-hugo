@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "White White World, Oleg Novkovic"
 title = "White White World, Oleg Novkovic"
 url = "/white-white-world-novkovic"

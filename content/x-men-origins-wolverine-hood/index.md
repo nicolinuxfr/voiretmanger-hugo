@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>X-Men Origins: Wolverine</em>, Gavin Hood"
 title = "X-Men Origins: Wolverine, Gavin Hood"
 url = "/x-men-origins-wolverine-hood"

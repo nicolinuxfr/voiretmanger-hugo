@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Cochon de Gaza</em>, Sylvain Estibal"
 title = "Le Cochon de Gaza, Sylvain Estibal"
 url = "/cochon-gaza-estibal"

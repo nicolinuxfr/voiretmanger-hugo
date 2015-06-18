@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>On ne vit que deux fois</em>, Lewis Gilbert"
 title = "On ne vit que deux fois, Lewis Gilbert"
 url = "/on-ne-vit-que-deux-fois-gilbert"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Masters of Sex</em>, Michelle Ashford (Showtime)"
 title = "Masters of Sex, Michelle Ashford (Showtime)"
 url = "/masters-of-sex-ashford-showtime"

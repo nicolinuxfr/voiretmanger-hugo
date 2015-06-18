@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Seigneur des anneaux : les deux tours</em>, Peter Jackson"
 title = "Le Seigneur des anneaux : les deux tours, Peter Jackson"
 url = "/seigneur-anneaux-deux-tours-jackson"

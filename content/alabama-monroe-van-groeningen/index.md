@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Alabama Monroe</em>, Felix van Groeningen"
 title = "Alabama Monroe, Felix van Groeningen"
 url = "/alabama-monroe-van-groeningen"

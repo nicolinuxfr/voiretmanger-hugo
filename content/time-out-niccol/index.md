@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Time Out</em>, Andrew Niccol"
 title = "Time Out, Andrew Niccol"
 url = "/time-out-niccol"

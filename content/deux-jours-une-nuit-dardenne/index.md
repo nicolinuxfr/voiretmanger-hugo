@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Deux jours, une nuit</em>, Jean-Pierre et Luc Dardenne"
 title = "Deux jours, une nuit, Jean-Pierre et Luc Dardenne"
 url = "/deux-jours-une-nuit-dardenne"

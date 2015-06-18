@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Spartacus</em>, Steven S. DeKnight (Starz)"
 title = "Spartacus, Steven S. DeKnight (Starz)"
 url = "/spartacus-deknight-starz"

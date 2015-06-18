@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sherlock, BBC"
 title = "Sherlock, BBC"
 url = "/sherlock-bbc"

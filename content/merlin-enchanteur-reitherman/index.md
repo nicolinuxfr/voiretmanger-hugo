@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Merlin l&rsquo;Enchanteur</em>, Wolfgang Reitherman"
 title = "Merlin l'Enchanteur, Wolfgang Reitherman"
 url = "/merlin-enchanteur-reitherman"

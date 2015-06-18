@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Biutiful</em>, Alejandro González Inárritu"
 title = "Biutiful, Alejandro González Inárritu"
 url = "/biutiful-inarritu"

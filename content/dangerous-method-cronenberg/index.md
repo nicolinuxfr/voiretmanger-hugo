@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>A Dangerous Method</em>, David Cronenberg"
 title = "A Dangerous Method, David Cronenberg"
 url = "/dangerous-method-cronenberg"

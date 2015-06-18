@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Amours Imaginaires</em>, Xavier Dolan"
 title = "Les Amours Imaginaires, Xavier Dolan"
 url = "/amours-imaginaires-dolan"

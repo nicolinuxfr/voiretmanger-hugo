@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Destination finale 4, David R. Ellis"
 title = "Destination finale 4, David R. Ellis"
 url = "/destination-finale-4"

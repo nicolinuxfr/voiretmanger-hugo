@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Que ma joie demeure !</em>, Alexandre Astier à la Bourse du travail (22 décembre 2012)"
 title = "Que ma joie demeure !, Alexandre Astier à la Bourse du travail (22 décembre 2012)"
 url = "/que-ma-joie-demeure-astier-lyon"

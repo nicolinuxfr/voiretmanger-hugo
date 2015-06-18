@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Quai d&rsquo;Orsay : chroniques diplomatiques</em>, Abel Lanzac et Christophe Blain"
 title = "Quai d'Orsay : chroniques diplomatiques, Abel Lanzac et Christophe Blain"
 url = "/quai-orsay-chroniques-diplomatiques-lanzac-blain"

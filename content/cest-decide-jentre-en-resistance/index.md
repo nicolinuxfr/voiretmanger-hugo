@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "C&rsquo;est décidé, j&rsquo;entre en résistance !"
 title = "C'est décidé, j'entre en résistance !"
 url = "/cest-decide-jentre-en-resistance"

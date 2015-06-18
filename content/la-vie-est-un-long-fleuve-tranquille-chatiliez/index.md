@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La vie est un long fleuve tranquille</em>, Étienne Chatiliez"
 title = "La vie est un long fleuve tranquille, Étienne Chatiliez"
 url = "/la-vie-est-un-long-fleuve-tranquille-chatiliez"

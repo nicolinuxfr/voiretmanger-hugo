@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Persepolis</em>, Marjane Satrapi et Vincent Paronnaud"
 title = "Persepolis, Marjane Satrapi et Vincent Paronnaud"
 url = "/persepolis-satrapi-paronnaud"

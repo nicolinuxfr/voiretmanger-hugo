@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Les Miller, une famille en herbe</em>, Rawson Marshall Thurber"
 title = "Les Miller, une famille en herbe, Rawson Marshall Thurber"
 url = "/miller-famille-herbe-thurber"

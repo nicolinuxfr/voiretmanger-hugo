@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Entre les murs</em>, Laurent Cantet (Palme d&rsquo;or 2008)"
 title = "Entre les murs, Laurent Cantet (Palme d'or 2008)"
 url = "/entre-les-murs-laurent-cantet"

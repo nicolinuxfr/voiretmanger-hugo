@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>A Touch of Sin</em>, Jia Zhang-Ke"
 title = "A Touch of Sin, Jia Zhang-Ke"
 url = "/a-touch-of-sin-zhang-ke"

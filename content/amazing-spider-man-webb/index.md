@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Amazing Spider-Man</em>, Marc Webb"
 title = "The Amazing Spider-Man, Marc Webb"
 url = "/amazing-spider-man-webb"

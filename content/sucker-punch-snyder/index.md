@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Sucker Punch, Zack Snyder"
 title = "Sucker Punch, Zack Snyder"
 url = "/sucker-punch-snyder"

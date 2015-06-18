@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Dark Knight"
 title = "The Dark Knight"
 url = "/the-dark-night"

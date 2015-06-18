@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Quantum of Solace</em>, Marc Forster"
 title = "Quantum of Solace, Marc Forster"
 url = "/quantum-of-solace-forster"

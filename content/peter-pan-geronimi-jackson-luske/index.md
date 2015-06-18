@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Peter Pan</em>, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 title = "Peter Pan, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 url = "/peter-pan-geronimi-jackson-luske"

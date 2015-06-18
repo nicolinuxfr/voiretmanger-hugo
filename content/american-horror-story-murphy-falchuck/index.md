@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>American Horror Story</em>, Ryan Murphy et Brad Falchuk (FX)"
 title = "American Horror Story, Ryan Murphy et Brad Falchuk (FX)"
 url = "/american-horror-story-murphy-falchuck"

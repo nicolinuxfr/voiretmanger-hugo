@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;enfant d&rsquo;en haut, Ursula Meier"
 title = "L'enfant d'en haut, Ursula Meier"
 url = "/enfant-haut-meier"

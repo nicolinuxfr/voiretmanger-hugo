@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tolstoï, le dernier automne, Michael Hoffman"
 title = "Tolstoï, le dernier automne, Michael Hoffman"
 url = "/tolstoi-dernier-automne-hoffman"

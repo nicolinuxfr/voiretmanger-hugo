@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Camille Claudel 1915, Bruno Dumont"
 title = "Camille Claudel 1915, Bruno Dumont"
 url = "/camille-claudel-1915-dumont"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Toy Story</em>, John Lasseter"
 title = "Toy Story, John Lasseter"
 url = "/toy-story-pixar"

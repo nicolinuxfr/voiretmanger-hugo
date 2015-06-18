@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Tonnerre sous les tropiques"
 title = "Tonnerre sous les tropiques"
 url = "/tonnerre-sous-les-tropiques"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Hugo Cabret</em>, Martin Scorsese"
 title = "Hugo Cabret, Martin Scorsese"
 url = "/hugo-cabret-scorsese"

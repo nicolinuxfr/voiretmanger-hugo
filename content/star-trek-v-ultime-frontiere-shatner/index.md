@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek V : L&rsquo;Ultime frontière</em>, William Shatner"
 title = "Star Trek V : L'Ultime frontière, William Shatner"
 url = "/star-trek-v-ultime-frontiere-shatner"

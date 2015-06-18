@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Quelques jours à Vienne"
 title = "Quelques jours à Vienne"
 url = "/quelques-jours-vienne"

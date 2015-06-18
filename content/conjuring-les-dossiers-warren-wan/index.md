@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Conjuring : Les dossiers Warren</em>, James Wan"
 title = "Conjuring : Les dossiers Warren, James Wan"
 url = "/conjuring-les-dossiers-warren-wan"

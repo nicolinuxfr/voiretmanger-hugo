@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Ernest et Célestine</em>, Benjamin Renner, Vincent Patar et Stéphane Aubier"
 title = "Ernest et Célestine, Benjamin Renner, Vincent Patar et Stéphane Aubier"
 url = "/ernest-et-celestine-renner-patar-aubier"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Twilight – Chapitre 2 : Tentation</em>,  Chris Weitz"
 title = "Twilight – Chapitre 2 : Tentation,  Chris Weitz"
 url = "/twilight-chapitre-2-weitz"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Téhéran, Nader T. Homayoun"
 title = "Téhéran, Nader T. Homayoun"
 url = "/teheran-homayoun"

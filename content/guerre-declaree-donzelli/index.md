@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La Guerre est déclarée</em>, Valérie Donzelli"
 title = "La Guerre est déclarée, Valérie Donzelli"
 url = "/guerre-declaree-donzelli"

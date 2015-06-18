@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Non, je ne suis pas mort"
 title = "Non, je ne suis pas mort"
 url = "/non-je-ne-suis-pas-mort"

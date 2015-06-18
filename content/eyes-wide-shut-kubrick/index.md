@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Eyes Wide Shut</em>, Stanley Kubrick"
 title = "Eyes Wide Shut, Stanley Kubrick"
 url = "/eyes-wide-shut-kubrick"

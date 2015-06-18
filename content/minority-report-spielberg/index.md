@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Minority Report</em>, Steven Spielberg"
 title = "Minority Report, Steven Spielberg"
 url = "/minority-report-spielberg"

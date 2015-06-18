@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Terminator 2 : Le Jugement dernier</em>, James Cameron"
 title = "Terminator 2 : Le Jugement dernier, James Cameron"
 url = "/terminator-2-jugement-dernier-cameron"

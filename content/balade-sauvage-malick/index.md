@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Balade sauvage, Terrence Malick"
 title = "La Balade sauvage, Terrence Malick"
 url = "/balade-sauvage-malick"

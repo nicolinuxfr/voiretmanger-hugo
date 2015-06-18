@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>5150 rue des Ormes</em>, Éric Tessier"
 title = "5150 rue des Ormes, Éric Tessier"
 url = "/5150-rue-des-ormes-tessier"

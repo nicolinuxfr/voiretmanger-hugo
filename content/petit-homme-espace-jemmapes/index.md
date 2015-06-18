@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Petit Homme à l&rsquo;Espace Jemmapes (18 septembre 2009)"
 title = "Petit Homme à l'Espace Jemmapes (18 septembre 2009)"
 url = "/petit-homme-espace-jemmapes"

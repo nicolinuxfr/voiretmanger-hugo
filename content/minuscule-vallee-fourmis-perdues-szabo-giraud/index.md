@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Minuscule: la Vallée des Fourmis Perdues</em>, Thomas Szabo et Hélène Giraud"
 title = "Minuscule: la Vallée des Fourmis Perdues, Thomas Szabo et Hélène Giraud"
 url = "/minuscule-vallee-fourmis-perdues-szabo-giraud"

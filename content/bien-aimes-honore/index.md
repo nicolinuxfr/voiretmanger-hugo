@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Les Bien-Aimés, Christophe Honoré"
 title = "Les Bien-Aimés, Christophe Honoré"
 url = "/bien-aimes-honore"

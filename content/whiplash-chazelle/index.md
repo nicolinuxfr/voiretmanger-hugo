@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Whiplash</em>, Damien Chazelle"
 title = "Whiplash, Damien Chazelle"
 url = "/whiplash-chazelle"

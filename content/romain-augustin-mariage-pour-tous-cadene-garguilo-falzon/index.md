@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Romain &#038; Augustin, un mariage pour tous</em>, Thomas Cadène, Didier Garguilo et Joseph Falzon"
 title = "Romain &#038; Augustin, un mariage pour tous, Thomas Cadène, Didier Garguilo et Joseph Falzon"
 url = "/romain-augustin-mariage-pour-tous-cadene-garguilo-falzon"

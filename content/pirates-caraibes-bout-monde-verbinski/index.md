@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Pirates des Caraïbes : Jusqu&rsquo;au Bout du Monde</em>, Gore Verbinski"
 title = "Pirates des Caraïbes : Jusqu'au Bout du Monde, Gore Verbinski"
 url = "/pirates-caraibes-bout-monde-verbinski"

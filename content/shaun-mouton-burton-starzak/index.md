@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Shaun le Mouton</em>, Mark Burton et Richard Starzak"
 title = "Shaun le Mouton, Mark Burton et Richard Starzak"
 url = "/shaun-mouton-burton-starzak"

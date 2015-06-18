@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Drive</em>, Nicolas Winding Refn"
 title = "Drive, Nicolas Winding Refn"
 url = "/drive-winding-refn"

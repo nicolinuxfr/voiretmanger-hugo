@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "S&rsquo;il ne fallait garder que 10 films d&rsquo;animation…"
 title = "S'il ne fallait garder que 10 films d'animation…"
 url = "/10-films-animation"

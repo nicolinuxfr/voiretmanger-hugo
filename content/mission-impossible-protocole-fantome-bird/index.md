@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mission : Impossible &#8211; Protocole Fantôme</em>, Brad Bird"
 title = "Mission : Impossible &#8211; Protocole Fantôme, Brad Bird"
 url = "/mission-impossible-protocole-fantome-bird"

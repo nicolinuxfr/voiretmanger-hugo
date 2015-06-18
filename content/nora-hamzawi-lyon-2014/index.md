@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Nora Hamzawi à la Salle Rameau (7 novembre 2014)"
 title = "Nora Hamzawi à la Salle Rameau (7 novembre 2014)"
 url = "/nora-hamzawi-lyon-2014"

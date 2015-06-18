@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Knick</em>, Jack Amiel et Michael Begler (Cinemax)"
 title = "The Knick, Jack Amiel et Michael Begler (Cinemax)"
 url = "/knick-amiel-begler-cinemax"

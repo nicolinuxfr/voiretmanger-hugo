@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Where the Wild Things Are</em>, Karen O and the Kids"
 title = "Where the Wild Things Are, Karen O and the Kids"
 url = "/where-the-wild-things-are-karen-o"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Vivre et laisser mourir, Guy Hamilton"
 title = "Vivre et laisser mourir, Guy Hamilton"
 url = "/vivre-et-laisser-mourir-hamilton"

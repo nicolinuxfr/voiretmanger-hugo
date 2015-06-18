@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Dictator, Larry Charles"
 title = "The Dictator, Larry Charles"
 url = "/dictator-charles"

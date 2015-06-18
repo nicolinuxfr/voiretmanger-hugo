@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "In Another Country, Hong Sang-soo"
 title = "In Another Country, Hong Sang-soo"
 url = "/in-another-country-sang-soo"

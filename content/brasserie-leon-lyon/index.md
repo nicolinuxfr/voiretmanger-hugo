@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Brasserie Léon de Lyon à Lyon"
 title = "Brasserie Léon de Lyon à Lyon"
 url = "/brasserie-leon-lyon"

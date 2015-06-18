@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La vie des autres, Florian Henckel von Donnersmarck"
 title = "La vie des autres, Florian Henckel von Donnersmarck"
 url = "/la-vie-des-autres-donnersmarck"

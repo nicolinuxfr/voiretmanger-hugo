@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Festival de Cinéma Européen des Arcs 2010 : bilan"
 title = "Festival de Cinéma Européen des Arcs 2010 : bilan"
 url = "/festival-cinema-europeen-arcs-2010-bilan"

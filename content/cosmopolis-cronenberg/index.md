@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Cosmopolis, David Cronenberg"
 title = "Cosmopolis, David Cronenberg"
 url = "/cosmopolis-cronenberg"

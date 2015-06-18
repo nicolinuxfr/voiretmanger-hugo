@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Viva la Hova : le dialogue des musiques"
 title = "Viva la Hova : le dialogue des musiques"
 url = "/viva-la-hova-le-dialogue-des-musiques"

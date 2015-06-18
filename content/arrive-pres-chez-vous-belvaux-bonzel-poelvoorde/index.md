@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>C&rsquo;est arrivé près de chez vous</em>, Rémy Belvaux, André Bonzel et Benoît Poelvoorde"
 title = "C'est arrivé près de chez vous, Rémy Belvaux, André Bonzel et Benoît Poelvoorde"
 url = "/arrive-pres-chez-vous-belvaux-bonzel-poelvoorde"

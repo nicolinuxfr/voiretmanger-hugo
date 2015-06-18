@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le dernier rite, Peter Cornwell"
 title = "Le dernier rite, Peter Cornwell"
 url = "/dernier-rite-cornwell"

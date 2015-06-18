@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Talisman à Pont-Aven"
 title = "Le Talisman à Pont-Aven"
 url = "/talisman-pont-aven"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Bistrot des Maquignons à Lyon"
 title = "Le Bistrot des Maquignons à Lyon"
 url = "/bistrot-maquignons-lyon"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Star Trek VI : Terre inconnue</em>, Nicholas Meyer"
 title = "Star Trek VI : Terre inconnue, Nicholas Meyer"
 url = "/star-trek-vi-terre-inconnue-meyer"

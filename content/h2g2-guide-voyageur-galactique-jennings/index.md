@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>H2G2 : le guide du voyageur galactique</em>, Garth Jennings"
 title = "H2G2 : le guide du voyageur galactique, Garth Jennings"
 url = "/h2g2-guide-voyageur-galactique-jennings"

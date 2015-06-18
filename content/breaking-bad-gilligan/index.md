@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Breaking Bad</em>, Vince Gilligan (AMC)"
 title = "Breaking Bad, Vince Gilligan (AMC)"
 url = "/breaking-bad-gilligan"

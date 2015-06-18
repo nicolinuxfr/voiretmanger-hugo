@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Soul Kitchen, Fatih Akin"
 title = "Soul Kitchen, Fatih Akin"
 url = "/soul-kitchen-akin"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Million Dollar Baby</em>, Clint Eastwood"
 title = "Million Dollar Baby, Clint Eastwood"
 url = "/million-dollar-baby-eastwood"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>La guerre des mondes</em>, Steven Spielberg"
 title = "La guerre des mondes, Steven Spielberg"
 url = "/guerre-mondes-spielberg"

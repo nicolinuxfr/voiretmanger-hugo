@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Sapori e Colori à Lyon"
 title = "Le Sapori e Colori à Lyon"
 url = "/sapori-colori-lyon"

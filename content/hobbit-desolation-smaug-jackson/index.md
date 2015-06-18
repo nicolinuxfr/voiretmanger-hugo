@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le Hobbit : la Désolation de Smaug</em>, Peter Jackson"
 title = "Le Hobbit : la Désolation de Smaug, Peter Jackson"
 url = "/hobbit-desolation-smaug-jackson"

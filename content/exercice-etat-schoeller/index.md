@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>L&rsquo;Exercice de l&rsquo;État</em>, Pierre Schœller"
 title = "L'Exercice de l'État, Pierre Schœller"
 url = "/exercice-etat-schoeller"

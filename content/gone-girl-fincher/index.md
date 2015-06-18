@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Gone Girl</em>, David Fincher"
 title = "Gone Girl, David Fincher"
 url = "/gone-girl-fincher"

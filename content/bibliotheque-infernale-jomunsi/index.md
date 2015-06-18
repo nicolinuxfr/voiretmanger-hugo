@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La bibliothèque infernale, Neil Jomunsi"
 title = "La bibliothèque infernale, Neil Jomunsi"
 url = "/bibliotheque-infernale-jomunsi"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Black Swan, Darren Aronofsky"
 title = "Black Swan, Darren Aronofsky"
 url = "/black-swan-aronofsky"

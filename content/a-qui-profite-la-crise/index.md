@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "À qui profite la crise ?"
 title = "À qui profite la crise ?"
 url = "/a-qui-profite-la-crise"

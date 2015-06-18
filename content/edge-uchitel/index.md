@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Edge, Aleksei Uchitel"
 title = "The Edge, Aleksei Uchitel"
 url = "/edge-uchitel"

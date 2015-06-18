@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Le Burger King à Lyon"
 title = "Le Burger King à Lyon"
 url = "/burger-king-lyon"

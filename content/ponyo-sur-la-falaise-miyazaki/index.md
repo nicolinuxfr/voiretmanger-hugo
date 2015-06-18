@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Ponyo sur la falaise</em>, Hayao Miyazaki"
 title = "Ponyo sur la falaise, Hayao Miyazaki"
 url = "/ponyo-sur-la-falaise-miyazaki"

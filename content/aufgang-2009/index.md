@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Aufgang, Aufgang (2009)"
 title = "Aufgang, Aufgang (2009)"
 url = "/aufgang-2009"

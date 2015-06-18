@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "La Défense Lincoln, Brad Furman"
 title = "La Défense Lincoln, Brad Furman"
 url = "/defense-lincoln-furman"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Gainsbourg (vie héroïque), Joann Sfar"
 title = "Gainsbourg (vie héroïque), Joann Sfar"
 url = "/gainsbourg-vie-heroique-sfar"

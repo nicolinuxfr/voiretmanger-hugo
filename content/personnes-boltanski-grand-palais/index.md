@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Personnes de Christian Boltanski au Grand Palais (janvier-février 2010)"
 title = "Personnes de Christian Boltanski au Grand Palais (janvier-février 2010)"
 url = "/personnes-boltanski-grand-palais"

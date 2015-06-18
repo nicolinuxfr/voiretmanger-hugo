@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>R.I.P.D., Brigade Fantôme</em>, Robert Schwentke"
 title = "R.I.P.D., Brigade Fantôme, Robert Schwentke"
 url = "/ripd-brigade-fantome-schwentke"

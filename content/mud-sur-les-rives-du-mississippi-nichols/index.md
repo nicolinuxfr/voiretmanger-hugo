@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Mud &#8211; Sur les rives du Mississippi</em>, Jeff Nichols"
 title = "Mud &#8211; Sur les rives du Mississippi, Jeff Nichols"
 url = "/mud-sur-les-rives-du-mississippi-nichols"

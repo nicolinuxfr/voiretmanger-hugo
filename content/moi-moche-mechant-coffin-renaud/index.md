@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Moi, moche et méchant</em>, Pierre Coffin et Chris Renaud"
 title = "Moi, moche et méchant, Pierre Coffin et Chris Renaud"
 url = "/moi-moche-mechant-coffin-renaud"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "L&rsquo;Étrange pouvoir de Norman, Sam Fell et Chris Butler"
 title = "L'Étrange pouvoir de Norman, Sam Fell et Chris Butler"
 url = "/etrange-pouvoir-norman-fell-butler"

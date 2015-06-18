@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>The Voices</em>, Marjane Satrapi"
 title = "The Voices, Marjane Satrapi"
 url = "/voices-satrapi"

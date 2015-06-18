@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Closer, entre adultes consentants</em>, Mike Nicchols"
 title = "Closer, entre adultes consentants, Mike Nicchols"
 url = "/closer-entre-adultes-consentants-nicchols"

@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Harry Potter et le Prisonnier d&rsquo;Azkaban</em>, Alfonso Cuarón"
 title = "Harry Potter et le Prisonnier d'Azkaban, Alfonso Cuarón"
 url = "/harry-potter-et-le-prisonnier-d-azkaban-cuaron"

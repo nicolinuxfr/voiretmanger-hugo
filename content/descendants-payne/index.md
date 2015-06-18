@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Descendants, Alexander Payne"
 title = "The Descendants, Alexander Payne"
 url = "/descendants-payne"

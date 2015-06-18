@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "90 films cultes à l&rsquo;usage des personnes pressées, Henrik Lange et Thomas Wengelewski"
 title = "90 films cultes à l'usage des personnes pressées, Henrik Lange et Thomas Wengelewski"
 url = "/90-films-cultes-usage-personnes-pressees-lange-wengelwski"

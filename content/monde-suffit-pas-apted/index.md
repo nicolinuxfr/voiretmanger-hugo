@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Le monde ne suffit pas</em>, Michael Apted"
 title = "Le monde ne suffit pas, Michael Apted"
 url = "/monde-suffit-pas-apted"

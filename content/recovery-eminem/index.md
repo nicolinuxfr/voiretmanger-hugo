@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Recovery, Eminem"
 title = "Recovery, Eminem"
 url = "/recovery-eminem"

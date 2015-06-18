@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "<em>Alice au pays des merveilles</em>, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 title = "Alice au pays des merveilles, Clyde Geronimi, Wilfred Jackson et Hamilton Luske"
 url = "/alice-pays-merveilles-geronimi-jackson-luske"

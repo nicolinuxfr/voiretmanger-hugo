@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "The Green Hornet, Michel Gondry"
 title = "The Green Hornet, Michel Gondry"
 url = "/green-hornet-gondry"

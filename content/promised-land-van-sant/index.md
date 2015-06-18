@@ -1,4 +1,5 @@
 +++
+type = "post"
 titre = "Promised Land, Gus Van Sant"
 title = "Promised Land, Gus Van Sant"
 url = "/promised-land-van-sant"

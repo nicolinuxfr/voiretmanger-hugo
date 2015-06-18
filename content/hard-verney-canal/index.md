@@ -26,9 +26,9 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_9655" id="identifier_0_9655" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B003CGIQAK/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003CGIQAK">Acheter la première saison en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B004Q64X4S/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B004Q64X4S">Acheter la deuxième saison en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B005BHE3WI/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005BHE3WI">Acheter les deux premières saisons en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003CGIQAK/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003CGIQAK">Acheter la première saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B004Q64X4S/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B004Q64X4S">Acheter la deuxième saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B005BHE3WI/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005BHE3WI">Acheter les deux premières saisons en DVD sur Amazon</a></li>
 <li><em>Hard</em> sur l&rsquo;iTunes Store : <a href="https://itunes.apple.com/fr/tv-season/hard-saison-1/id634423896">saison 1</a> | <a href="https://itunes.apple.com/fr/tv-season/hard-saison-2/id634430271">saison 2</a></li>
 </ul>
 </div>

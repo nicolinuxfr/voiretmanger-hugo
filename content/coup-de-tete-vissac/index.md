@@ -28,8 +28,8 @@ Puis le plastique crève et mes doigts s’enfoncent crades dans l’une des mad
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_8853" id="identifier_0_8853" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00BTFLSSS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BTFLSSS">Acheter le livre au format Kindle sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00BTFLSSS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BTFLSSS">Acheter le livre sur l&rsquo;isBookstore</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BTFLSSS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BTFLSSS">Acheter le livre au format Kindle sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BTFLSSS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BTFLSSS">Acheter le livre sur l&rsquo;isBookstore</a></li>
 <li><a href="http://www.publie.net/fr/ebook/9782814596467/coup-de-tete">Acheter le livre sur le site de l&rsquo;éditeur (ePub)</a></li>
 </ul>
 </div>

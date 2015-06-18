@@ -30,9 +30,9 @@ original = "Sherlock Holmes : A Game of Shadow"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B007GE87FI/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007GE87FI">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00715BGQY/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00715BGQY">Acheter le film en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B007GE87C6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007GE87C6">Acheter le coffret avec les deux films en Blu-Ray et DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007GE87FI/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007GE87FI">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00715BGQY/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00715BGQY">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007GE87C6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007GE87C6">Acheter le coffret avec les deux films en Blu-Ray et DVD sur Amazon</a></li>
 </ul>
 </div>
 

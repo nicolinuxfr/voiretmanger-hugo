@@ -28,7 +28,7 @@ pays = [ "France" ]
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_9511" id="identifier_0_9511" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
 <li><a href="https://itunes.apple.com/fr/book/je-suis-rage/id622544469?mt=11">Acheter le livre sur l&rsquo;iBookstore</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00BW1IPS0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BW1IPS0">Acheter le livre au format Kindle sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BW1IPS0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BW1IPS0">Acheter le livre au format Kindle sur Amazon</a></li>
 <li><a href="http://store.walrus-books.com/je-suis-rage/"><em>Je suis Rage</em> sur le site de l&rsquo;éditeur</a></li>
 </ul>
 </div>

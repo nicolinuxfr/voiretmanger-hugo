@@ -27,7 +27,7 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_8292" id="identifier_0_8292" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2707322571/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2707322571">Acheter le livre sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B009ERA6BI/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B009ERA6BI">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/2707322571/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2707322571">Acheter le livre sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B009ERA6BI/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B009ERA6BI">format Kindle</a>)</li>
 <li><a href="https://itunes.apple.com/fr/book/14/id564148927?mt=11">Acheter le livre sur l&rsquo;iBookstore</a></li>
 </ul>
 </div>

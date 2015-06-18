@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "<em>La vie d&rsquo;Adèle – Chapitres 1 &#038; 2</em>, Abdellatif Kechiche (Palme d&rsquo;or 2013)"
-title = "La vie d'Adèle – Chapitres 1 &#038; 2, Abdellatif Kechiche (Palme d'or 2013)"
+titre = "<em>La vie d&rsquo;Adèle – Chapitres 1 & 2</em>, Abdellatif Kechiche (Palme d&rsquo;or 2013)"
+title = "La vie d'Adèle – Chapitres 1 & 2, Abdellatif Kechiche (Palme d'or 2013)"
 url = "/la-vie-adele-chapitres-1-2-kechiche"
 date = "2013-10-12T11:57:48"
 Lastmod = "2014-12-30T21:54:54"
@@ -27,9 +27,9 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00D13ZBF2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00D13ZBF2">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00D13ZAB2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00D13ZAB2">Acheter le film en DVD sur Amazon</a></li>
-<li><a href="http://clk.tradedoubler.com/click?p=23753&#038;a=2101596&#038;g=0&#038;td_partnerId=2003&#038;url=https://itunes.apple.com/fr/movie/la-vie-dadele-chapitres-1-2/id787811885">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00D13ZBF2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00D13ZBF2">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00D13ZAB2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00D13ZAB2">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://clk.tradedoubler.com/click?p=23753&a=2101596&g=0&td_partnerId=2003&url=https://itunes.apple.com/fr/movie/la-vie-dadele-chapitres-1-2/id787811885">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
 

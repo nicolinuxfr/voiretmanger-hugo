@@ -28,13 +28,13 @@ original = "X-Men : The Last Stand"
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_1_10572" id="identifier_1_10572" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B003T0M62I/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003T0M62I">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000I0S52M/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000I0S52M">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003T0M62I/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003T0M62I">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000I0S52M/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000I0S52M">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/x-men-laffrontement-final/id433331666">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00E3X9XNA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00E3X9XNA">Acheter la saga <em>X-Men</em> en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00E3X9X12/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00E3X9X12">Acheter la saga <em>X-Men</em> en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00E3X9XNA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00E3X9XNA">Acheter la saga <em>X-Men</em> en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00E3X9X12/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00E3X9X12">Acheter la saga <em>X-Men</em> en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_10572" class="footnote">Le pont est déplacé de jour, le combat qui se déroule juste après se fait en pleine nuit… [<a href="#identifier_0_10572" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_10572" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_10572" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

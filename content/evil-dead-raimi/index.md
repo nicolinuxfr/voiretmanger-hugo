@@ -26,8 +26,8 @@ original = "The Evil Dead"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_9449" id="identifier_0_9449" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B003V8ALX4/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003V8ALX4">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00BG1W1CM/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BG1W1CM">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003V8ALX4/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003V8ALX4">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BG1W1CM/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BG1W1CM">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/evil-dead/id510887539">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

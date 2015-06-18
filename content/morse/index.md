@@ -25,8 +25,8 @@ weight = 2009
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_1272" id="identifier_1_1272" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0030UOA08/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0030UOA08">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0030UO9ZY/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0030UO9ZY">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0030UOA08/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0030UOA08">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0030UO9ZY/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0030UO9ZY">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_1272" class="footnote">À ce propos, je l&rsquo;ai vu dans l&rsquo;une des rares salles parisiennes, à l&rsquo;Orient-Express et heureusement que je ne paie pas mes places à l&rsquo;unité. Parce que payer 10 euros pour voir un film sur un écran à peine plus grand qu&rsquo;une télé lambda (j&rsquo;exagère à peine), dans des sièges antédiluviens, et à jongler entre les têtes pour lire les sous-titres (ben oui, je ne parle pas le suédois couramment), c&rsquo;est quand même un peu gonflé ! [<a href="#identifier_0_1272" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_1272" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_1272" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

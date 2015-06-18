@@ -27,8 +27,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/270964374X/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=270964374X">Acheter le livre en français sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00C0UXSC0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00C0UXSC0">format Kindle</a>)</li>
-<li><a href="http://www.amazon.fr/gp/product/0385537859/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=0385537859">Acheter le livre en anglais sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00B1AHNVC/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00B1AHNVC">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/270964374X/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=270964374X">Acheter le livre en français sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00C0UXSC0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00C0UXSC0">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/0385537859/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0385537859">Acheter le livre en anglais sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00B1AHNVC/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00B1AHNVC">format Kindle</a>)</li>
 <li><a href="https://itunes.apple.com/fr/book/inferno-version-francaise/id624516123?mt=11">Acheter le livre en français sur l&rsquo;iBookstore</a> (<a href="https://itunes.apple.com/fr/book/inferno/id593855874?mt=11">en anglais</a>)</li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "Tucker &#038; Dale fightent le mal, Eli Craig"
-title = "Tucker &#038; Dale fightent le mal, Eli Craig"
+titre = "Tucker & Dale fightent le mal, Eli Craig"
+title = "Tucker & Dale fightent le mal, Eli Craig"
 url = "/tucker-dale-fightent-mal-craig"
 date = "2012-02-04T17:54:55"
 Lastmod = "2012-07-04T08:09:17"
@@ -28,8 +28,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_5641" id="identifier_0_5641" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B007UPIIQG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007UPIIQG">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B007UPIJ74/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007UPIJ74">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007UPIIQG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007UPIIQG">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007UPIJ74/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007UPIJ74">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/tucker-dale-fightent-le-mal/id534132680">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

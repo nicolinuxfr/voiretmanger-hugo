@@ -26,7 +26,7 @@ pays = [ "Canada" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_11206" id="identifier_0_11206" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2207116107/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2207116107">Acheter le roman sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2207116107/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2207116107">Acheter le roman sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/book/il-pleuvait-des-oiseaux/id476639429?mt=11">Télécharger le roman sur l’iBooks Store</a></li>
 </ul>
 </div>

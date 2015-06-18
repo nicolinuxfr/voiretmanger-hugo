@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "Coco Chanel &#038; Igor Stravinsky, Jan Kounen"
-title = "Coco Chanel &#038; Igor Stravinsky, Jan Kounen"
+titre = "Coco Chanel & Igor Stravinsky, Jan Kounen"
+title = "Coco Chanel & Igor Stravinsky, Jan Kounen"
 url = "/chanel-stravinsky-kounen"
 date = "2010-01-10T01:04:39"
 Lastmod = "2012-06-19T09:37:34"
@@ -28,8 +28,8 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_2437" id="identifier_1_2437" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B006LNAB90/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B006LNAB90">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B006LNA92O/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B006LNA92O">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B006LNAB90/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B006LNAB90">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B006LNA92O/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B006LNA92O">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/coco-chanel-et-igor-stravinsky/id401880095">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

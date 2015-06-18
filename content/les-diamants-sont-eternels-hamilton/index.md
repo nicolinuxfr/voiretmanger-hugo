@@ -27,8 +27,8 @@ original = "Diamonds are forever"
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_8430" id="identifier_0_8430" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00AOALXLG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AOALXLG">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000NJM5SS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000NJM5SS">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AOALXLG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AOALXLG">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000NJM5SS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000NJM5SS">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/les-diamants-sont-eternels/id561792028">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>

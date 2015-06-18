@@ -40,7 +40,7 @@ pays = [ "États-Unis" ]
 En fait, le premier au cinéma. Il y a quelques mois, un site internet a réalisé en une semaine une parodie de biopic de Steve Jobs avec <a href="http://voiretmanger.fr/isteve-funny-or-die/" title="iSteve, Ryan Perez (Funny or Die)"><em>iSteve</em></a>…&#160;<a href="#fnref-10145-1" rev="footnote">&#8617;</a>
 </li>
 <li id="fn-10145-2">
-Si la vie de Steve Jobs vous intéresse, la référence reste <em>Steve Jobs</em>, la biographie de Walter Isaacson (<a href="http://www.amazon.fr/gp/product/2709638320/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2709638320">Amazon</a>/<a href="https://itunes.apple.com/fr/book/steve-jobs/id470912437?mt=11">iBookstore</a>).&#160;<a href="#fnref-10145-2" rev="footnote">&#8617;</a>
+Si la vie de Steve Jobs vous intéresse, la référence reste <em>Steve Jobs</em>, la biographie de Walter Isaacson (<a href="http://www.amazon.fr/gp/product/2709638320/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2709638320">Amazon</a>/<a href="https://itunes.apple.com/fr/book/steve-jobs/id470912437?mt=11">iBookstore</a>).&#160;<a href="#fnref-10145-2" rev="footnote">&#8617;</a>
 </li>
 </ol>
 </div>

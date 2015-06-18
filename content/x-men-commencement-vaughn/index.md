@@ -30,13 +30,13 @@ original = "X-Men: First Class"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0052RV3U2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0052RV3U2">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0052RV3RK/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0052RV3RK">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0052RV3U2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0052RV3U2">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0052RV3RK/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0052RV3RK">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/x-men-le-commencement/id453462835">Acheter le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00E3X9XNA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00E3X9XNA">Acheter la saga <em>X-Men</em> en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00E3X9X12/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00E3X9X12">Acheter la saga <em>X-Men</em> en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00E3X9XNA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00E3X9XNA">Acheter la saga <em>X-Men</em> en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00E3X9X12/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00E3X9X12">Acheter la saga <em>X-Men</em> en DVD sur Amazon</a></li>
 </ul>
 </div>
 

@@ -27,8 +27,8 @@ original = "Children of Men"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_10125" id="identifier_0_10125" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002IT7KY0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002IT7KY0">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000R7G8A2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000R7G8A2">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002IT7KY0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002IT7KY0">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000R7G8A2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000R7G8A2">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/les-fils-de-lhomme/id367224691">Acheter ou louer le film sur l&rsquo;iTunes Store</li>
 <li><a href="https://itunes.apple.com/fr/album/children-men-music-from-motion/id203078634">Acheter l&rsquo;excellente bande originale du film</a></li>
 </ul>

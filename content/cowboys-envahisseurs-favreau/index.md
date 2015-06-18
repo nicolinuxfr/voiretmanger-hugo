@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "<em>Cowboys &#038; envahisseurs</em>, Jon Favreau"
-title = "Cowboys &#038; envahisseurs, Jon Favreau"
+titre = "<em>Cowboys & envahisseurs</em>, Jon Favreau"
+title = "Cowboys & envahisseurs, Jon Favreau"
 url = "/cowboys-envahisseurs-favreau"
 date = "2011-08-24T00:27:00"
 Lastmod = "2015-03-22T00:21:25"
@@ -28,8 +28,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B005HUBDKO/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005HUBDKO">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B005HUBCOQ/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005HUBCOQ">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B005HUBDKO/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005HUBDKO">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B005HUBCOQ/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005HUBCOQ">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 

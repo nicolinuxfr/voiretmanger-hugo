@@ -26,7 +26,7 @@ lieu = [ "Bourse du Travail" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_7774" id="identifier_0_7774" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002CXG7HS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002CXG7HS">Acheter le DVD de <em>Du plomb dans la tête</em>, son précédent spectacle, sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002CXG7HS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002CXG7HS">Acheter le DVD de <em>Du plomb dans la tête</em>, son précédent spectacle, sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/sophia-aram-du-plomb-dans/id356155508">Acheter son précédent spectacle sur l&rsquo;iTunes Store</a></li>
 <li><a href="https://itunes.apple.com/fr/podcast/le-billet-de-sophia-aram/id402463430?mt=2">Le billet de Sophia Aram sur France Inter en podcast</a></li>
 </ul>

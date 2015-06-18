@@ -34,23 +34,23 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00605DI6C/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00605DI6C">Acheter la première saison en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B008HFH5DA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B008HFH5DA">Acheter la première saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00605DI6C/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00605DI6C">Acheter la première saison en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B008HFH5DA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B008HFH5DA">Acheter la première saison en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/game-of-thrones-saison-1-vost/id460088620">Acheter ou louer la première saison sur l&rsquo;iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00AAZ9F6K/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AAZ9F6K">Acheter la deuxième saison en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00AAZ9ER0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AAZ9ER0">Acheter la deuxième saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AAZ9F6K/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AAZ9F6K">Acheter la deuxième saison en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AAZ9ER0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AAZ9ER0">Acheter la deuxième saison en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/game-of-thrones-saison-2-vost/id557165512">Acheter ou louer la deuxième saison sur l&rsquo;iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00GS0X9UO/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00GS0X9UO">Acheter la troisième saison en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00GS0X9I6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00GS0X9I6">Acheter la troisième saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00GS0X9UO/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00GS0X9UO">Acheter la troisième saison en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00GS0X9I6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00GS0X9I6">Acheter la troisième saison en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/game-of-thrones-saison-3-vost/id765697540">Acheter ou louer la troisième saison sur l&rsquo;iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00L1B60LA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00L1B60LA">Acheter la quatrième saison en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00L1B5ZB6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00L1B5ZB6">Acheter la quatrième saison en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00L1B60LA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00L1B60LA">Acheter la quatrième saison en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00L1B5ZB6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00L1B5ZB6">Acheter la quatrième saison en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/game-of-thrones-saison-4-vost/id898268114">Acheter ou louer la quatrième saison sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

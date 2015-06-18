@@ -41,8 +41,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_2_1348" id="identifier_2_1348" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">3</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2757811614/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2757811614">Acheter le livre traduit en français sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/0307386457/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=0307386457">Acheter le livre en version originale sur Amazon</a> : je recommande cette version… (<a href="http://www.amazon.fr/gp/product/B000OI0G1Q/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000OI0G1Q">eBook format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/2757811614/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2757811614">Acheter le livre traduit en français sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/0307386457/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0307386457">Acheter le livre en version originale sur Amazon</a> : je recommande cette version… (<a href="http://www.amazon.fr/gp/product/B000OI0G1Q/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000OI0G1Q">eBook format Kindle</a>)</li>
 <li><a href="http://itunes.apple.com/fr/book/the-road/id409370963?mt=11">Acheter le livre en version originale sur l&rsquo;iBookstore</a></li>
 </ul>
 </div>

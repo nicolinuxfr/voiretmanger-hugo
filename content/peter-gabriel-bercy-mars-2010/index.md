@@ -43,7 +43,7 @@ lieu = [ "Bercy" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_3072" id="identifier_0_3072" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;field-keywords=peter+gabriel&#038;ie=UTF8&#038;qid=1381990806&#038;url=search-alias%3Daps">Peter Gabriel sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&field-keywords=peter+gabriel&ie=UTF8&qid=1381990806&url=search-alias%3Daps">Peter Gabriel sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/artist/peter-gabriel/id115433">Peter Gabriel sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

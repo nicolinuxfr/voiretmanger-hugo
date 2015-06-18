@@ -30,8 +30,8 @@ original = "Aliens"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0058PEF5I/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0058PEF5I">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
-<li><a href="http://clk.tradedoubler.com/click?p=23753&#038;a=2101596&#038;g=0&#038;td_partnerId=2003&#038;url=http://itunes.apple.com/fr/movie/aliens-1986/id364873601">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0058PEF5I/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0058PEF5I">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
+<li><a href="http://clk.tradedoubler.com/click?p=23753&a=2101596&g=0&td_partnerId=2003&url=http://itunes.apple.com/fr/movie/aliens-1986/id364873601">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 <li><a href="http://www.amazon.fr/gp/product/B004AHM57U/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B004AHM57U">Acheter la saga <em>Alien</em> complète en Blu-Ray sur Amazon</a></li>
 </ul>
 </div>

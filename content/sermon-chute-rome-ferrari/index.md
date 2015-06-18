@@ -27,8 +27,8 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_1_7821" id="identifier_1_7821" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2330012594/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2330012594">Acheter le livre sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B008KNAE8M/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B008KNAE8M">Acheter le livre au format Kindle sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2330012594/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2330012594">Acheter le livre sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B008KNAE8M/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B008KNAE8M">Acheter le livre au format Kindle sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/book/le-sermon-sur-la-chute-de-rome/id544335507?mt=11">Acheter le livre sur l’iBookstore</a></li>
 </ul>
 </div>

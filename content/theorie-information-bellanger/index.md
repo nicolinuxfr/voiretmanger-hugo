@@ -27,8 +27,8 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_8653" id="identifier_0_8653" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2070138097/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2070138097">Acheter le livre sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B009018D86/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B009018D86">Acheter le livre au format Kindle sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2070138097/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2070138097">Acheter le livre sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B009018D86/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B009018D86">Acheter le livre au format Kindle sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/book/la-theorie-de-linformation/id547161948?mt=11">Acheter le livre sur l’iBooksstore</a></li>
 </ul>
 </div>

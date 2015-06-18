@@ -41,7 +41,7 @@ Tenté tout ce qu’il y a à tenter / et surtout on m’aura aimé<cite class="
 <h3>Vous voulez m’aider ?</h3>
 <ul>
 <li><a href="https://itunes.apple.com/fr/album/vieux-freres-pt.-1/id770839909">Télécharger l’album sur l’iTunes Store</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00H21WQPW/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00H21WQPW">Acheter l’album sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00H21WQPW/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00H21WQPW">Acheter l’album sur Amazon</a></li>
 <li><a href="http://open.spotify.com/album/7w71atms7VMEw48a3sQ8Wd">Écouter l’album sur Spotify</a></li>
 </ul>
 </div>

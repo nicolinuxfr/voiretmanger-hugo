@@ -34,8 +34,8 @@ original = "Alice in Wonderland"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_3085" id="identifier_1_3085" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B003GXG14M/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003GXG14M">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B003BEDTF0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003BEDTF0">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003GXG14M/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003GXG14M">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003BEDTF0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003BEDTF0">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_3085" class="footnote">Je précise que j&rsquo;ai heureusement réussi à le voir en 2D, mais je m&rsquo;en réfère aux avis glanés sur Internet. Et puis les effets 3D se voyaient à des kilomètres à la ronde, comme ces insectes qui passent vingt fois histoire de bien rentabiliser les lunettes… [<a href="#identifier_0_3085" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_3085" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_3085" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

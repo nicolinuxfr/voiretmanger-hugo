@@ -28,8 +28,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_10431" id="identifier_0_10431" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;field-keywords=weeds&#038;ie=UTF8&#038;qid=1382302008&#038;rnid=383374011&#038;url=search-alias%3Daps"><em>Weeds</em> en Blu-Ray ou en DVD sur Amazon</a></li>
-<li><a href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?submit=edit&#038;term=weeds#tvSeason"><em>Weeds</em> en téléchargement sur l&rsquo;iTunes Store</a></li>
+<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&field-keywords=weeds&ie=UTF8&qid=1382302008&rnid=383374011&url=search-alias%3Daps"><em>Weeds</em> en Blu-Ray ou en DVD sur Amazon</a></li>
+<li><a href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?submit=edit&term=weeds#tvSeason"><em>Weeds</em> en téléchargement sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_10431" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10431" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

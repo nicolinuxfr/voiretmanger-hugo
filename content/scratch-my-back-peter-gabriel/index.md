@@ -36,8 +36,8 @@ weight = 2010
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_2789" id="identifier_1_2789" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0032W7D0I/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0032W7D0I">Acheter l&rsquo;album en CD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0035XPPQI/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0035XPPQI">Acheter l&rsquo;album en MP3 sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0032W7D0I/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0032W7D0I">Acheter l&rsquo;album en CD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0035XPPQI/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0035XPPQI">Acheter l&rsquo;album en MP3 sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/album/scratch-my-back/id351845566">Acheter l&rsquo;album sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

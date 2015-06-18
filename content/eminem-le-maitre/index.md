@@ -52,7 +52,7 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_2_1285" id="identifier_2_1285" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">3</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/entity/Eminem/B000APFS8Y/?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=ur2&#038;qid=1336235052&#038;camp=1642&#038;sr=1-2-ent&#038;creative=19458">Tout Eminem sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/entity/Eminem/B000APFS8Y/?ie=UTF8&tag=leblogdenic07-21&linkCode=ur2&qid=1336235052&camp=1642&sr=1-2-ent&creative=19458">Tout Eminem sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/artist/eminem/id111051">Toute la discographie d&rsquo;Eminem sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

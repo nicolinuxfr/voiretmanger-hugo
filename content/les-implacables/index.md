@@ -25,7 +25,7 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_973" id="identifier_1_973" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B004G7FFKS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B004G7FFKS">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B004G7FFKS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B004G7FFKS">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_973" class="footnote">Ce qui est utile quand, comme moi, on ne connaît pas vraiment ses classiques et découvre le western par le cinéma actuel&#8230; [<a href="#identifier_0_973" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_973" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_973" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

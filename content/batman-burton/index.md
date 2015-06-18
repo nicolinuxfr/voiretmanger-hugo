@@ -33,8 +33,8 @@ pays = [ "États-Unis" ]
 <li><a href="http://www.amazon.fr/gp/product/B00004VYLS/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00004VYLS">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002HESRBG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002HESRBG">Acheter la saga <em>Batman</em> en Blu-Ray</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B001RIGDKA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001RIGDKA">Acheter la saga <em>Batman</em> en DVD</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002HESRBG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002HESRBG">Acheter la saga <em>Batman</em> en Blu-Ray</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B001RIGDKA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001RIGDKA">Acheter la saga <em>Batman</em> en DVD</a></li>
 </ul>
 </div>
 

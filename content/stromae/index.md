@@ -33,12 +33,12 @@ Vous faites erreur, vous avez juste la cote<br /><cite class="author"> — Strom
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_1_10319" id="identifier_1_10319" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B003NGXEZ6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003NGXEZ6">Acheter <em>Cheese</em> sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003NGXEZ6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003NGXEZ6">Acheter <em>Cheese</em> sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/album/cheese/id375153355">Acheter <em>Cheese</em> sur l’iTunes Store</a></li>
 <li><a href="http://open.spotify.com/album/3XAyEMflBDI6eDhnKikvbd">Écouter <em>Cheese</em> sur Spotify</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00DQVSTI0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00DQVSTI0">Acheter <em>Racine carrée</em> sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00DQVSTI0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00DQVSTI0">Acheter <em>Racine carrée</em> sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/album/racine-carree/id678899158">Acheter <em>Racine carrée</em> sur l’iTunes Store</a></li>
 <li><a href="http://open.spotify.com/album/4WW3ME0M2dUoAK5hmbXsN7">Écouter <em>Racine carrée</em> sur Spotify</a></li>
 </ul>

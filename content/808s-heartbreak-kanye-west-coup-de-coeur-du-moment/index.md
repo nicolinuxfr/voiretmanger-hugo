@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "808s &#038; Heartbreak, Kanye West : coup de cœur du moment"
-title = "808s &#038; Heartbreak, Kanye West : coup de cœur du moment"
+titre = "808s & Heartbreak, Kanye West : coup de cœur du moment"
+title = "808s & Heartbreak, Kanye West : coup de cœur du moment"
 url = "/808s-heartbreak-kanye-west-coup-de-coeur-du-moment"
 date = "2008-12-25T18:48:23"
 Lastmod = "2012-02-11T11:45:18"
@@ -27,7 +27,7 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_1036" id="identifier_1_1036" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B001FBIPFA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001FBIPFA">Acheter l&rsquo;album en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B0047QYJFU/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0047QYJFU">téléchargement MP3</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/B001FBIPFA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001FBIPFA">Acheter l&rsquo;album en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B0047QYJFU/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0047QYJFU">téléchargement MP3</a>)</li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_1036" class="footnote">Les Inrocks évoquent un chant façon Phil Collins, c&rsquo;est pas idiot&#8230; [<a href="#identifier_0_1036" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_1036" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_1036" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

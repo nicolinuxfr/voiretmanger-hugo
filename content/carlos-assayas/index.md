@@ -29,8 +29,8 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_3641" id="identifier_1_3641" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0042ZUNNI/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0042ZUNNI">Acheter le film en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B003BQROG8/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B003BQROG8">Acheter la série <em>Carlos</em> en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0042ZUNNI/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0042ZUNNI">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B003BQROG8/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B003BQROG8">Acheter la série <em>Carlos</em> en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/carlos/id404324938">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

@@ -34,7 +34,7 @@ pays = [ "France", "Suisse" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_3947" id="identifier_1_3947" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B004LO5EHU/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B004LO5EHU">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B004LO5EHU/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B004LO5EHU">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_3947" class="footnote">Cet homme a un peu culpabilisé depuis la crise, et publié un article au titre humoristique : &laquo;&nbsp;<em><a href="http://nymag.com/news/business/55687/">How I helped build the bomb that blew up Wall Street</a></em>.&nbsp;&raquo; L&rsquo;article peut être lu gratuitement, je pense que cela doit être intéressant, si vous voulez aller plus loin… [<a href="#identifier_0_3947" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_3947" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_1_3947" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

@@ -30,13 +30,13 @@ original = "Batman Returns"
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_8660" id="identifier_0_8660" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B001NZA0YW/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001NZA0YW">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00004VYN7/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00004VYN7">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B001NZA0YW/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001NZA0YW">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00004VYN7/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00004VYN7">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/batman-le-defi/id383018972">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002HESRBG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002HESRBG">Acheter la saga <em>Batman</em> en Blu-Ray</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B001RIGDKA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001RIGDKA">Acheter la saga <em>Batman</em> en DVD</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002HESRBG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002HESRBG">Acheter la saga <em>Batman</em> en Blu-Ray</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B001RIGDKA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001RIGDKA">Acheter la saga <em>Batman</em> en DVD</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_8660" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_8660" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

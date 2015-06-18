@@ -28,13 +28,13 @@ original = "The Bourne Ultimatum"
 <div class="amazon">
 <h3>Vous voulez m’aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002CXG7TQ/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002CXG7TQ">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0012S5AA4/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0012S5AA4">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002CXG7TQ/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002CXG7TQ">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0012S5AA4/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0012S5AA4">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/la-vengeance-dans-la-peau/id367165302">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B009PPMXTW/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B009PPMXTW">Acheter la saga <em>Jason Bourne</em> en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B009PPMX42/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B009PPMX42">Acheter la saga <em>Jason Bourne</em> en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B009PPMXTW/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B009PPMXTW">Acheter la saga <em>Jason Bourne</em> en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B009PPMX42/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B009PPMX42">Acheter la saga <em>Jason Bourne</em> en DVD sur Amazon</a></li>
 </ul>
 </div>
 

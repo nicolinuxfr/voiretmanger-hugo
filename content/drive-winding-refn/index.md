@@ -28,10 +28,10 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_5176" id="identifier_0_5176" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0069RWL5U/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0069RWL5U">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0062YFWKG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0062YFWKG">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0069RWL5U/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0069RWL5U">Acheter le film en Blu-Ray et DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0062YFWKG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0062YFWKG">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/drive-vost/id492851255">Acheter le film sur l&rsquo;iTunes Store</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0067ZIZR2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0067ZIZR2">Acheter l&rsquo;excellente bande-originale en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B005N7YD6C/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005N7YD6C">version MP3</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/B0067ZIZR2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0067ZIZR2">Acheter l&rsquo;excellente bande-originale en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B005N7YD6C/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005N7YD6C">version MP3</a>)</li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_5176" class="footnote"><a href="http://voiretmanger.fr/a-propos/publicite/">À propos de la publicité…</a> [<a href="#identifier_0_5176" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

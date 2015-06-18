@@ -27,9 +27,9 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_4921" id="identifier_1_4921" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00004CZIZ/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00004CZIZ">Acheter le film en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B004ZN9W5M/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B004ZN9W5M">Acheter l&rsquo;album remasterisé en CD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B004ZNAXX2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B004ZNAXX2">Acheter le coffret Immersion sur Amazon</a> (album remasterisé et version live remasterisée, plus plein de bonus et goodies… avis aux fans)</li>
+<li><a href="http://www.amazon.fr/gp/product/B00004CZIZ/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00004CZIZ">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B004ZN9W5M/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B004ZN9W5M">Acheter l&rsquo;album remasterisé en CD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B004ZNAXX2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B004ZNAXX2">Acheter le coffret Immersion sur Amazon</a> (album remasterisé et version live remasterisée, plus plein de bonus et goodies… avis aux fans)</li>
 <li><a href="http://itunes.apple.com/fr/album/the-wall-remastered/id464267927">Acheter l&rsquo;album sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

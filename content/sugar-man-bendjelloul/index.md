@@ -26,14 +26,14 @@ original = "Searching for Sugar Man"
 <div class="amazon">
 <h3>Vous voulez m’aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00BCV0Y34/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BCV0Y34">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00BCV0Y2A/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BCV0Y2A">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BCV0Y34/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BCV0Y34">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00BCV0Y2A/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BCV0Y2A">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/sugar-man-vost/id635706498">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="https://itunes.apple.com/fr/album/cold-fact/id293895479">Acheter <em>Cold Fact</em> sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B001BKVWYG/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001BKVWYG">en CD sur Amazon</a>)</li>
-<li><a href="https://itunes.apple.com/fr/album/coming-from-reality/id609694322">Acheter <em>Coming From Reality</em> sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B001TCHDPS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001TCHDPS">en CD sur Amazon</a>)</li>
-<li><a href="https://itunes.apple.com/fr/album/searching-for-sugar-man/id540070151">Acheter la bande originale du film sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B008C1WUZ2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B008C1WUZ2">en CD sur Amazon</a>)</li>
+<li><a href="https://itunes.apple.com/fr/album/cold-fact/id293895479">Acheter <em>Cold Fact</em> sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B001BKVWYG/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001BKVWYG">en CD sur Amazon</a>)</li>
+<li><a href="https://itunes.apple.com/fr/album/coming-from-reality/id609694322">Acheter <em>Coming From Reality</em> sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B001TCHDPS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001TCHDPS">en CD sur Amazon</a>)</li>
+<li><a href="https://itunes.apple.com/fr/album/searching-for-sugar-man/id540070151">Acheter la bande originale du film sur l’iTunes Store</a> (<a href="http://www.amazon.fr/gp/product/B008C1WUZ2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B008C1WUZ2">en CD sur Amazon</a>)</li>
 </ul>
 <ul>
 <li><a href="http://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX">Rodriguez en écoute sur Spotify</a></li>

@@ -31,9 +31,9 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_0_4606" id="identifier_0_4606" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2081246333/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2081246333">Acheter le livre sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/2290032034/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2290032034">Acheter le livre en poche sur Amazon</a></li>
-<li><a href="http://itunes.apple.com/fr/book/la-carte-et-le-territoire/id461102404?mt=11">Télécharger le livre sur l&rsquo;iBookstore</a> (<a href="http://www.amazon.fr/gp/product/B005PKSJO4/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005PKSJO4">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/2081246333/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2081246333">Acheter le livre sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2290032034/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2290032034">Acheter le livre en poche sur Amazon</a></li>
+<li><a href="http://itunes.apple.com/fr/book/la-carte-et-le-territoire/id461102404?mt=11">Télécharger le livre sur l&rsquo;iBookstore</a> (<a href="http://www.amazon.fr/gp/product/B005PKSJO4/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005PKSJO4">format Kindle</a>)</li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_4606" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_4606" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

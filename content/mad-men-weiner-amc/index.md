@@ -26,8 +26,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_10189" id="identifier_1_10189" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;field-keywords=mad+men&#038;ie=UTF8&#038;qid=1377956002&#038;rnid=409392&#038;url=search-alias%3Daps">Tout <em>Mad Men</em> en DVD et Blu-Ray sur Amazon</a></li>
-<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=fr&#038;fcId=641633554">Tout <em>Mad Men</em> au téléchargement sur l&rsquo;iTunes Store</a></li>
+<li><a href="http://www.amazon.fr/mn/search/?_encoding=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&field-keywords=mad+men&ie=UTF8&qid=1377956002&rnid=409392&url=search-alias%3Daps">Tout <em>Mad Men</em> en DVD et Blu-Ray sur Amazon</a></li>
+<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=fr&fcId=641633554">Tout <em>Mad Men</em> au téléchargement sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_10189" class="footnote">Ce n’est toutefois plus le cas <a href="http://www.hdvideopro.com/display/tv/rebranding.html">à partir de la cinquième saison</a>… [<a href="#identifier_0_10189" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_10189" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_10189" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

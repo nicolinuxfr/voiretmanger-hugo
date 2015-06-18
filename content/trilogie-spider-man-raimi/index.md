@@ -28,9 +28,9 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B000VI04X4/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000VI04X4">Acheter le coffret de trois films en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B002KMW7W0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002KMW7W0">Acheter le coffret de trois films en DVD sur Amazon</a></li>
-<li><a href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=movie&#038;media=all&#038;restrict=true&#038;submit=seeAllLockups&#038;term=spider-man">Acheter ou louer les trois films de la trilogie sur l&rsquo;iTunes Store</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000VI04X4/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000VI04X4">Acheter le coffret de trois films en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002KMW7W0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002KMW7W0">Acheter le coffret de trois films en DVD sur Amazon</a></li>
+<li><a href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=movie&media=all&restrict=true&submit=seeAllLockups&term=spider-man">Acheter ou louer les trois films de la trilogie sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>
 

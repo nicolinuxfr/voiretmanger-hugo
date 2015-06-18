@@ -28,8 +28,8 @@ original = "Star Trek: The Motion Picture"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_9366" id="identifier_1_9366" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002JP9WTE/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002JP9WTE">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B002JP9WRQ/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002JP9WRQ">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002JP9WTE/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002JP9WTE">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002JP9WRQ/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002JP9WRQ">Acheter le film en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_9366" class="footnote">Ce n&rsquo;est pas le plus puissant dans l&rsquo;univers de <em>Star Trek</em> toutefois, comme le note un fan. L&rsquo;USS <em>Excelsior</em> est ainsi beaucoup plus puissant, même s&rsquo;il n&rsquo;apparaît pas dans ce film. [<a href="#identifier_0_9366" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_9366" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_9366" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

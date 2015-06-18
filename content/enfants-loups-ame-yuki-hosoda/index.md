@@ -1,7 +1,7 @@
 +++
 type = "post"
-titre = "<em>Les Enfants Loups, Ame &#038; Yuki</em>, Mamoru Hosoda"
-title = "Les Enfants Loups, Ame &#038; Yuki, Mamoru Hosoda"
+titre = "<em>Les Enfants Loups, Ame & Yuki</em>, Mamoru Hosoda"
+title = "Les Enfants Loups, Ame & Yuki, Mamoru Hosoda"
 url = "/enfants-loups-ame-yuki-hosoda"
 date = "2012-09-10T00:15:28"
 Lastmod = "2014-12-17T12:35:44"

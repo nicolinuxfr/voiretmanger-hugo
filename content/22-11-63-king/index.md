@@ -25,8 +25,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_10059" id="identifier_0_10059" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2226246940/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2226246940">Acheter le livre en français sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00BGBR1R2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00BGBR1R2">format Kindle</a>)</li>
-<li><a href="http://www.amazon.fr/gp/product/1444727338/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=1444727338">Acheter le livre en anglais sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B005K0HDGE/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B005K0HDGE">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/2226246940/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2226246940">Acheter le livre en français sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B00BGBR1R2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00BGBR1R2">format Kindle</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/1444727338/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=1444727338">Acheter le livre en anglais sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B005K0HDGE/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B005K0HDGE">format Kindle</a>)</li>
 </ul>
 <ul>
 <li><a href="https://itunes.apple.com/fr/book/22-11-63/id609707991?mt=11">Acheter le livre en français sur l’iBookstore</a></li>

@@ -28,7 +28,7 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002M2N9MA/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002M2N9MA">Acheter l&rsquo;album en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B002Q3OEP6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002Q3OEP6" target="_blank">téléchargement MP3</a>)</li>
+<li><a href="http://www.amazon.fr/gp/product/B002M2N9MA/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002M2N9MA">Acheter l&rsquo;album en CD sur Amazon</a> (<a href="http://www.amazon.fr/gp/product/B002Q3OEP6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002Q3OEP6" target="_blank">téléchargement MP3</a>)</li>
 <li><a href="http://itunes.apple.com/fr/album/where-wild-things-are-motion/id332268908">Acheter l&rsquo;album sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

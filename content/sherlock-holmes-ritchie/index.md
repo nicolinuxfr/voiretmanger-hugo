@@ -31,9 +31,9 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_2_2735" id="identifier_2_2735" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">3</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0035WVAC2/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0035WVAC2">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B0035WVABS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0035WVABS">Acheter le film en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B007GE87C6/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007GE87C6">Acheter le coffret avec les deux films en Blu-Ray et DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0035WVAC2/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0035WVAC2">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0035WVABS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0035WVABS">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007GE87C6/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007GE87C6">Acheter le coffret avec les deux films en Blu-Ray et DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/sherlock-holmes-vost/id384599934">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 </div>

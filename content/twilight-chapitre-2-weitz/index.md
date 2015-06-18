@@ -35,13 +35,13 @@ original = "New Moon"
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_2119" id="identifier_1_2119" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B002XDQGVY/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002XDQGVY">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B002XDQGVE/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B002XDQGVE">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002XDQGVY/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002XDQGVY">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B002XDQGVE/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B002XDQGVE">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="http://itunes.apple.com/fr/movie/twilight-2-chapitre-2-tentation/id368415239">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00AJO6CE0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AJO6CE0">Acheter la saga en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00AJO6CCC/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AJO6CCC">Acheter la saga en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AJO6CE0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AJO6CE0">Acheter la saga en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AJO6CCC/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AJO6CCC">Acheter la saga en DVD sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_2119" class="footnote">À propos, j&rsquo;aime beaucoup l&rsquo;analyse de <a href="http://www.surlarouteducinema.com/archive/2009/11/20/twilight-chapitre-2-tentation-de-chris-weitz.html">Pascale</a> : &laquo;&nbsp;la Bella/Kristen, que dalle&#8230; la première chose qu&rsquo;on lui a dit c&rsquo;est &laquo;&nbsp;c&rsquo;est un film où tu fais la gueule&nbsp;&raquo; et là elle a fermé les écoutilles, elle a rien capté à la suite&nbsp;&raquo;. C&rsquo;est exactement ça&#8230; [<a href="#identifier_0_2119" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_2119" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_1_2119" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

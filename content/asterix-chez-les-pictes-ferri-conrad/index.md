@@ -26,7 +26,7 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_10471" id="identifier_0_10471" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2864972662/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2864972662">Acheter la bande dessinée sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2864972662/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2864972662">Acheter la bande dessinée sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/book/asterix-chez-les-pictes-35/id704239566?mt=11">Acheter la bande dessinée sur l&rsquo;iBookstore</a></li>
 </ul>
 </div>

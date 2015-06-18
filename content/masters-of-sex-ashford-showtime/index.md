@@ -26,8 +26,8 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00H7WDZ24/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00H7WDZ24">Acheter la série en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00H7WDYCU/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00H7WDYCU">Acheter la série en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00H7WDZ24/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00H7WDZ24">Acheter la série en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00H7WDYCU/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00H7WDYCU">Acheter la série en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/tv-season/masters-of-sex-saison-1-vost/id724785932">Acheter ou louer la série sur l’iTunes Store</a></li>
 </ul>
 </div>

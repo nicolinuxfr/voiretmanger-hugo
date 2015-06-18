@@ -33,8 +33,8 @@ original = "The Godfather"
 <li><a href="https://itunes.apple.com/fr/movie/le-parrain-vost/id397623911">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B001H8VBMK/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B001H8VBMK">Acheter la saga <em>Le Parrain</em> en Blu-ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00DJYTGCC/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00DJYTGCC">Acheter la saga <em>Le Parrain</em> en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B001H8VBMK/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B001H8VBMK">Acheter la saga <em>Le Parrain</em> en Blu-ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00DJYTGCC/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00DJYTGCC">Acheter la saga <em>Le Parrain</em> en DVD sur Amazon</a></li>
 </ul>
 </div>
 

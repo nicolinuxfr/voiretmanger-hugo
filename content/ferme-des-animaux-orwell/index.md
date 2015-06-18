@@ -72,7 +72,7 @@ BUT SOME ANIMALS ARE MORE EQUAL THAN OTHERS<br />
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/2070375161/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2070375161">Acheter le livre sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2070375161/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2070375161">Acheter le livre sur Amazon</a></li>
 </ul>
 </div>
 <div class="footnotes">

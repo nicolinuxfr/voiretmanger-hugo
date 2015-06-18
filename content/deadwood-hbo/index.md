@@ -33,10 +33,10 @@ pays = [ "États-Unis" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B000Y1CX50/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000Y1CX50">Acheter l&rsquo;intégralité de la série en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000JLQMFC/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000JLQMFC">Acheter la saison 1 en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000SAG9IE/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000SAG9IE">Acheter la saison 2 en DVD sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000PD3J6Y/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000PD3J6Y">Acheter la saison 3 en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000Y1CX50/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000Y1CX50">Acheter l&rsquo;intégralité de la série en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000JLQMFC/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000JLQMFC">Acheter la saison 1 en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000SAG9IE/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000SAG9IE">Acheter la saison 2 en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000PD3J6Y/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000PD3J6Y">Acheter la saison 3 en DVD sur Amazon</a></li>
 </ul>
 </div>
 

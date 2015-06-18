@@ -27,9 +27,9 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m’aider ?<sup><a href="#footnote_0_10610" id="identifier_0_10610" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">1</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/220507167X/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=220507167X">Acheter l’intégrale de <em>Quai d’Orsay</em> sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/2205061321/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=2205061321">Acheter le tome 1 sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/220506679X/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=220506679X">Acheter le tome 2 sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/220507167X/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=220507167X">Acheter l’intégrale de <em>Quai d’Orsay</em> sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/2205061321/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2205061321">Acheter le tome 1 sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/220506679X/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=220506679X">Acheter le tome 2 sur Amazon</a></li>
 </ul>
 </div>
 <ol class="footnotes"><li id="footnote_0_10610" class="footnote"><a href="http://voiretmanger.fr/soutien/">À propos de la publicité…</a> [<a href="#identifier_0_10610" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol>

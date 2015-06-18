@@ -27,10 +27,10 @@ pays = [ "France" ]
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ?<sup><a href="#footnote_1_7737" id="identifier_1_7737" class="footnote-link footnote-identifier-link" title="&Agrave; propos de la publicit&eacute;&hellip;">2</a></sup></h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B0090KEIFY/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B0090KEIFY">Télécharger l&rsquo;épisode 1 gratuitement sur Amazon (format Kindle)</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B009KMLE7M/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B009KMLE7M">Acheter l&rsquo;épisode 2 sur Amazon (format Kindle)</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00AGY7WEM/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00AGY7WEM">Acheter l&rsquo;épisode 3 sur Amazon (format Kindle)</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00EHECNU0/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00EHECNU0">Acheter l&rsquo;épisode 4 sur Amazon (format Kindle)</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B0090KEIFY/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B0090KEIFY">Télécharger l&rsquo;épisode 1 gratuitement sur Amazon (format Kindle)</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B009KMLE7M/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B009KMLE7M">Acheter l&rsquo;épisode 2 sur Amazon (format Kindle)</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00AGY7WEM/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00AGY7WEM">Acheter l&rsquo;épisode 3 sur Amazon (format Kindle)</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00EHECNU0/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00EHECNU0">Acheter l&rsquo;épisode 4 sur Amazon (format Kindle)</a></li>
 <li><a href="https://itunes.apple.com/fr/book/jesus-contre-hitler-lintegrale/id687259746?mt=11">Acheter les quatre épisodes sur l&rsquo;iBookstore</a></li>
 </ul>
 </div>

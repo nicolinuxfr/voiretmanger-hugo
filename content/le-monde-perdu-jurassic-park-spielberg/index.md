@@ -28,13 +28,13 @@ original = "The Lost World : Jurassic Park"
 <div class="amazon">
 <h3>Vous voulez m’aider ?</h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B007MFUG1O/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B007MFUG1O">Acheter le film en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B000A0GD3S/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B000A0GD3S">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B007MFUG1O/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B007MFUG1O">Acheter le film en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B000A0GD3S/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000A0GD3S">Acheter le film en DVD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/movie/le-monde-perdu-jurassic-park/id452936095">Acheter ou louer le film sur l’iTunes Store</a></li>
 </ul>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B008HQYM8K/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B008HQYM8K">Acheter la trilogie en Blu-Ray sur Amazon</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B008HQYLVS/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B008HQYLVS">Acheter la trilogie en DVD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B008HQYM8K/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B008HQYM8K">Acheter la trilogie en Blu-Ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B008HQYLVS/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B008HQYLVS">Acheter la trilogie en DVD sur Amazon</a></li>
 </ul>
 </div>
 

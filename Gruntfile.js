@@ -1,6 +1,7 @@
 var toml = require("toml");
 var S = require("string");
 
+
 var CONTENT_PATH_PREFIX = "content";
 
 module.exports = function(grunt) {
@@ -67,7 +68,7 @@ module.exports = function(grunt) {
             // Build Lunr index for this page
             pageIndex = {
                 title: frontMatter.title,
-                tags: frontMatter.tag,
+                //tags: frontMatter.tag,
 				acteurs: frontMatter.acteur,
 				annee: frontMatter.annee,
 				saga: frontMatter.saga,
@@ -78,7 +79,9 @@ module.exports = function(grunt) {
             return pageIndex;
         };
 
-        grunt.file.write("static/PagesIndex.json", JSON.stringify(indexPages()));
+        grunt.file.write("static/recherche/index.json", JSON.stringify(indexPages()));
         grunt.log.ok("Index built");
     });
+
+ 
 };

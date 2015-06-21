@@ -1,9 +1,19 @@
 <div class="recherche">
-		<form method="get" id="searchform"  action=""> 
-		<input class="case" type="text" value="Chercher" placeholder="Chercher" id="s" name="s" onblur="if (this.value == '')  {this.value = 'Chercher';}"  onfocus="if (this.value == 'Chercher') {this.value = '';}" /> 
-		  <input type="hidden" id="searchsubmit" /> 
+	<input type="checkbox" id="op"></input>
+<div class="lower">
+	<label id="rechercher" for="op"></label>
+</div>
+
+<div class="overlay overlay-hugeinc">
+	<label for="op"></label>
+		
+		<form method="get" id="searchform"  autofocus> 
+			<input class="case" type="text" autofocus value="Chercher" placeholder="Chercher" id="search" name="s" onblur="if (this.value == '')  {this.value = 'Chercher';}"  onfocus="if (this.value == 'Chercher') {this.value = '';}" /> 
+			<input type="hidden" id="searchsubmit" /> 
 		</form>
-		<ul id="searchPage" class="search_results">
-  
-		</ul>
+				
+		<nav>
+			<ul id="results"></ul>
+		</nav>
+</div>
 </div>

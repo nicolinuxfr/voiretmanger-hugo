@@ -1,10 +1,11 @@
 {{ if not .IsPage }}
 	<header class="header-site">
+	{{ partial "recherche.html" .}}
 	<h1 class="site-title"><a href="{{ .Site.BaseURL }}" title="Page d'accueil" rel="home">{{ .Site.Title }}</a>  </h1>
 	<h2 class="site-description">{{ .Site.Params.description }}</h2>
-	{{ partial "recherche.html" .}}
 {{ else }}
 	<header class="header-post">
 	<h1 class="site-title"><a href="{{ .Site.BaseURL }}" title="Retour à la page d'accueil" rel="home">←</a></h1>
+	{{ partial "recherche.html" .}}
 {{ end }}
 </header>

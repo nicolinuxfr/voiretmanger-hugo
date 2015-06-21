@@ -3,11 +3,9 @@
     </footer>
     </div>
     <script type="text/javascript" src="{{.Site.BaseURL}}js/jquery.js"></script>
-    <script type="text/javascript" src="{{.Site.BaseURL}}js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="{{.Site.BaseURL}}js/index.js"></script>
-    <script type="text/javascript" src="{{.Site.BaseURL}}js/search.js"></script>
-	
-	
+    <script type="text/javascript" src="{{.Site.BaseURL}}js/lunr.min.js"></script>
+	<script type="text/javascript" src="{{.Site.BaseURL}}js/search.js"></script>
+
     {{ if .IsPage }}
 	    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/bigfoot-default.css" />
 		<script type="text/javascript" src="{{.Site.BaseURL}}js/bigfoot.min.js"></script>
@@ -19,6 +17,5 @@
    {{ if .Params.longitude }}
 		{{ partial "map.html" . }}
    {{ end }}
-
 </body>
 </html>

@@ -1,60 +1,110 @@
-var searchIndex = null;
-var results = [];
+var lunrIndex,
+    $results,
+    pagesIndex;
 
-jQuery(document).ready(function($) {
-	Search.getSearchIndex();
-	$('#s').keyup(function() {
-			// get search term
-			var search_term = jQuery(this).val().toLowerCase();
-			// run the search
-			Search.doSearch(search_term);
-	})
-});
+// Initialize lunrjs using our generated index file
+function initLunr() {
+    // First retrieve the index file
+    $.getJSON("../index.json")
+        .done(function(index) {
+            pagesIndex = index;
+           // console.log("index:", pagesIndex);
 
+            // Set up lunrjs by declaring the fields we use
+            // Also provide their boost level for the ranking
+            lunrIndex = lunr(function() {
+                this.field("title", {
+                    boost: 10
+                });
+			    this.field("annee", {
+			        boost: 1
+			    });
+			    this.field("acteurs", {
+			        boost: 3
+			    });
+			    this.field("original", {
+			  	  	boost: 7
+			  	});
+			    this.field("saga", {
+			  	  	boost: 9
+			  	});
 
-var Search = {
-	// Load the index file for later use
-	getSearchIndex: function() {
-		jQuery.getJSON("search/index.json", function(data) {
-				console.log('[Search index successfully loaded]');
-				jQuery('.search_results').html(''); // on vide la liste, au cas où
-				searchIndex = data;
-		});
-	},
+                // ref is the result item identifier (I chose the page URL)
+                this.ref("href");
+            });
 
-	doSearch : function(search_term) {
-		results = [];
-		if(search_term.length > 2) { // si la recherche est plus longue que 3 caractères
-			jQuery.each(searchIndex, function(id, article) {
-				var titleLowerCase = article.title.toLowerCase().replace(/é/g, "e").replace(/è/g, "e").replace(/ê/g, "e").replace(/â/g, "a").replace(/à/g, "a").replace(/ä/g, "a").replace(/ü/g, "u").replace(/û/g, "u").replace(/ù/g, "u").replace(/î/g, "i").replace(/ï/g, "i").replace(/ô/g, "o").replace(/ö/g, "o").replace(/ç/g, "c"); // on convertit tout en bas-de-casse et on supprime les accents et caractères spéciaux
-				var term = search_term.replace(/é/g, "e").replace(/è/g, "e").replace(/ê/g, "e").replace(/â/g, "a").replace(/à/g, "a").replace(/ä/g, "a").replace(/ü/g, "u").replace(/û/g, "u").replace(/ù/g, "u").replace(/î/g, "i").replace(/ï/g, "i").replace(/ô/g, "o").replace(/ö/g, "o").replace(/ç/g, "c");;
-				if (titleLowerCase.indexOf(term) !== -1) {
-					results.push(article); // si la recherche est contenue dans le titre de l'article en cours, on l'ajoute aux resultats
-				};
-			});
-			Search.printResults(); // le tableau des resultats est construit, on lance l'affichage
-		}
-		else {
-			$('.search_results').fadeOut(100); // on masque le menu
-			$('.search_results').html(); // on vide le menu
-			results = [];
-		}
-	},
-
-	printResults: function() {
-		
-		var search_results_box = jQuery('.search_results'); // on selectionne l'objet HTML qui contiendra les resultats
-		search_results_box.html('');
-
-		search_results_box.html(function() {
-			results = results.slice(0, 10); // on garde les 10 premiers resultats
-			jQuery.each(results, function(index, obj) {
-				search_results_box.append( // on ajoute un élément de liste au menu
-					'<a href="'+obj.url+'"><li>'+obj.title+'</li></a>'
-				);
-			});
-		});
-		$('.search_results').fadeIn(100); // on affiche le menu
-	}
-
+            // Feed lunr with each file and let lunr actually index them
+            pagesIndex.forEach(function(page) {
+                lunrIndex.add(page);
+            });
+        })
+        .fail(function(jqxhr, textStatus, error) {
+            var err = textStatus + ", " + error;
+            console.error("Error getting Hugo index flie:", err);
+        });
 }
+
+// Nothing crazy here, just hook up a listener on the input field
+function initUI() {
+    $results = $("#results");
+    $("#search").keyup(function() {
+        $results.empty();
+
+        // Only trigger a search when 2 chars. at least have been provided
+        var query = $(this).val();
+        if (query.length < 2) {
+            return;
+        }
+
+        var results = search(query);
+
+        renderResults(results);
+    });
+}
+
+/**
+ * Trigger a search in lunr and transform the result
+ *
+ * @param  {String} query
+ * @return {Array}  results
+ */
+function search(query) {
+    // Find the item in our index corresponding to the lunr one to have more info
+    // Lunr result: 
+    //  {ref: "/section/page1", score: 0.2725657778206127}
+    // Our result:
+    //  {title:"Page1", href:"/section/page1", ...}
+    return lunrIndex.search(query).map(function(result) {
+            return pagesIndex.filter(function(page) {
+                return page.href === result.ref;
+            })[0];
+        });
+}
+
+/**
+ * Display the 10 first results
+ *
+ * @param  {Array} results to display
+ */
+function renderResults(results) {
+    if (!results.length) {
+        return;
+    }
+
+    // Only show the ten first results
+    results.slice(0, 20).forEach(function(result) {
+        var $result = $("<li>");
+        $result.append($("<a>", {
+            href: result.href,
+            text: result.title
+        }));
+        $results.append($result);
+    });
+}
+
+// Let's get started
+initLunr();
+
+$(document).ready(function() {
+    initUI();
+});

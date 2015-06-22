@@ -121,7 +121,6 @@ header .recherche{
 	font-family: "Roboto", sans-serif;
 	right: 0;
 	position: absolute;
-	background-color: rgba(255, 255, 255, 0.6);
 }
 
 .overlay{
@@ -188,6 +187,10 @@ input[type="checkbox"] {
 #rechercher{
 	padding:2em;
 	cursor:pointer;
+    -o-background-size:      100%;
+       -moz-background-size:    100%;
+       -webkit-background-size: 100%;
+       background-size:         100%;
 }
 
 
@@ -326,7 +329,7 @@ footer {clear:both;}
 
 .archive article{
 	display: block;
-	height:35vw;
+	height:40vw;
 	float:left;
 	position: relative;
 	overflow: hidden;
@@ -391,26 +394,27 @@ footer {clear:both;}
 /* Header
 -------------------------------------------------------------- */
 .header-post{
-	position:fixed;
+	position:absolute;
 	font-family: sans-serif;
 	z-index:98;
 	width:100%;
+	background-color: rgba(0, 0, 0, 0.2);
 }
 
 
 .header-post .site-title {
-	padding:0.1em; 
-	font-size:5em;
-	line-height:0.8em;
-	background-color:rgba(0, 0, 0, 0.2);
-	position: absolute;
+    padding: 0.1em;
+    font-size: 5em;
+    line-height: 0.9em;
+	display: inline;
 }
 .header-post .site-title a{color:white;}
 .header-post .site-title a:hover{color:rgba(0, 0, 0, 0.9);}
 
-
-.header-post .recherche svg{
-	fill:white;
+.header-post .recherche {
+    float: right;
+    position: relative;
+    background: none;
 }
 
 
@@ -422,7 +426,7 @@ footer {clear:both;}
     display: table;
     width: 100%;
     height: 100vh;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
     background-size: cover;
 	background-position: center;
     overflow: hidden;
@@ -635,4 +639,73 @@ article .amazon ul{
 	display:block;
 	padding: 1em 2em;
 	text-align:center;
+}
+
+
+/* ==========================================================================
+   MOBILE
+   ========================================================================== */
+
+
+/* Petite largeur, tous les écrans
+-------------------------------------------------------------- */
+@media only screen 
+and (max-width : 790px){
+	
+	.site-title{
+		font-size:10em;
+	}
+	
+	.archive article header .post-title{
+		font-size:2.4em;
+	}
+	
+	.index article:nth-of-type(n+0){
+		width:100%;
+		height:60vw;
+	}
+	
+	.archive article header{
+		opacity:1;
+	}
+	
+	
+	.single .post-header > .flou > h1{
+		font-size:3em;
+	}
+	
+	article .post-content p{
+		padding:0 0.5em;
+	}
+	
+	.partage h4,
+	.partage ul li{
+		width:100%;
+	}
+	
+	.post-meta ul{
+		padding:0 0.5em;
+		-webkit-column-count:1;   
+		-moz-column-count:1;
+		-ms-column-count:1;
+		-o-column-count:1;
+		column-count:1;
+		columns:1;
+	}
+	
+}
+
+
+/* Appareils iOS
+-------------------------------------------------------------- */
+@media only screen  
+and (max-device-width : 736px) {
+	.single .post-header{
+		background-attachment: scroll;
+	}
+	
+	.single .post-header > .flou{
+		background: none;
+		padding: 1em 0;
+	}
 }

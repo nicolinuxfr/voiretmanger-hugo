@@ -1,11 +1,10 @@
 +++
-type = "post"
 titre = "<em>VIEUX FRÈRES – Partie 1</em>, FAUVE"
 title = "VIEUX FRÈRES – Partie 1, FAUVE"
 url = "/vieux-freres-partie-1-fauve"
 date = "2014-02-13T10:18:47"
 Lastmod = "2014-02-13T09:39:31"
-cover = "fauve-vieux-freres.jpeg"
+cover = "https://voiretmanger.fr/wp-content/2014/02/fauve-vieux-freres.jpeg"
 categorie = [ "Musique" ]
 tag = [ "Chanson", "Rap", "Société", "Spoken Words" ]
 createur = [ "FAUVE" ]
@@ -15,8 +14,8 @@ pays = [ "France" ]
 
 +++
 
-<p>Comment, après un succès, revenir sans se répéter ? Comment poursuivre une voie sans tomber dans sa propre caricature ? Le risque était grand, surtout pour FAUVE qui a créé un style assez facile à caricaturer et qui a suscité autant d’amour que de haine l’an dernier. On craignait un peu l’épreuve du premier album, exercice plus complexe que de sortir un morceau de temps en temps sur la toile. D’autant que le premier EP du groupe, <a href="https://itunes.apple.com/fr/album/blizzard-ep/id768699970"><em>BLIZZARD &#8211; EP</em></a>, était très sympa, mais <a href="/fauve/">laissait déjà poindre</a> un côté répétitif que le collectif devait absolument éviter, sans perdre son identité. Avec <em>VIEUX FRÈRES — Partie 1</em>, la mission est plutôt réussie. Cette première partie d’un diptyque qui sera complété avec un deuxième album prévu pour la fin de l’année évolue autant sur la forme que sur le fond. On reconnaît le style général, on retrouve des idées déjà expérimentées, mais le groupe a mûri et cela s’entend. À la clé, un très bel album, plus riche et plus travaillé que son prédécesseur, mais aussi moins plombé et plus facile à écouter.</p>
-<div style="text-align:center;"><img class="aligncenter" src="fauve-collectif.jpg" alt="FAUVE collectif" title="fauve-collectif.jpg" width="1800" height="1200" /></div>
+<p>Comment, après un succès, revenir sans se répéter ? Comment poursuivre une voie sans tomber dans sa propre caricature ? Le risque était grand, surtout pour FAUVE qui a créé un style assez facile à caricaturer et qui a suscité autant d’amour que de haine l’an dernier. On craignait un peu l’épreuve du premier album, exercice plus complexe que de sortir un morceau de temps en temps sur la toile. D’autant que le premier EP du groupe, <a href="https://itunes.apple.com/fr/album/blizzard-ep/id768699970"><em>BLIZZARD &#8211; EP</em></a>, était très sympa, mais <a href="https://voiretmanger.fr/fauve/">laissait déjà poindre</a> un côté répétitif que le collectif devait absolument éviter, sans perdre son identité. Avec <em>VIEUX FRÈRES — Partie 1</em>, la mission est plutôt réussie. Cette première partie d’un diptyque qui sera complété avec un deuxième album prévu pour la fin de l’année évolue autant sur la forme que sur le fond. On reconnaît le style général, on retrouve des idées déjà expérimentées, mais le groupe a mûri et cela s’entend. À la clé, un très bel album, plus riche et plus travaillé que son prédécesseur, mais aussi moins plombé et plus facile à écouter.</p>
+<div style="text-align:center;"><img class="aligncenter" src="https://voiretmanger.fr/wp-content/2014/02/fauve-collectif.jpg" alt="FAUVE collectif" title="fauve-collectif.jpg" width="1800" height="1200" /></div>
 <blockquote class="pull-quote"><p>Mais avant que ça arrive / je voudrais que tu saches / que j’ai compris / que je passe mes nuits / entre cachetons et insomnies<br />
 Et que je vais me battre / pour reconstruire / un apprenti repenti / et tant pis / si ça me prend toute une vie<cite class="author"> — FAUVE, <span style="font-style:normal;">VIEUX FRÈRES — Partie 1</span>, « VOYOUS »</cite></p>
 </blockquote>
@@ -28,7 +27,7 @@ Nous sommes de ceux qui établissent des stratégies dans l’obscurité / pour 
 Jouer selon leurs propres règles et forcer le destin<cite class="author"> — FAUVE, <span style="font-style:normal;">VIEUX FRÈRES — Partie 1</span>, « DE CEUX »</cite></p>
 </blockquote>
 <p>FAUVE reste FAUVE et d’autres morceaux ressemblent plus à ceux du premier album. C’est le cas de « DE CEUX » qui reprend un peu la construction des premiers titres avec un côté revendicatif généralement plus discret sur cet album. Mais même là, on note des évolutions et notamment une musique plus rock. De manière générale d’ailleurs, <em>VIEUX FRÈRES — Partie 1</em> est plus travaillé, mieux conçu, plus luxueux. Le collectif a refusé tous les contrats des maisons de disque et a tenu à tout faire en interne, mais on entend bien qu’ils ont évolué et appris. Le format reste court — 40 minutes environ —, mais la diversité est de mise et on apprécie la qualité de certaines orchestrations. L’enregistrement est toujours « fait maison », mais on en a encore moins l’impression, un bon point, même si le premier EP n’était pas particulièrement mauvais sur ce point. Au-delà de la qualité de l’enregistrement, FAUVE expérimente avec de nouvelles tendances et idées. Sur « TUNNEL », ils s’essaient au titre quasiment instrumental, à l’inverse d’autres titres qui accueillent d&rsquo;autres formes d&rsquo;expression.</p>
-<div style="text-align:center;"><img class="aligncenter" src="vieux-freres-partie-1-fauve.jpg" alt="Vieux freres partie 1 fauve" title="vieux-freres-partie-1-fauve.jpg" width="1800" height="1200" /></div>
+<div style="text-align:center;"><img class="aligncenter" src="https://voiretmanger.fr/wp-content/2014/02/vieux-freres-partie-1-fauve.jpg" alt="Vieux freres partie 1 fauve" title="vieux-freres-partie-1-fauve.jpg" width="1800" height="1200" /></div>
 <blockquote class="pull-quote"><p>Et bah écoute / je sais pas pour toi /mais pour moi / ce sera<br />
 La tête haute / les couilles sur la table / le poing en l’air / fais-moi confiance avant de finir six pieds sous terre<br />
 J’aurai vécu tout ce qu’il y a à vivre et j’aurai fait tout ce que je peux faire<br />
@@ -41,7 +40,7 @@ Tenté tout ce qu’il y a à tenter / et surtout on m’aura aimé<cite class="
 <h3>Vous voulez m’aider ?</h3>
 <ul>
 <li><a href="https://itunes.apple.com/fr/album/vieux-freres-pt.-1/id770839909">Télécharger l’album sur l’iTunes Store</a></li>
-<li><a href="http://www.amazon.fr/gp/product/B00H21WQPW/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00H21WQPW">Acheter l’album sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00H21WQPW/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00H21WQPW">Acheter l’album sur Amazon</a></li>
 <li><a href="http://open.spotify.com/album/7w71atms7VMEw48a3sQ8Wd">Écouter l’album sur Spotify</a></li>
 </ul>
 </div>
@@ -49,7 +48,7 @@ Tenté tout ce qu’il y a à tenter / et surtout on m’aura aimé<cite class="
 <hr />
 <ol>
 <li id="fn-11155-1">
-Un sample extrait du <em>Trio pour piano et cordes nº 2</em> de Schubert. J’aurais aimé dire que j’ai retrouvé la référence seul, mais il m’a fallu l’aide <a href="http://www.slate.fr/culture/78836/fauve-nique-schubert-le-blizzard">de cet article</a> pour mettre le doigt dessus et me rappeler comment je connaissais cette mélodie : Kubrick l’a utilisé dans <a href="/barry-lyndon-kubrick/" title="Barry Lyndon, Stanley Kubrick"><em>Barry Lyndon</em></a>.&#160;<a href="#fnref-11155-1" rev="footnote">&#8617;</a>
+Un sample extrait du <em>Trio pour piano et cordes nº 2</em> de Schubert. J’aurais aimé dire que j’ai retrouvé la référence seul, mais il m’a fallu l’aide <a href="http://www.slate.fr/culture/78836/fauve-nique-schubert-le-blizzard">de cet article</a> pour mettre le doigt dessus et me rappeler comment je connaissais cette mélodie : Kubrick l’a utilisé dans <a href="https://voiretmanger.fr/barry-lyndon-kubrick/" title="Barry Lyndon, Stanley Kubrick"><em>Barry Lyndon</em></a>.&#160;<a href="#fnref-11155-1" rev="footnote">&#8617;</a>
 </li>
 <li id="fn-11155-2">
 « INFIRMIÈRE » est explicite : « <em>À une table sur ma gauche / y avait un groupe de filles / dont une qui m&rsquo;a tout de suite plu</em> […]<br /> <em>Mais surtout elle avait l&rsquo;air douce / bienveillante et sereine / comme si elle avait pas renoncé / à rien<br />

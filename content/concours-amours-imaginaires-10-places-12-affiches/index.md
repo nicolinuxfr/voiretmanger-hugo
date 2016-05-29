@@ -1,11 +1,10 @@
 +++
-type = "post"
 titre = "Concours Les Amours Imaginaires : 10 places et 12 affiches à gagner !"
 title = "Concours Les Amours Imaginaires : 10 places et 12 affiches à gagner !"
 url = "/concours-amours-imaginaires-10-places-12-affiches"
 date = "2010-09-22T23:07:48"
 Lastmod = "2010-09-30T22:06:18"
-cover = "les-amours-imaginaires-dolan.jpg"
+cover = "https://voiretmanger.fr/wp-content/2010/09/les-amours-imaginaires-dolan.jpg"
 categorie = [ "En bref" ]
 tag = [ "Affiches", "Places de ciné" ]
 
@@ -18,7 +17,7 @@ tag = [ "Affiches", "Places de ciné" ]
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=179786.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=179786.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=179786.html"></p>
-<div style="text-align: center;"><img class="aligncenter" src="amours-imaginaires.jpg" border="0" alt="amours-imaginaires.jpg" width="690" height="929" /></div>
+<div style="text-align: center;"><img class="aligncenter" src="https://voiretmanger.fr/wp-content/2010/09/amours-imaginaires.jpg" border="0" alt="amours-imaginaires.jpg" width="690" height="929" /></div>
 <p></a></p>
 <blockquote>
 <p><span style="text-decoration: underline;">Synopsis</span> : Francis et Marie, deux amis, tombent amoureux de la même personne. Leur trio va rapidement se transformer en relation malsaine où chacun va tenter d&rsquo;interpréter à sa manière les mots et gestes de celui qu&rsquo;il aime&#8230;</p>

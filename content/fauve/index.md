@@ -1,11 +1,10 @@
 +++
-type = "post"
 titre = "FAUVE"
 title = "FAUVE"
 url = "/fauve"
 date = "2013-11-07T14:23:45"
 Lastmod = "2015-04-03T00:09:08"
-cover = "fauve-blizzard.jpg"
+cover = "https://voiretmanger.fr/wp-content/2013/11/fauve-blizzard.jpg"
 categorie = [ "Musique" ]
 tag = [ "Amour", "Chanson", "Électronique", "Musique", "Rap", "Spoken Words" ]
 createur = [ "FAUVE" ]
@@ -16,7 +15,7 @@ pays = [ "France" ]
 +++
 
 <p>Véritable phénomène né sur internet et ses réseaux sociaux en 2011, FAUVE a explosé cette année avec un premier EP et des concerts qui affichaient systématiquement complets. Pourtant, je suis complètement passé à côté de ce mystérieux groupe parisien. Je n’en avais jamais entendu parler, jamais écouté leur musique, vu leur clip et il a fallu l’insistance d’un ami virtuel (merci <a href="https://twitter.com/JegnuX/">Jérome</a>) pour que je m’y intéresse. Problème d’emblée : on me parle surtout des textes, des paroles censées être profondes, touchantes, riches… or moi, les paroles ne m’intéressent que très rarement quand j’écoute quelque chose. La musique avant tout et cette présentation m’a refroidi, mais j’écoute, d’abord par politesse, d’une oreille distraite. Et puis une deuxième fois, d’une oreille moins distraite, une troisième, une quatrième… J’aurais aimé détester, écrire que ce groupe de jeunes Parisiens qui entretiennent avec soin le mystère qui les entoure m’a gonflé, que je n’ai pas accroché, mais ce serait un mensonge. La musique de FAUVE m’a happé, surtout ce chanteur au style parlé si particulier et même, c’est vrai, des paroles souvent maladroites, toujours touchantes. Une belle découverte, incontestablement…</p>
-<img class="aligncenter" src="fauve.jpg" alt="Fauve" title="fauve.jpg" width="100%" />
+<img class="aligncenter" src="https://voiretmanger.fr/wp-content/2013/11/fauve.jpg" alt="Fauve" title="fauve.jpg" width="100%" />
 <p>FAUVE ne se définit pas comme un groupe, mais comme un collectif. Sur scène, ils ne sont que cinq, mais derrière, ils peuvent être plus nombreux en fonction des besoins. Il faut dire qu’ils ne font pas que des morceaux et des concerts : ils ont tous conçu en interne, de leur logo en forme de différence à leurs clips, souvent très travaillés, en passant par leurs t-shirts et même dernièrement une <a href="https://itunes.apple.com/fr/app/fauve/id724662946?mt=8" title="FAUVE pour iPhone">application pour iPhone</a> qui applique les symboles du groupe sur les photos des utilisateurs. Histoire de renforcer le mystère, ils ne veulent rester anonymes : sur <a href="https://www.facebook.com/FAUVEcorp">leur compte Facebook</a>, on peut voir des centaines de photos, mais rarement d’eux et quand c’est le cas, toujours de dos. Dans les interviews, ils refusent de donner leurs noms, préfèrent parler au nom de leur collectif plutôt que de leurs personnes. Ils veulent éviter que la médiatisation à outrance dont ils font l’objet depuis le début de l’année, c’est louable. C’est aussi une manière de renforcer le mystère, de faire parler d’eux, et ça marche, comme pour Daft Punk qui entretient le même mystère depuis leurs origines. Ce mystère savamment entretenu leur vaut de nombreuses critiques contre ce qui peut passer pour de la prétention mal placée. Au fond, on ne sait rien de FAUVE et au fond, ce n’est pas bien grave. Leur musique parle pour eux et elle devrait se suffire à elle-même.</p>
 <blockquote class="pull-quote"><p>Arrête</p>
 <p>Qu’est-ce qui te prend de faire des trucs pareils?<br />
@@ -46,12 +45,12 @@ T’auras l’air fin<br />
 Ça sert à quoi, caner, dis-moi ?<br />
 Ça sert à rien.<cite class="author"> — FAUVE, <span style="font-style:normal;">« Kané »</span>, </cite></p>
 </blockquote>
-<img class="aligncenter" src="fauve-concert.jpg" alt="Fauve concert" title="fauve-concert.jpg" width="100%" />
+<img class="aligncenter" src="https://voiretmanger.fr/wp-content/2013/11/fauve-concert.jpg" alt="Fauve concert" title="fauve-concert.jpg" width="100%" />
 <p>Refusant le système, FAUVE n’a <em>a priori</em> toujours pas signé de contrat avec une maison de disque et le groupe continue obstinément de proposer gratuitement ses titres, même si on les trouve tous sur les plateformes de téléchargement légales. Cette différence appuyée jusqu’à leur logo les rend éminemment sympathiques, mais on retiendra surtout leur musique. FAUVE n’a pas encore signé d’album complet, seulement quelques morceaux sur un EP et une poignée d’autres disponibles sur leur site. C’est peu, et c’est déjà prometteur. Le groupe cristallise les critiques autant qu’il rassemble des fans, mais ne laisse personne indifférent. On peut adhérer ou non à cette musique parlée, à ces paroles touchantes et parfois un peu niaises. Le plus gros risque maintenant pour FAUVE désormais, c’est la redite : les quelques morceaux créés jusque-là ne suffiront pas à tenir sur la distance, mais le collectif saura-t-il se renouveler ? Quoi qu’il en soit, <em>Blizzard</em> et les quelques titres autour méritent d’être écoutés et qui sait, vous tomberez peut-être aussi sous le charme…</p>
 <div class="amazon">
 <h3>Vous voulez m&rsquo;aider ? </h3>
 <ul>
-<li><a href="http://www.amazon.fr/gp/product/B00DRFQAG8/ref=as_li_ss_tl?ie=UTF8&tag=leblogdenic07-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B00DRFQAG8">Acheter <em>Blizzard</em> en CD sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00DRFQAG8/ref=as_li_ss_tl?ie=UTF8&#038;tag=leblogdenic07-21&#038;linkCode=as2&#038;camp=1642&#038;creative=19458&#038;creativeASIN=B00DRFQAG8">Acheter <em>Blizzard</em> en CD sur Amazon</a></li>
 <li><a href="https://itunes.apple.com/fr/album/blizzard/id632722469">Acheter <em>Blizzard</em> sur l&rsquo;iTunes Store</a></li>
 <li><a href="http://fauvecorp.com">Découvrir et écouter FAUVE sur leur site</a></li>
 </ul>

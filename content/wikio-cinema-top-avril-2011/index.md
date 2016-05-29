@@ -1,11 +1,10 @@
 +++
-type = "post"
 titre = "Wikio cinéma : top 20 avril 2011"
 title = "Wikio cinéma : top 20 avril 2011"
 url = "/wikio-cinema-top-avril-2011"
 date = "2011-04-01T20:51:33"
 Lastmod = "2012-12-29T10:43:26"
-cover = "sommets.jpg"
+cover = "https://voiretmanger.fr/wp-content/2011/04/sommets.jpg"
 categorie = [ "Le blog" ]
 tag = [ "Blogosphère", "Wikio" ]
 
@@ -95,7 +94,7 @@ tag = [ "Blogosphère", "Wikio" ]
 </tr>
 <tr class="bg">
 <td class="td1" width="30" valign="top">20</td>
-<td class="td2"><a rel="nofollow" href="/" target="_blank">Le blog de Nicolinux</a></td>
+<td class="td2"><a rel="nofollow" href="https://voiretmanger.fr/" target="_blank">Le blog de Nicolinux</a></td>
 </tr>
 </tbody>
 </table>

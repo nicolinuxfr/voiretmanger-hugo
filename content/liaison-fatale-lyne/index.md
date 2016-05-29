@@ -1,0 +1,41 @@
++++
+titre = "<em>Liaison fatale</em>, Adrian Lyne"
+title = "Liaison fatale, Adrian Lyne"
+url = "/liaison-fatale-lyne"
+date = "2016-02-28T19:03:31"
+Lastmod = "2016-02-28T19:03:31"
+cover = "https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-glenn-close-michael-douglas.jpg"
+categorie = [ "À voir" ]
+tag = [ "Amour", "Drame", "Famille", "Mariage", "Mort" ]
+createur = [ "Adrian Lyne" ]
+acteur = [ "Anne Archer", "Ellen Hamilton Latzen", "Glenn Close", "Michael Douglas" ]
+annee = [ "1987" ]
+weight = 1987
+pays = [ "États-Unis" ]
+
++++
+
+<p><em>Liaison fatale</em> fait partie de ces œuvres qui dévoilent leur dénouement dès leur titre. On ne sait pas exactement comment jusqu&rsquo;à la toute fin, mais on se doute bien dès le départ que cette histoire d&rsquo;adultère va mal se terminer, probablement avec au moins un mort. Toute la saveur du long-métrage signé Adrian Lyne est dans cette mort attendue, beaucoup plus que dans la liaison elle-même, qui n&rsquo;a rien d&rsquo;exceptionnel. Comment le héros peut se tirer de ce mauvais coup, de ce piège tendu après son égarement d&rsquo;un week-end ? Peut-il sauver son mariage et surtout, peut-il sauver sa carrière ou sa vie ? À défaut d&rsquo;être très original, <em>Liaison fatale</em> fait preuve d&rsquo;une redoutable efficacité, avec un rythme tendu du début à la fin et un bon suspense. Les deux stars au cœur des enjeux sont au sommet de leur art et on passe un très bon moment : une valeur sûre.</p>
+<a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=3106.html" rel="attachment wp-att-15514"><img src="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-lyne.jpg" alt="liaison-fatale-lyne" width="1400" height="2100" class="aligncenter size-full wp-image-15514" srcset="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-lyne.jpg 1400w, https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-lyne-700x1050.jpg 700w" sizes="(max-width: 1400px) 100vw, 1400px" /></a>
+<p>« <em>Cela ne dépend que de vous</em> » : cette phrase, prononcée au cours de leur premier repas et juste avant leur première rencontre sexuelle, le condamne, ou en tout cas, empêche toute victimisation possible. Incarné par un Michael Douglas en pleine forme, Dan, avocat new-yorkais apparemment heureux à son travail comme en ménage, veut coucher avec Alex, cette femme troublante rencontrée lors d&rsquo;une soirée. Pour lui, c&rsquo;est très clair et il n&rsquo;attend que son autorisation pour tromper sa femme, ce qui ne tarde pas à arriver. Loin de sa famille, partie le temps d&rsquo;un week-end à la campagne, Dan passe le week-end chez Alex et ils s&rsquo;amusent bien, jusqu&rsquo;au moment où il est temps de rentrer. Même si Adrian Lyne ne le dit pas explicitement, on sent qu&rsquo;il était un mari fidèle jusque-là et qu&rsquo;il est probablement pris par le remord, après ces deux jours d&rsquo;absence. Rien ne permet d&rsquo;indiquer qu&rsquo;il n&rsquo;est pas heureux en mariage et on ne sait pas, au fond, pourquoi il a trompé sa femme. Le long-métrage ne l&rsquo;explicite jamais et très bien ainsi : chacun peut imaginer les raisons, quitte à n&rsquo;en trouver aucune, pour motiver cet écart. Mais dans tous les cas, <em>Liaison fatale</em> établit très clairement qu&rsquo;il ne veut plus entendre parler d&rsquo;Alex. Passée cette fois-là, il veut revenir à sa famille et à sa vie normale et ne veut plus rien faire avec cette femme. Comme on le suspecte bien et comme on le découvre vite, ce n&rsquo;est pas si simple : elle essaie de se suicider quand il veut partir, puis elle se dit enceinte de lui et commence à le harceler, avant de s&rsquo;en prendre à sa femme et à sa fille de six ans.</p>
+<img src="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-michael-douglas-glenn-close.jpg" alt="liaison-fatale-michael-douglas-glenn-close" width="2100" height="1400" class="aligncenter size-full wp-image-15516" srcset="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-michael-douglas-glenn-close.jpg 2100w, https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-michael-douglas-glenn-close-700x467.jpg 700w, https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-michael-douglas-glenn-close-1500x1000.jpg 1500w" sizes="(max-width: 2100px) 100vw, 2100px" />
+<p>Adrian Lyne commence par présenter une femme sûr d&rsquo;elle, sereine et sûre de ce qu&rsquo;elle veut, en l&rsquo;occurrence passer du bon temps avec cet homme marié tant que femme et enfant sont éloignés. Mais peu à peu, le personnage se fait plus trouble : elle témoigne trop vite de signes d&rsquo;affection très forts, elle tente de se suicider pour le forcer à rester une nuit de plus… bref, on sent bien vite qu&rsquo;Alex n&rsquo;est pas claire. <em>Liaison fatale</em> se construit d&rsquo;ailleurs par la suite sur cette tension : plus Dan essaie de l&rsquo;éloigner de sa vie, plus elle s&rsquo;accroche et devient menaçante. Dans un premier temps, elle se contente d&rsquo;appeler à son bureau, puis elle appelle chez lui, se met à le suivre et finalement à menacer directement sa famille en s&rsquo;en prenant à sa fillette. Le scénario monte progressivement en gamme, avec une once de menace très discrète au départ, et puis petit à petit, le côté fatal de la liaison ressort de plus en plus. Tout au long du récit, Glenn Close est géniale dans le rôle d&rsquo;Alex et l&rsquo;actrice excelle à varier entre la séduction innocente et la violence. Adrian Lyne renforce les paroles avec une mise en scène qui souligne cette dualité, à l&rsquo;image de ses vêtements, toujours blancs immaculés, comme l&rsquo;est son appartement. On pourrait dire que c&rsquo;est un petit peu facile, mais le cinéaste n&rsquo;en fait pas trop, il se contente de poser ses images sans les surjouer et surtout sans les expliciter. Le film ne fait aucun commentaire sur le choix des couleurs, ce qui aurait été catastrophique, et à l&rsquo;arrivée, cela passe très bien.</p>
+<img src="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-glenn-close-anne-archer.jpg" alt="liaison-fatale-glenn-close-anne-archer" width="2100" height="1400" class="aligncenter size-full wp-image-15515" srcset="https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-glenn-close-anne-archer.jpg 2100w, https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-glenn-close-anne-archer-700x467.jpg 700w, https://voiretmanger.fr/wp-content/2016/02/liaison-fatale-glenn-close-anne-archer-1500x1000.jpg 1500w" sizes="(max-width: 2100px) 100vw, 2100px" />
+<p>Adrian Lyne n&rsquo;a pas gagné la palme de l&rsquo;originalité avec <em>Liaison fatale</em>, mais le cinéaste déploie son intrigue avec suffisamment de talent pour que l&rsquo;on soit pris par le suspense. On sait bien que cela va mal se finir, mais on ne sait pas comment et même si la fin actuelle, imposée par la production si l&rsquo;on en croit le réalisateur, n&rsquo;est pas plus passionnante qui soit<sup id="fnref-15512-1"><a href="#fn-15512-1" rel="footnote">1</a></sup>, le reste est suffisamment réussi pour convaincre. Porté par Glenn Close et Michael Douglas, le film est un divertissement réussi et une bonne variation sur le thème de l&rsquo;adultère, à (re)voir !</p>
+<div class="amazon">
+<h3>Vous voulez <a href="https://voiretmanger.fr/soutien/">m&rsquo;aider</a> ?</h3>
+<ul>
+<li><a href="http://www.amazon.fr/gp/product/B00AEFXX1E/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00AEFXX1E">Acheter le film en Blu-ray sur Amazon</a></li>
+<li><a href="http://www.amazon.fr/gp/product/B00006B0K1/ref=as_li_ss_tl?ie=UTF8&amp;tag=leblogdenic07-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B00006B0K1">Acheter le film en DVD sur Amazon</a></li>
+<li><a href="https://itunes.apple.com/fr/movie/liaison-fatale/id418015148">Acheter ou louer le film sur l&rsquo;iTunes Store</a></li>
+</ul>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-15512-1">
+Le réalisateur l&rsquo;a désavouée <em>a posteriori</em> et indiqué qu&rsquo;il avait tourné une première fin, bien différente. Dans cette réalité parallèle, Alex piégeait Dan en se suicidant avec un couteau marqué de ses empreintes… il est vrai que c&rsquo;était une meilleure idée.&#160;<a href="#fnref-15512-1" rev="footnote">&#8617;</a>
+</li>
+</ol>
+</div>
+

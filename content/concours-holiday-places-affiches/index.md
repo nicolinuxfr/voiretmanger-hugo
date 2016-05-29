@@ -1,11 +1,10 @@
 +++
-type = "post"
 titre = "Concours Holiday : des places et des affiches à gagner !"
 title = "Concours Holiday : des places et des affiches à gagner !"
 url = "/concours-holiday-places-affiches"
 date = "2010-11-23T22:56:27"
 Lastmod = "2010-12-10T23:36:07"
-cover = "darroussin-balasko-holiday.jpg"
+cover = "https://voiretmanger.fr/wp-content/2010/11/darroussin-balasko-holiday.jpg"
 categorie = [ "En bref" ]
 tag = [ "Affiches", "Places de ciné" ]
 
@@ -17,7 +16,7 @@ tag = [ "Affiches", "Places de ciné" ]
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176013.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176013.html"></a></p>
 <p><a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=176013.html"></p>
-<div style="text-align: center;"><img class="aligncenter" src="holiday.jpg" border="0" alt="holiday.jpg" width="690" height="937" /></div>
+<div style="text-align: center;"><img class="aligncenter" src="https://voiretmanger.fr/wp-content/2010/11/holiday.jpg" border="0" alt="holiday.jpg" width="690" height="937" /></div>
 <p></a></p>
 <p>[pullquote author=&nbsp;&raquo;Allocine&nbsp;&raquo;]</p>
 <p><strong>Synopsis</strong> : Un soir, Michel Trémois échoue dans la pharmacie d’une gare de province et se remémore le fil des événements qui, en deux jours, ont fait basculer sa vie : parti en week-end avec sa femme Nadine pour reconstruire leur couple et sauver leur sexualité, rien ne s’est finalement passé comme prévu… Après une nuit folle et tumultueuse agrémentée de rencontres singulières, le réveil de Michel est brutal et douloureux. Non seulement il se retrouve accusé de meurtre, mais sa femme est introuvable…</p>

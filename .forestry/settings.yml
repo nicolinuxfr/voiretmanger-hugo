@@ -10,6 +10,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: ".md"
+  templates:
+  - article
 - type: directory
   path: content/when-you-re-strange-dicillo
   label: When you re strange dicillo

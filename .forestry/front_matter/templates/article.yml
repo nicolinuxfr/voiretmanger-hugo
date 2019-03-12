@@ -1,0 +1,29 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: titre
+  label: Titre
+  config:
+    required: true
+- type: textarea
+  name: contenu
+  label: Contenu
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: datetime
+  name: date
+  label: Date
+  config:
+    display_utc: true
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: tag_list
+  name: categorie
+  label: Catégorie

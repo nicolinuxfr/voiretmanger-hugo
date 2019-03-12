@@ -1,0 +1,5537 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: content
+  label: Articles
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: content/when-you-re-strange-dicillo
+  label: When you re strange dicillo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/magic-mike-soderbergh
+  label: Magic mike soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tamara-drewe-frears
+  label: Tamara drewe frears
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jurassic-world-trevorrow
+  label: Jurassic world trevorrow
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-bons-rien-mauvais-tout-lord
+  label: Pirates bons rien mauvais tout lord
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/masters-of-sex-ashford-showtime
+  label: Masters of sex ashford showtime
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/limitless-burger
+  label: Limitless burger
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/grande-aventure-lego-lord-miller
+  label: Grande aventure lego lord miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mars-attacks-burton
+  label: Mars attacks burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-a-l-ecole-des-sorciers-colombus
+  label: Harry potter a l ecole des sorciers colombus
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/miller-famille-herbe-thurber
+  label: Miller famille herbe thurber
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gatsby-le-magnifique-luhrmann
+  label: Gatsby le magnifique luhrmann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/une-nouvelle-amie-ozon
+  label: Une nouvelle amie ozon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/brique
+  label: Brique
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/looper-johnson
+  label: Looper johnson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alien-3-fincher
+  label: Alien 3 fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ajami-copti-shani
+  label: Ajami copti shani
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/malefique-stromberg
+  label: Malefique stromberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/belle-bete-gans
+  label: Belle bete gans
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/history-violence-cronenberg
+  label: History violence cronenberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/avengers-whedon
+  label: Avengers whedon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-iv-retour-sur-terre-nimoy
+  label: Star trek iv retour sur terre nimoy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/phoenix-petzold
+  label: Phoenix petzold
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zulu-salle
+  label: Zulu salle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/il-etait-une-fois-en-amerique-leone
+  label: Il etait une fois en amerique leone
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/strain-toro-hogan-fx
+  label: Strain toro hogan fx
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sherlock-holmes-ritchie
+  label: Sherlock holmes ritchie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tartinades
+  label: Tartinades
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/person-of-interest-nolan-cbs
+  label: Person of interest nolan cbs
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/8th-wonderland-alberny-mach
+  label: 8th wonderland alberny mach
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/predators-antal
+  label: Predators antal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ligne-rouge-malick
+  label: Ligne rouge malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sophia-aram-crise-foi-bourse-travail
+  label: Sophia aram crise foi bourse travail
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/titanic-cameron
+  label: Titanic cameron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/minuit-paris-allen
+  label: Minuit paris allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/grand-budapest-hotel-anderson
+  label: Grand budapest hotel anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/carol-haynes
+  label: Carol haynes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/u-fanale-calvi
+  label: U fanale calvi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/argo-affleck
+  label: Argo affleck
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/liaison-fatale-lyne
+  label: Liaison fatale lyne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/orphan-black-manson-fawcett-space
+  label: Orphan black manson fawcett space
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-immigrant-names-gray
+  label: The immigrant names gray
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/into-the-woods-promenons-nous-dans-les-bois-marshall
+  label: Into the woods promenons nous dans les bois marshall
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nora-hamzawi-lyon-2014
+  label: Nora hamzawi lyon 2014
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/enfants-loups-ame-yuki-hosoda
+  label: Enfants loups ame yuki hosoda
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tournee-amalric
+  label: Tournee amalric
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chateau-ciel-miyazaki
+  label: Chateau ciel miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mords-moi-sans-hesitation-friedberg-seltzer
+  label: Mords moi sans hesitation friedberg seltzer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/largo-winch-2-salle
+  label: Largo winch 2 salle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/asterix-chez-les-pictes-ferri-conrad
+  label: Asterix chez les pictes ferri conrad
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twilight-chapitre-4-revelation-1ere-partie-condon
+  label: Twilight chapitre 4 revelation 1ere partie condon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/boulevard-de-la-mort-tarantino
+  label: Boulevard de la mort tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/poetry-chang-dong
+  label: Poetry chang dong
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/balade-sauvage-malick
+  label: Balade sauvage malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/festival-cinema-europeen-arcs-2010-bilan
+  label: Festival cinema europeen arcs 2010 bilan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/thor-le-monde-des-tenebres-taylor
+  label: Thor le monde des tenebres taylor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alex-lyon
+  label: Alex lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mama-shelter-lyon
+  label: Mama shelter lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/90-films-cultes-usage-personnes-pressees-lange-wengelwski
+  label: 90 films cultes usage personnes pressees lange wengelwski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/folie-grandeurs-oury
+  label: Folie grandeurs oury
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jackie-brown-tarantino
+  label: Jackie brown tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/assassin-hou
+  label: Assassin hou
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pleuvait-oiseaux-saucier
+  label: Pleuvait oiseaux saucier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alien-la-resurrection-jeunet
+  label: Alien la resurrection jeunet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/most-violent-year-chandor
+  label: Most violent year chandor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/corniaud-oury
+  label: Corniaud oury
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/stardust-mystere-etoile-vaughn
+  label: Stardust mystere etoile vaughn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/huit-salopards-tarantino
+  label: Huit salopards tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/grottes-reves-perdus-herzog
+  label: Grottes reves perdus herzog
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-festival-de-lama
+  label: Le festival de lama
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-amours-imaginaires-10-places-12-affiches
+  label: Concours amours imaginaires 10 places 12 affiches
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inside-llewyn-davis-coen
+  label: Inside llewyn davis coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/from-hell-hughes
+  label: From hell hughes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/juge-dobkin
+  label: Juge dobkin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/atlantide-empire-perdu-trousdale-wise
+  label: Atlantide empire perdu trousdale wise
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/madama-butterfly-puccini-san-francisco-opera
+  label: Madama butterfly puccini san francisco opera
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lost-in-translation-coppola
+  label: Lost in translation coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ant-man-reed
+  label: Ant man reed
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-lone-ranger-naissance-heros-verbinski
+  label: The lone ranger naissance heros verbinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-commencement-vaughn
+  label: X men commencement vaughn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/night-and-day-mangold
+  label: Night and day mangold
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hommes-dieux-beauvois
+  label: Hommes dieux beauvois
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/goldfinger-hamilton
+  label: Goldfinger hamilton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/merlin-enchanteur-reitherman
+  label: Merlin enchanteur reitherman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/daredevil-goddard-netflix
+  label: Daredevil goddard netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-places-monsters-avant-premiere
+  label: Concours places monsters avant premiere
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/big-short-casse-siecle-mckay
+  label: Big short casse siecle mckay
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ida-pawlikowski
+  label: Ida pawlikowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rocky-avildsen
+  label: Rocky avildsen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/docteur-folamour-kubrick
+  label: Docteur folamour kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trois-mousquetaires-anderson
+  label: Trois mousquetaires anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chef-table-gelb-netflix
+  label: Chef table gelb netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hard-verney-canal
+  label: Hard verney canal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gladiator-scott
+  label: Gladiator scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/penny-dreadful-logan-showtime
+  label: Penny dreadful logan showtime
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/asterix-obelix-mission-cleopatre-chabat
+  label: Asterix obelix mission cleopatre chabat
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/on-ne-vit-que-deux-fois-gilbert
+  label: On ne vit que deux fois gilbert
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spy-paul-feig
+  label: Spy paul feig
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/minority-report-spielberg
+  label: Minority report spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/homme-tres-recherche-corbijn
+  label: Homme tres recherche corbijn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/roi-lion-allers-minkoff
+  label: Roi lion allers minkoff
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/steve-v-king-different-auzet
+  label: Steve v king different auzet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-days-future-past-singer
+  label: X men days future past singer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/happiness-therapy-russell
+  label: Happiness therapy russell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dans-ses-yeux-campanella
+  label: Dans ses yeux campanella
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/coup-de-tete-vissac
+  label: Coup de tete vissac
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/impitoyable-eastwood
+  label: Impitoyable eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bon-dieu-chauveron
+  label: Bon dieu chauveron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scarface-palma
+  label: Scarface palma
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/christophe-cite-musique-mars-2010
+  label: Christophe cite musique mars 2010
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vieux-freres-partie-1-fauve
+  label: Vieux freres partie 1 fauve
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-holiday-places-affiches
+  label: Concours holiday places affiches
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elle-verhoeven
+  label: Elle verhoeven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lincoln-spielberg
+  label: Lincoln spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lucy-besson
+  label: Lucy besson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hippocrate-lilti
+  label: Hippocrate lilti
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kaamelott-astier
+  label: Kaamelott astier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/combattants-cailley
+  label: Combattants cailley
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/american-horror-story-murphy-falchuck
+  label: American horror story murphy falchuck
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/laurence-anyways-dolan
+  label: Laurence anyways dolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/only-lovers-left-alive-jarmusch
+  label: Only lovers left alive jarmusch
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/coreen-barbecue-lyon
+  label: Coreen barbecue lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-10-places-hors-la-loi
+  label: Concours 10 places hors la loi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/snowpiercer-transperceneige-bong
+  label: Snowpiercer transperceneige bong
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/island-bay
+  label: Island bay
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hero-zhang
+  label: Hero zhang
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/winters-bone-granik
+  label: Winters bone granik
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/300-articles-370000-mots-plus-tard
+  label: 300 articles 370000 mots plus tard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mad-max-2-defi-miller
+  label: Mad max 2 defi miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-iii-a-la-recherche-de-spock-nimoy
+  label: Star trek iii a la recherche de spock nimoy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/3c-collonges-mont-or
+  label: 3c collonges mont or
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/homeland-gordon-gansa-raff-showtime
+  label: Homeland gordon gansa raff showtime
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cantabria-lyon
+  label: Cantabria lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trainspotting-boyle
+  label: Trainspotting boyle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/livre-eli-hughes
+  label: Livre eli hughes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/brasserie-georges-lyon
+  label: Brasserie georges lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rencontrer-bel-sombre-inconnu-allen
+  label: Rencontrer bel sombre inconnu allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vice-versa-docter-carmen-pixar
+  label: Vice versa docter carmen pixar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/enter-the-void-noe
+  label: Enter the void noe
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mother-bong
+  label: Mother bong
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-place-beyond-the-pines-cianfrance
+  label: The place beyond the pines cianfrance
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/belle-clochard-geronimi-jackson-luske
+  label: Belle clochard geronimi jackson luske
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/megamind-dreamworks
+  label: Megamind dreamworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/labyrinthe-ball
+  label: Labyrinthe ball
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/henri-moreau
+  label: Henri moreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amour-crime-parfait-larrieu
+  label: Amour crime parfait larrieu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/armee-12-singes-gilliam
+  label: Armee 12 singes gilliam
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cloud-atlas-wachowski-tykwer
+  label: Cloud atlas wachowski tykwer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sapori-colori-lyon
+  label: Sapori colori lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bande-filles-sciamma
+  label: Bande filles sciamma
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-blog-de-nicolinux-envahit-facebook
+  label: Le blog de nicolinux envahit facebook
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/looking-lannan-hbo
+  label: Looking lannan hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/artist-hazanavicius
+  label: Artist hazanavicius
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tucker-dale-fightent-mal-craig
+  label: Tucker dale fightent mal craig
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quelques-nouveautes-blog-nicolinux
+  label: Quelques nouveautes blog nicolinux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-caraibes-bout-monde-verbinski
+  label: Pirates caraibes bout monde verbinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/livre-jungle-reitherman
+  label: Livre jungle reitherman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-singer
+  label: X men singer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/defense-lincoln-furman
+  label: Defense lincoln furman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zero-dark-thirty-bigelow
+  label: Zero dark thirty bigelow
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/revenants-gobert-canal
+  label: Revenants gobert canal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/revenant-inarritu
+  label: Revenant inarritu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/conseil-tres-municipal-melo-amelie
+  label: Conseil tres municipal melo amelie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/world-invasion-battle-los-angeles-liebesman
+  label: World invasion battle los angeles liebesman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/minuscule-vallee-fourmis-perdues-szabo-giraud
+  label: Minuscule vallee fourmis perdues szabo giraud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/where-is-my-mind
+  label: Where is my mind
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hommes-sans-loi-hillcoat
+  label: Hommes sans loi hillcoat
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tetedoie-lyon
+  label: Tetedoie lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kung-fu-panda-2-dreamworks
+  label: Kung fu panda 2 dreamworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/un-chateau-en-italie-bruni-tedeshi
+  label: Un chateau en italie bruni tedeshi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/takao-takano-lyon
+  label: Takao takano lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/big-fish-burton
+  label: Big fish burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/unbreakable-kimmy-schmidt-fey-carlock-netflix
+  label: Unbreakable kimmy schmidt fey carlock netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/et-extra-terrestre-spielberg
+  label: Et extra terrestre spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/submarino-vinterberg
+  label: Submarino vinterberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/r-noer-lindholm
+  label: R noer lindholm
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bernard-bianca-pays-kangourous-butoy-gabriel
+  label: Bernard bianca pays kangourous butoy gabriel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/green-lantern-campbell
+  label: Green lantern campbell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/realite-dupieux
+  label: Realite dupieux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/piege-de-cristal-mctiernan
+  label: Piege de cristal mctiernan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/true-grit-coen
+  label: True grit coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/master-anderson
+  label: Master anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chappie-blomkamp
+  label: Chappie blomkamp
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hugo-cabret-scorsese
+  label: Hugo cabret scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/six-feet-under-ball-hbo
+  label: Six feet under ball hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planete-tresor-nouvel-univers-clements-musker
+  label: Planete tresor nouvel univers clements musker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spotlight-mccarthy
+  label: Spotlight mccarthy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/auberge-pont-collonges-bocuse
+  label: Auberge pont collonges bocuse
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/voices-satrapi
+  label: Voices satrapi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/deadpool-miller
+  label: Deadpool miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cochon-gaza-estibal
+  label: Cochon gaza estibal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twin-peaks-frost-lynch-abc
+  label: Twin peaks frost lynch abc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blanche-neige-chasseur-sanders
+  label: Blanche neige chasseur sanders
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blue-jasmine-allen
+  label: Blue jasmine allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/plage-boyle
+  label: Plage boyle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/romain-augustin-mariage-pour-tous-cadene-garguilo-falzon
+  label: Romain augustin mariage pour tous cadene garguilo falzon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/esquive-kechiche
+  label: Esquive kechiche
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aliens-le-retour-cameron
+  label: Aliens le retour cameron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sherlock-moffat-gatiss-bbc
+  label: Sherlock moffat gatiss bbc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-4-nouvel-espoir-lucas
+  label: Star wars episode 4 nouvel espoir lucas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amy-kapadia
+  label: Amy kapadia
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pingouins-madagascar-smith-darnell
+  label: Pingouins madagascar smith darnell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/guerre-mondes-spielberg
+  label: Guerre mondes spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bonne-bande-annonce
+  label: Bonne bande annonce
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/transformers-age-extinction-bay
+  label: Transformers age extinction bay
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-identites-lyon
+  label: Star wars identites lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/seul-sur-mars-scott
+  label: Seul sur mars scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-et-l-ordre-du-phenix-yates
+  label: Harry potter et l ordre du phenix yates
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quelques-jours-vienne
+  label: Quelques jours vienne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tete-de-turc-elbe
+  label: Tete de turc elbe
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/black-swan-aronofsky
+  label: Black swan aronofsky
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/miraflores-lyon
+  label: Miraflores lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/22-11-63-king
+  label: 22 11 63 king
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/taupe-alfredson
+  label: Taupe alfredson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mulan-bancroft-cook
+  label: Mulan bancroft cook
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2013
+  label: Cinema best of 2013
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blanche-neige-sept-nains-hand
+  label: Blanche neige sept nains hand
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fast-furious-7-wan
+  label: Fast furious 7 wan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/loup-wall-street-scorsese
+  label: Loup wall street scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/demission-steve-jobs
+  label: Demission steve jobs
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kaboom-araki
+  label: Kaboom araki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mr-holmes-condon
+  label: Mr holmes condon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jour-sans-fin-ramis
+  label: Jour sans fin ramis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/her-jonze
+  label: Her jonze
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/horde-proshkin
+  label: Horde proshkin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shrek-troisieme-miler-hui
+  label: Shrek troisieme miler hui
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/a-la-merveille-malick
+  label: A la merveille malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/time-out-niccol
+  label: Time out niccol
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alabama-monroe-van-groeningen
+  label: Alabama monroe van groeningen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jamais-plus-jamais-kershner
+  label: Jamais plus jamais kershner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hellboy-toro
+  label: Hellboy toro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/populaire-roinsard
+  label: Populaire roinsard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fabrik-lyon
+  label: Fabrik lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-chat-potte-dreamworks
+  label: Le chat potte dreamworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/isteve-funny-or-die
+  label: Isteve funny or die
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twilight-3-hesitation-slade
+  label: Twilight 3 hesitation slade
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/melancholia-trier
+  label: Melancholia trier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/luther-cross-bbc
+  label: Luther cross bbc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-caraibes-secret-coffre-maudit-verbinski
+  label: Pirates caraibes secret coffre maudit verbinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lulu-femme-nue-anspach
+  label: Lulu femme nue anspach
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/holy-motors-carax
+  label: Holy motors carax
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-vie-des-autres-donnersmarck
+  label: La vie des autres donnersmarck
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elephant-van-sant
+  label: Elephant van sant
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/voyage-chihiro-miyazaki
+  label: Voyage chihiro miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-grotte-saint-loup-caluire
+  label: La grotte saint loup caluire
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mommy-dolan
+  label: Mommy dolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alien-huitieme-passager-scott
+  label: Alien huitieme passager scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/insaisissables-leterrier
+  label: Insaisissables leterrier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/red-schwentke
+  label: Red schwentke
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terminator-2-jugement-dernier-cameron
+  label: Terminator 2 jugement dernier cameron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2014
+  label: Cinema best of 2014
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/queen-frears
+  label: Queen frears
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/seven-fincher
+  label: Seven fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/u-ricantu-calvi
+  label: U ricantu calvi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/criminel-welles
+  label: Criminel welles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/american-bluff-russell
+  label: American bluff russell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/crimson-peak-toro
+  label: Crimson peak toro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/james-bond-007-contre-dr-no-young
+  label: James bond 007 contre dr no young
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/real-steel-levy
+  label: Real steel levy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sentiers-gloire-kubrick
+  label: Sentiers gloire kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/promised-land-van-sant
+  label: Promised land van sant
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hercule-musker-clements
+  label: Hercule musker clements
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/enfant-haut-meier
+  label: Enfant haut meier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bistrot-maquignons-lyon
+  label: Bistrot maquignons lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/memphis-coffee-venissieux
+  label: Memphis coffee venissieux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gardiens-galaxie-gunn
+  label: Gardiens galaxie gunn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/skyfall-mendes
+  label: Skyfall mendes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/iron-man-2-favreau
+  label: Iron man 2 favreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-justes-theatre-colline
+  label: Les justes theatre colline
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/princesse-mononoke-miyazaki
+  label: Princesse mononoke miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/battle-royale-fukasaku
+  label: Battle royale fukasaku
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/14-echenoz
+  label: 14 echenoz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-apaches-peretti
+  label: Les apaches peretti
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/solaris-soderbergh
+  label: Solaris soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/walk-rever-plus-haut-zemeckis
+  label: Walk rever plus haut zemeckis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mission-impossible-protocole-fantome-bird
+  label: Mission impossible protocole fantome bird
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/imouto-lyon
+  label: Imouto lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/three-silver-mt-zion-alhambra-mars-2010
+  label: Three silver mt zion alhambra mars 2010
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/effets-secondaires-soderbergh
+  label: Effets secondaires soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/petit-homme-musique-participative
+  label: Petit homme musique participative
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ivresse-entre-amis-swanberg
+  label: Ivresse entre amis swanberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/prisoners-villeneuve
+  label: Prisoners villeneuve
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oxygene-van-nuffel
+  label: Oxygene van nuffel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fantastic-fox-anderson
+  label: Fantastic fox anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oss-117-hazanavicius
+  label: Oss 117 hazanavicius
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sunshine-boyle
+  label: Sunshine boyle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planete-singes-burton
+  label: Planete singes burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cantinho-portugal-lyon
+  label: Cantinho portugal lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dark-knight-rises-nolan
+  label: Dark knight rises nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rango-verbinski
+  label: Rango verbinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twixt-coppola
+  label: Twixt coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-diamants-sont-eternels-hamilton
+  label: Les diamants sont eternels hamilton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kick-ass-2-wadlow
+  label: Kick ass 2 wadlow
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sermon-chute-rome-ferrari
+  label: Sermon chute rome ferrari
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bad-lieutenant-escale-nouvelle-orleans-herzog
+  label: Bad lieutenant escale nouvelle orleans herzog
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/godpseed-you-black-emperor-halle-villette-janvier-2011
+  label: Godpseed you black emperor halle villette janvier 2011
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/au-14-fevrier-lyon
+  label: Au 14 fevrier lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/night-call-gilroy
+  label: Night call gilroy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/comptoir-saint-cyr-mont-or
+  label: Comptoir saint cyr mont or
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alice-au-pays-des-merveilles-burton
+  label: Alice au pays des merveilles burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact-zemeckis
+  label: Contact zemeckis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ali-mann
+  label: Ali mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cars-2-lewis-lasseter
+  label: Cars 2 lewis lasseter
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fantasia-sharpsteen
+  label: Fantasia sharpsteen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-vengeance-dans-la-peau-greengrass
+  label: La vengeance dans la peau greengrass
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/million-mots
+  label: Million mots
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/toute-premiere-fois-saglio-govare
+  label: Toute premiere fois saglio govare
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/illusionniste-chomet
+  label: Illusionniste chomet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/apocalypse-now-redux-coppola
+  label: Apocalypse now redux coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/orange-mecanique-kubrick
+  label: Orange mecanique kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sherlock-holmes-jeu-ombres-ritchie
+  label: Sherlock holmes jeu ombres ritchie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-reine-des-neiges-buck-lee
+  label: La reine des neiges buck lee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pretty-woman-marshall
+  label: Pretty woman marshall
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fight-club-fincher
+  label: Fight club fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/red-riding-trilogy-1974-jarrold
+  label: Red riding trilogy 1974 jarrold
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/prometheus-scott
+  label: Prometheus scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/daybreakers-spierig
+  label: Daybreakers spierig
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/il-faut-sauver-le-soldat-ryan-spielberg
+  label: Il faut sauver le soldat ryan spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amazing-spider-man-webb
+  label: Amazing spider man webb
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/maps-stars-cronenberg
+  label: Maps stars cronenberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spartacus-kubrick
+  label: Spartacus kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/descendants-payne
+  label: Descendants payne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/casa-flavio-lyon
+  label: Casa flavio lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/green-hornet-gondry
+  label: Green hornet gondry
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/saludos-amigos-ferguson
+  label: Saludos amigos ferguson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/men-in-black-3-sonnenfeld
+  label: Men in black 3 sonnenfeld
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/speed-racer-wachowski
+  label: Speed racer wachowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hunger-games-ross
+  label: Hunger games ross
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sucker-punch-snyder
+  label: Sucker punch snyder
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/drei-tykwer
+  label: Drei tykwer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/a-touch-of-sin-zhang-ke
+  label: A touch of sin zhang ke
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/st-vincent-melfi
+  label: St vincent melfi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/invictus-clint-eastwood
+  label: Invictus clint eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spartacus-deknight-starz
+  label: Spartacus deknight starz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-2-attaque-clones-lucas
+  label: Star wars episode 2 attaque clones lucas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/messmer-intemporel-lyon-fevrier-2015
+  label: Messmer intemporel lyon fevrier 2015
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/helix-porsandeh-syfy
+  label: Helix porsandeh syfy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/our-little-differences-michel
+  label: Our little differences michel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mission-impossible-rogue-nation-mcquarrie
+  label: Mission impossible rogue nation mcquarrie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rover-michod
+  label: Rover michod
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aladdin-musker-clements
+  label: Aladdin musker clements
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/merditude-choses-groeningen
+  label: Merditude choses groeningen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mammuth-delepine-kervern
+  label: Mammuth delepine kervern
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/biutiful-inarritu
+  label: Biutiful inarritu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/homesman-lee-jones
+  label: Homesman lee jones
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pater-cavalier
+  label: Pater cavalier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hunger-games-embrasement-lawrence
+  label: Hunger games embrasement lawrence
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sicario-villeneuve
+  label: Sicario villeneuve
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/julieta-almodovar
+  label: Julieta almodovar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/memento-nolan
+  label: Memento nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nouveaux-heros-hall-williams
+  label: Nouveaux heros hall williams
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ultime-razzia-kubrick
+  label: Ultime razzia kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cowboys-envahisseurs-favreau
+  label: Cowboys envahisseurs favreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monty-pythons-sacre-graal
+  label: Monty pythons sacre graal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/imitation-game-tyldum
+  label: Imitation game tyldum
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/insomnia-nolan
+  label: Insomnia nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/que-ma-joie-demeure-astier-lyon
+  label: Que ma joie demeure astier lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/yellow-birds-power
+  label: Yellow birds power
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/temps-modernes-chaplin
+  label: Temps modernes chaplin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mon-pere-va-me-tuer-cipri
+  label: Mon pere va me tuer cipri
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/noces-funebres-burton-johnson
+  label: Noces funebres burton johnson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/raiponce-disney
+  label: Raiponce disney
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pacific-rim-toro
+  label: Pacific rim toro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/voyage-arlo-sohn
+  label: Voyage arlo sohn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-affrontement-final-ratner
+  label: X men affrontement final ratner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/huit-et-demi-fellini
+  label: Huit et demi fellini
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/in-another-country-sang-soo
+  label: In another country sang soo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monde-suffit-pas-apted
+  label: Monde suffit pas apted
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/camionnette-lyon
+  label: Camionnette lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moon-jones
+  label: Moon jones
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/triskell-nevez
+  label: Triskell nevez
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inferno-brown
+  label: Inferno brown
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/samsara-fricke
+  label: Samsara fricke
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trilogie-matrix-wachowski
+  label: Trilogie matrix wachowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/agence-nolfi
+  label: Agence nolfi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/etrange-pouvoir-norman-fell-butler
+  label: Etrange pouvoir norman fell butler
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/boite-musique-kinney-geronimi-luske-meador-cormack
+  label: Boite musique kinney geronimi luske meador cormack
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rocky-2-revanche-stallone
+  label: Rocky 2 revanche stallone
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-diner-de-cons-veber
+  label: Le diner de cons veber
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/enemy-villeneuve
+  label: Enemy villeneuve
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/how-to-get-away-with-murder-nowalk-abc
+  label: How to get away with murder nowalk abc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shutter-island-scorsese
+  label: Shutter island scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-vie-est-un-long-fleuve-tranquille-chatiliez
+  label: La vie est un long fleuve tranquille chatiliez
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/no-larrain
+  label: No larrain
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jobs-stern
+  label: Jobs stern
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/top-gun-scott
+  label: Top gun scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/homme-irrationnel-allen
+  label: Homme irrationnel allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-housemaid-sang-soo
+  label: The housemaid sang soo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bien-aimes-honore
+  label: Bien aimes honore
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/public-enemies-mann
+  label: Public enemies mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/operation-tonerre-young
+  label: Operation tonerre young
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hobbit-desolation-smaug-jackson
+  label: Hobbit desolation smaug jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-insurrection-frakes
+  label: Star trek insurrection frakes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/winter-sleep-ceylan
+  label: Winter sleep ceylan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/horizons-detroit-cantat-humbert
+  label: Horizons detroit cantat humbert
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/thank-you-for-smoking-reitman
+  label: Thank you for smoking reitman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/papa-maman-bourboulon
+  label: Papa maman bourboulon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/anna-karenine-wright
+  label: Anna karenine wright
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nuit-enfer-rodriguez
+  label: Nuit enfer rodriguez
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jour-de-marche-lyon
+  label: Jour de marche lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bibliotheque-infernale-jomunsi
+  label: Bibliotheque infernale jomunsi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/et-maintenant-on-va-ou-labaki
+  label: Et maintenant on va ou labaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/full-metal-jacket-kubrick
+  label: Full metal jacket kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sleepy-hollow-legende-cavalier-sans-tete-burton
+  label: Sleepy hollow legende cavalier sans tete burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rheingold-wagner-metropolitan-opera
+  label: Rheingold wagner metropolitan opera
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/birdman-inarritu
+  label: Birdman inarritu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amour-haneke-palme-or-2012
+  label: Amour haneke palme or 2012
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/independence-day-emmerich
+  label: Independence day emmerich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/control-corbijn
+  label: Control corbijn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planete-singes-origines-wyatt
+  label: Planete singes origines wyatt
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/towards-we-were-evergreen
+  label: Towards we were evergreen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monstres-contre-aliens-dreamworks
+  label: Monstres contre aliens dreamworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sexy-dance-3-battle-chu
+  label: Sexy dance 3 battle chu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/affair-treem-levi-showtime
+  label: Affair treem levi showtime
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dernier-maitre-air-shyamalan
+  label: Dernier maitre air shyamalan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/eskis-lyon
+  label: Eskis lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nuits-fauve-tony-garnier-2015
+  label: Nuits fauve tony garnier 2015
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/basic-instinct-verhoeven
+  label: Basic instinct verhoeven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fargo-hawley-fx
+  label: Fargo hawley fx
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cloclo-siri
+  label: Cloclo siri
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/piranha-3d-aja
+  label: Piranha 3d aja
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/no-country-for-old-men-coen
+  label: No country for old men coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/batman-begins-nolan
+  label: Batman begins nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/parrain-coppola
+  label: Parrain coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wolf-hall-kosminsky-bbc
+  label: Wolf hall kosminsky bbc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/evil-dead-raimi
+  label: Evil dead raimi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tuer-pas-jouer-glen
+  label: Tuer pas jouer glen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-places-avant-premiere-social-network
+  label: Concours places avant premiere social network
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/carte-territoire-houellebecq
+  label: Carte territoire houellebecq
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-cinquieme-element-besson
+  label: Le cinquieme element besson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rouille-os-audiard
+  label: Rouille os audiard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/labyrinthe-pan-toro
+  label: Labyrinthe pan toro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/battleship-berg
+  label: Battleship berg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shining-kubrick
+  label: Shining kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/guerre
+  label: Guerre
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/agents-tres-speciaux-code-uncle-ritchie
+  label: Agents tres speciaux code uncle ritchie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pierre-et-martine-lyon
+  label: Pierre et martine lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/agence-tous-risques-carnahan
+  label: Agence tous risques carnahan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/charlie
+  label: Charlie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/frankenweenie-burton
+  label: Frankenweenie burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/watchmen-gardiens-snyder
+  label: Watchmen gardiens snyder
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/miller-s-crossing-coen
+  label: Miller s crossing coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sixieme-sens-mann
+  label: Sixieme sens mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/magasin-suicides-leconte
+  label: Magasin suicides leconte
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/flight-zemeckis
+  label: Flight zemeckis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rebelle-andrews-chapman
+  label: Rebelle andrews chapman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/j-edgar-eastwood
+  label: J edgar eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/prestige-nolan
+  label: Prestige nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/carlos-assayas
+  label: Carlos assayas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jack-reacher-mcquarrie
+  label: Jack reacher mcquarrie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gravity-cuaron
+  label: Gravity cuaron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mysterious-skin-arak
+  label: Mysterious skin arak
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-7-partie-1-yates
+  label: Harry potter 7 partie 1 yates
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/recovery-eminem
+  label: Recovery eminem
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/top-10-bof
+  label: Top 10 bof
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/octopussy-glen
+  label: Octopussy glen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hunger-games-revolte-partie-2-lawrence
+  label: Hunger games revolte partie 2 lawrence
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/take-shelter-nichols
+  label: Take shelter nichols
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chico-rita-trueba-mariscal
+  label: Chico rita trueba mariscal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/snatch-braques-raques-ritchie
+  label: Snatch braques raques ritchie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cars-lasseter
+  label: Cars lasseter
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rush-howard
+  label: Rush howard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/livre-jungle-favreau
+  label: Livre jungle favreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/film-socialisme-godard
+  label: Film socialisme godard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cartel-scott
+  label: Cartel scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/robocop-padilha
+  label: Robocop padilha
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/flair-lyon
+  label: Flair lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/money-monster-foster
+  label: Money monster foster
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fargo-coen
+  label: Fargo coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/midnight-special-nichols
+  label: Midnight special nichols
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/toy-story-pixar
+  label: Toy story pixar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/iceo-lyon
+  label: Iceo lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/a-bout-de-souffle-godard
+  label: A bout de souffle godard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/stromae
+  label: Stromae
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tron-heritage-kosinski
+  label: Tron heritage kosinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rio-saldanha
+  label: Rio saldanha
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/seigneur-anneaux-deux-tours-jackson
+  label: Seigneur anneaux deux tours jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/personnes-boltanski-grand-palais
+  label: Personnes boltanski grand palais
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jean-moulin-lyon
+  label: Jean moulin lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hong-ha-lyon
+  label: Hong ha lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-silicon-valley-burke
+  label: Pirates silicon valley burke
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chicken-run-lord-park
+  label: Chicken run lord park
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sense8-straczynski-wachowski-netflix
+  label: Sense8 straczynski wachowski netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/joueurs-dahl
+  label: Joueurs dahl
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/usual-suspects-singer
+  label: Usual suspects singer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fast-and-furious-6-lin
+  label: Fast and furious 6 lin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lobster-lanthimos
+  label: Lobster lanthimos
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/reconfort-lyon
+  label: Reconfort lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/buried-cortes
+  label: Buried cortes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rosemary-s-baby-polanski
+  label: Rosemary s baby polanski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/essential-killing-skolimowski
+  label: Essential killing skolimowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/guerre-declaree-donzelli
+  label: Guerre declaree donzelli
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cendrillon-geronimi-jackson-luske
+  label: Cendrillon geronimi jackson luske
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/white-house-down-emmerich
+  label: White house down emmerich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/what-richard-did-abrahamson
+  label: What richard did abrahamson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scream-craven
+  label: Scream craven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cabaret-electrique
+  label: Cabaret electrique
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dumbo-sharpsteen
+  label: Dumbo sharpsteen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/victoria-hall-lyon
+  label: Victoria hall lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/serial-koenig
+  label: Serial koenig
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chez-angele-riec-sur-belon
+  label: Chez angele riec sur belon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tete-haute-bercot
+  label: Tete haute bercot
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mad-max-miller
+  label: Mad max miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jason-bourne-heritage-gilroy
+  label: Jason bourne heritage gilroy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vie-volee-mangold
+  label: Vie volee mangold
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trilogie-spider-man-raimi
+  label: Trilogie spider man raimi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-into-darkness-abrams
+  label: Star trek into darkness abrams
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/unstoppable-scott
+  label: Unstoppable scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/utopia-kelly-channel-4
+  label: Utopia kelly channel 4
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shrek-4-dreamworks
+  label: Shrek 4 dreamworks
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-v-ultime-frontiere-shatner
+  label: Star trek v ultime frontiere shatner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trois-caballeros-ferguson
+  label: Trois caballeros ferguson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sur-le-chemin-des-dunes-defurne
+  label: Sur le chemin des dunes defurne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/under-skin-glazer
+  label: Under skin glazer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/meilleures-amies-feig
+  label: Meilleures amies feig
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ivresse-argent-sang-soo
+  label: Ivresse argent sang soo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ex-machina-garland
+  label: Ex machina garland
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/arrive-pres-chez-vous-belvaux-bonzel-poelvoorde
+  label: Arrive pres chez vous belvaux bonzel poelvoorde
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vanilla-sky-crowe
+  label: Vanilla sky crowe
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/transformers-3-face-cachee-lune-bay
+  label: Transformers 3 face cachee lune bay
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ourson-qui-boit-lyon
+  label: Ourson qui boit lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/labyrinthe-terre-brulee-ball
+  label: Labyrinthe terre brulee ball
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-chute-de-la-maison-blanche-fuqua
+  label: La chute de la maison blanche fuqua
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/baiser-tueur-kubrick
+  label: Baiser tueur kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/au-dela-eastwood
+  label: Au dela eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/charlemagne-pernand-vergelesses
+  label: Charlemagne pernand vergelesses
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dictator-charles
+  label: Dictator charles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/conjuring-les-dossiers-warren-wan
+  label: Conjuring les dossiers warren wan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/game-fincher
+  label: Game fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planes-hall
+  label: Planes hall
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/intouchables-toledano-nakache
+  label: Intouchables toledano nakache
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/choc-titans-leterrier
+  label: Choc titans leterrier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mad-men-weiner-amc
+  label: Mad men weiner amc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sur-route-madison-eastwood
+  label: Sur route madison eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gemma-bovery-fontaine
+  label: Gemma bovery fontaine
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/breaking-bad-gilligan
+  label: Breaking bad gilligan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monde-fantastique-oz-raimi
+  label: Monde fantastique oz raimi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-premier-contact-frakes
+  label: Star trek premier contact frakes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/philadelphia-demme
+  label: Philadelphia demme
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nebraska-payne
+  label: Nebraska payne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sans-identite-collet-serra
+  label: Sans identite collet serra
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nam-lyon
+  label: Nam lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amours-imaginaires-dolan
+  label: Amours imaginaires dolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/toy-story-3-unkrich
+  label: Toy story 3 unkrich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ripd-brigade-fantome-schwentke
+  label: Ripd brigade fantome schwentke
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mary-tout-prix-farrelly
+  label: Mary tout prix farrelly
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/exodus-gods-kings-scott
+  label: Exodus gods kings scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-vie-aquatique-anderson
+  label: La vie aquatique anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tolstoi-dernier-automne-hoffman
+  label: Tolstoi dernier automne hoffman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bossu-de-notre-dame-trousdale-wise
+  label: Bossu de notre dame trousdale wise
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/magic-moonlight-allen
+  label: Magic moonlight allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/menomena-junip-fleche-or-juin-2010
+  label: Menomena junip fleche or juin 2010
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vivre-et-laisser-mourir-hamilton
+  label: Vivre et laisser mourir hamilton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fast-and-furious-5-lin
+  label: Fast and furious 5 lin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wall-street-stone
+  label: Wall street stone
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/master-none-ansari-yang-netflix
+  label: Master none ansari yang netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/anatomie-du-cauchemar
+  label: Anatomie du cauchemar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/timbuktu-sissako
+  label: Timbuktu sissako
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-origins-wolverine-hood
+  label: X men origins wolverine hood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-rolling-cantine-lyon
+  label: The rolling cantine lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hobbit-bataille-cinq-armees-jackson
+  label: Hobbit bataille cinq armees jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/restaurant-campagne-lyon
+  label: Restaurant campagne lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oceans-perrin-cluzaud
+  label: Oceans perrin cluzaud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aristochats-reitherman
+  label: Aristochats reitherman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fils-saul-nemes
+  label: Fils saul nemes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/porco-rosso-miyazaki
+  label: Porco rosso miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/there-will-be-blood-anderson
+  label: There will be blood anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cafe-society-allen
+  label: Cafe society allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tel-pere-tel-fils-koreeda
+  label: Tel pere tel fils koreeda
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bieh-lyon
+  label: Bieh lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/barry-lyndon-kubrick
+  label: Barry lyndon kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/true-blood-saison-1-hbo
+  label: True blood saison 1 hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/congres-folman
+  label: Congres folman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hijacking-lindholm
+  label: Hijacking lindholm
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-croods-sanders-demicco
+  label: Les croods sanders demicco
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/where-the-wild-things-are-karen-o
+  label: Where the wild things are karen o
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alice-pays-merveilles-geronimi-jackson-luske
+  label: Alice pays merveilles geronimi jackson luske
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/h2g2-guide-voyageur-galactique-jennings
+  label: H2g2 guide voyageur galactique jennings
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ete-osage-county-wells
+  label: Ete osage county wells
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cesar-oscars-2012-hommage
+  label: Cesar oscars 2012 hommage
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-3-revanche-sith-lucas
+  label: Star wars episode 3 revanche sith lucas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/breathless-ik-june
+  label: Breathless ik june
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-vent-se-leve-miyazaki
+  label: Le vent se leve miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/beijing8-lyon
+  label: Beijing8 lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kick-ass-vaughn
+  label: Kick ass vaughn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/heat-mann
+  label: Heat mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/john-carter-stanton
+  label: John carter stanton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/company-men-wells
+  label: Company men wells
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mac-bourdiaux
+  label: Mac bourdiaux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bad-boys-bay
+  label: Bad boys bay
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sentiers-perdition-mendes
+  label: Sentiers perdition mendes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/venise
+  label: Venise
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cleveland-wall-street-bron
+  label: Cleveland wall street bron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/transperceneige-lob-rochette-legrand
+  label: Transperceneige lob rochette legrand
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/neds-mullan
+  label: Neds mullan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/2001-odyssee-espace-kubrick
+  label: 2001 odyssee espace kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-7-reliques-mort-partie-2-yates
+  label: Harry potter 7 reliques mort partie 2 yates
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/indestructibles-bird
+  label: Indestructibles bird
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/soulages-beaubourg
+  label: Soulages beaubourg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/starbuck-scott
+  label: Starbuck scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/casino-scorsese
+  label: Casino scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lord-of-war-niccol
+  label: Lord of war niccol
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/batman-robin-schumacher
+  label: Batman robin schumacher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/garcons-guillaume-table-gallienne
+  label: Garcons guillaume table gallienne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/big-lebowski-coen
+  label: Big lebowski coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/infiltres-scorsese
+  label: Infiltres scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/polisse-maiwenn
+  label: Polisse maiwenn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/visiteurs-poire
+  label: Visiteurs poire
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chic-type-moland
+  label: Chic type moland
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-et-la-coupe-de-feu-newell
+  label: Harry potter et la coupe de feu newell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/livre-peurs-primaires-vissac
+  label: Livre peurs primaires vissac
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/odyssee-pi-lee
+  label: Odyssee pi lee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/plaisir-du-jeu
+  label: Plaisir du jeu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/burger-king-lyon
+  label: Burger king lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-caraibes-malediction-black-pearl-verbinski
+  label: Pirates caraibes malediction black pearl verbinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zone-dehors-damasio
+  label: Zone dehors damasio
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ecailleur-honfleur
+  label: Ecailleur honfleur
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/better-call-saul-gilligan-gould-amc
+  label: Better call saul gilligan gould amc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shrek-adamson-jenson
+  label: Shrek adamson jenson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ma-vie-avec-liberace-soderbergh
+  label: Ma vie avec liberace soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tarzan-buck-lima
+  label: Tarzan buck lima
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/28-jours-plus-tard-boyle
+  label: 28 jours plus tard boyle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gonzo-lubitsch-incroyable-odyssee-harkaway
+  label: Gonzo lubitsch incroyable odyssee harkaway
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/match-point-allen
+  label: Match point allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pink-floyd-the-wall-parker
+  label: Pink floyd the wall parker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quai-orsay-chroniques-diplomatiques-lanzac-blain
+  label: Quai orsay chroniques diplomatiques lanzac blain
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/v-pour-vendetta-mcteigue
+  label: V pour vendetta mcteigue
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pinocchio-luske-sharpsteen
+  label: Pinocchio luske sharpsteen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hobbit-voyage-inattendu-jackson
+  label: Hobbit voyage inattendu jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jony-ive-genial-designer-apple-kahney
+  label: Jony ive genial designer apple kahney
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/batman-burton
+  label: Batman burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rox-rouky-berman-rich-stevens
+  label: Rox rouky berman rich stevens
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moi-moche-mechant-coffin-renaud
+  label: Moi moche mechant coffin renaud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/quai-orsay-tavernier
+  label: Quai orsay tavernier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/iron-man-3-black
+  label: Iron man 3 black
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/007-spectre-mendes
+  label: 007 spectre mendes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/millenium-hommes-aimaient-pas-femmes-fincher
+  label: Millenium hommes aimaient pas femmes fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/toy-story-2-lasseter-brannon-unkrich
+  label: Toy story 2 lasseter brannon unkrich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/assiette-du-vin-lyon
+  label: Assiette du vin lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/it-follows-mitchell
+  label: It follows mitchell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/betes-sud-sauvage-zeitlin
+  label: Betes sud sauvage zeitlin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hellboy-2-legions-or-maudites-toro
+  label: Hellboy 2 legions or maudites toro
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kubrick-cinematheque-francaise
+  label: Kubrick cinematheque francaise
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/espion-aimait-gilbert
+  label: Espion aimait gilbert
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/un-monde-sans-ciel
+  label: Un monde sans ciel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/38-temoins-belvaux
+  label: 38 temoins belvaux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monstres-academy-scanlon
+  label: Monstres academy scanlon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/marguerite-giannoli
+  label: Marguerite giannoli
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/red-riding-trilogy-1983-tucker
+  label: Red riding trilogy 1983 tucker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rubber-dupieux
+  label: Rubber dupieux
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/table-suzanne-lyon
+  label: Table suzanne lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/black-rain-scott
+  label: Black rain scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/etrange-histoire-benjamin-button-fincher
+  label: Etrange histoire benjamin button fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/entrecote-lyon
+  label: Entrecote lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/exercice-etat-schoeller
+  label: Exercice etat schoeller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-et-la-chambre-des-secrets-colombus
+  label: Harry potter et la chambre des secrets colombus
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/monstres-et-cie-docter-silverman-unkrich
+  label: Monstres et cie docter silverman unkrich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/albert-nobbs-garcia
+  label: Albert nobbs garcia
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ipad-deux-ans-apres
+  label: Ipad deux ans apres
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/parrain-partie-3-coppola
+  label: Parrain partie 3 coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/brunoise-villeurbanne
+  label: Brunoise villeurbanne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/only-god-forgives-winding-refn
+  label: Only god forgives winding refn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tron-lisberger
+  label: Tron lisberger
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dan-berglund-tonbruket
+  label: Dan berglund tonbruket
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/thor-branagh
+  label: Thor branagh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/detective-dee-hark
+  label: Detective dee hark
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/i-love-you-phillip-morris-ficarra-requa
+  label: I love you phillip morris ficarra requa
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kuzco-empereur-megalo-dindal
+  label: Kuzco empereur megalo dindal
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jessica-jones-rosenberg-netflix
+  label: Jessica jones rosenberg netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amour-dure-trois-ans-beigbeder
+  label: Amour dure trois ans beigbeder
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-6-retour-jedi-marquand
+  label: Star wars episode 6 retour jedi marquand
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shame-mcqueen
+  label: Shame mcqueen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kos-i-lyon
+  label: Kos i lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/coup-de-coeur-coppola
+  label: Coup de coeur coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-et-le-prisonnier-d-azkaban-cuaron
+  label: Harry potter et le prisonnier d azkaban cuaron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ave-cesar-coen
+  label: Ave cesar coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lola-mendoza
+  label: Lola mendoza
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dragons-deblois-sanders
+  label: Dragons deblois sanders
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/seigneur-anneaux-retour-roi-jackson
+  label: Seigneur anneaux retour roi jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/a-single-man-ford
+  label: A single man ford
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/une-separation-farhadi
+  label: Une separation farhadi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/orange-is-the-new-black-kohan-netflix
+  label: Orange is the new black kohan netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ilo-ilo-chen
+  label: Ilo ilo chen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/soul-kitchen-akin
+  label: Soul kitchen akin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/restless-van-sant
+  label: Restless van sant
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spring-breakers-korine
+  label: Spring breakers korine
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jeune-et-jolie-ozon
+  label: Jeune et jolie ozon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aningaaq-cuaron
+  label: Aningaaq cuaron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/spirit-bird-rudd
+  label: Spirit bird rudd
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/concours-benda-bilili
+  label: Concours benda bilili
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/goldeneye-campbell
+  label: Goldeneye campbell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/social-network-fincher
+  label: Social network fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-generations-carson
+  label: Star trek generations carson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elysium-blomkamp
+  label: Elysium blomkamp
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/je-suis-rage-jomunsi
+  label: Je suis rage jomunsi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nom-rose-annaud
+  label: Nom rose annaud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/princesse-grenouille-walt-disney
+  label: Princesse grenouille walt disney
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/crazy-vallee
+  label: Crazy vallee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/miami-vice-deux-flics-miami-mann
+  label: Miami vice deux flics miami mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/attack-the-block-cornish
+  label: Attack the block cornish
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/assassinat-jesse-james-lache-robert-ford-dominik
+  label: Assassinat jesse james lache robert ford dominik
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-chaser-hong-jin-na
+  label: The chaser hong jin na
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/green-zone-greengrass
+  label: Green zone greengrass
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kingdom-heaven-scott
+  label: Kingdom heaven scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wikio-cinema-top-avril-2011
+  label: Wikio cinema top avril 2011
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tom-ferme-dolan
+  label: Tom ferme dolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gainsbourg-vie-heroique-sfar
+  label: Gainsbourg vie heroique sfar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chez-paul-lyon
+  label: Chez paul lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/adrienn-pal-kocsis
+  label: Adrienn pal kocsis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/white-white-world-novkovic
+  label: White white world novkovic
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/4-fantastiques-trank
+  label: 4 fantastiques trank
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/talisman-pont-aven
+  label: Talisman pont aven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/super-8-abrams
+  label: Super 8 abrams
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dernier-combat-besson
+  label: Dernier combat besson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/10-films-animation
+  label: 10 films animation
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moonrise-kingdom-anderson
+  label: Moonrise kingdom anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/prince-persia-sable-temps-newell
+  label: Prince persia sable temps newell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/homme-pistolet-or-hamilton
+  label: Homme pistolet or hamilton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-cabane-dans-les-bois-goddard
+  label: La cabane dans les bois goddard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/american-beauty-mendes
+  label: American beauty mendes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-7-reveil-force-abrams
+  label: Star wars episode 7 reveil force abrams
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/robocop-verhoeven
+  label: Robocop verhoeven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/peut-on-se-passer-de-google
+  label: Peut on se passer de google
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/connasse-princesse-coeurs-lang-saglio
+  label: Connasse princesse coeurs lang saglio
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chant-sirenes-orelsan
+  label: Chant sirenes orelsan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/client-schumacher
+  label: Client schumacher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moulin-rosmadec-pont-aven
+  label: Moulin rosmadec pont aven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dheepan-audiard
+  label: Dheepan audiard
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/machete-rodriguez-maniquis
+  label: Machete rodriguez maniquis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/musique-2010-dix-albums
+  label: Musique 2010 dix albums
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/animal-kingdom-michod
+  label: Animal kingdom michod
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oto-oto-lyon
+  label: Oto oto lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/edge-uchitel
+  label: Edge uchitel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/leon-besson
+  label: Leon besson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fauve
+  label: Fauve
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vivre-sans-ordinateur-mais-avec-ipad
+  label: Vivre sans ordinateur mais avec ipad
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chats-siamois-lyon
+  label: Chats siamois lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dark-knight-chevalier-noir-nolan
+  label: Dark knight chevalier noir nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zack-miri-porno-smith
+  label: Zack miri porno smith
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chronicle-trank
+  label: Chronicle trank
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/knight-cups-malick
+  label: Knight cups malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/execution-ordinaire-dugain
+  label: Execution ordinaire dugain
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/raffineuses-lyon
+  label: Raffineuses lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/to-rome-with-love-allen
+  label: To rome with love allen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/volver-almodovar
+  label: Volver almodovar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/derniere-bd-fin-monde-maric-yigael
+  label: Derniere bd fin monde maric yigael
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/yves-saint-laurent-lespert
+  label: Yves saint laurent lespert
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wolfman-johnston
+  label: Wolfman johnston
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/magic-mike-xxl-jacobs
+  label: Magic mike xxl jacobs
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/charlie-chocolaterie-burton
+  label: Charlie chocolaterie burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/erin-brockovich-seule-contre-tous-soderbergh
+  label: Erin brockovich seule contre tous soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mon-donjon-mon-dragon-peschet
+  label: Mon donjon mon dragon peschet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/age-glace-4-derive-continents-martino-thurmeier
+  label: Age glace 4 derive continents martino thurmeier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/django-unchained-tarantino
+  label: Django unchained tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/infernal-affairs-lau-mak
+  label: Infernal affairs lau mak
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/whiplash-chazelle
+  label: Whiplash chazelle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/margin-call-chandor
+  label: Margin call chandor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/potager-city
+  label: Potager city
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hasta-la-vista-enthoven
+  label: Hasta la vista enthoven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/free-fall-lacant
+  label: Free fall lacant
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jurassic-park-iii-johnston
+  label: Jurassic park iii johnston
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/carmina-burana-orff-fourviere-juin-2011
+  label: Carmina burana orff fourviere juin 2011
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/piegee-soderbergh
+  label: Piegee soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planete-singes-schaffner
+  label: Planete singes schaffner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/frere-ours-blaise-walker
+  label: Frere ours blaise walker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/city-life-death-lu
+  label: City life death lu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tigre-et-dragon-2-yuen
+  label: Tigre et dragon 2 yuen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/partition-inachevee-paskaljevic
+  label: Partition inachevee paskaljevic
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/troie-petersen
+  label: Troie petersen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moissons-ciel-malick
+  label: Moissons ciel malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terreur-dan-simmons
+  label: Terreur dan simmons
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/battlestar-galactica-moore
+  label: Battlestar galactica moore
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/corps-de-garde-saint-malo
+  label: Corps de garde saint malo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/permis-de-tuer-glen
+  label: Permis de tuer glen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pulp-fiction-tarantino
+  label: Pulp fiction tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aviator-scorsese
+  label: Aviator scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/barocco-saint-nicolas-macherin
+  label: Barocco saint nicolas macherin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chef-favreau
+  label: Chef favreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/romeo-juliette-luhrmann
+  label: Romeo juliette luhrmann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/killer-inside-me-winterbottom
+  label: Killer inside me winterbottom
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/magali-martin-lyon
+  label: Magali martin lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sixieme-sens-shyamalan
+  label: Sixieme sens shyamalan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pride-watchus
+  label: Pride watchus
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-monde-perdu-jurassic-park-spielberg
+  label: Le monde perdu jurassic park spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bambi-hand
+  label: Bambi hand
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dangerous-method-cronenberg
+  label: Dangerous method cronenberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/comtesse-delpy
+  label: Comtesse delpy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/divergente-2-insurrection
+  label: Divergente 2 insurrection
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/effervescence-lyon
+  label: Effervescence lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/delicatessen-caro-jeunet
+  label: Delicatessen caro jeunet
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/reservoir-dogs-tarantino
+  label: Reservoir dogs tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dernier-rite-cornwell
+  label: Dernier rite cornwell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/revelations-mann
+  label: Revelations mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/poison-violent-quillevere
+  label: Poison violent quillevere
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/marches-pouvoir-clooney
+  label: Marches pouvoir clooney
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/true-detective-pizzolatto-hbo
+  label: True detective pizzolatto hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/apollonide-souvenirs-maison-close-bonello
+  label: Apollonide souvenirs maison close bonello
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gangs-of-new-york-scorsese
+  label: Gangs of new york scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/journee-ile-groix
+  label: Journee ile groix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/american-sniper-eastwood
+  label: American sniper eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/peaky-blinders-knight-bbc
+  label: Peaky blinders knight bbc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gone-girl-fincher
+  label: Gone girl fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lolita-kubrick
+  label: Lolita kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bienvenue-a-gattaca-niccol
+  label: Bienvenue a gattaca niccol
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/captain-america-civil-war-russo
+  label: Captain america civil war russo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/parrain-partie-2-coppola
+  label: Parrain partie 2 coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/5150-rue-des-ormes-tessier
+  label: 5150 rue des ormes tessier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/closer-entre-adultes-consentants-nicchols
+  label: Closer entre adultes consentants nicchols
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/godzilla-edwards
+  label: Godzilla edwards
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aventures-bernard-et-bianca-reitherman-stevens-lounsbery
+  label: Aventures bernard et bianca reitherman stevens lounsbery
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jupiter-destin-univers-wachowski
+  label: Jupiter destin univers wachowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tree-of-life-malick
+  label: Tree of life malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/chateau-ambulant-miyazaki
+  label: Chateau ambulant miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-chevres-du-pentagone-heslov
+  label: Les chevres du pentagone heslov
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twilight-chapitre-5-revelation-2e-partie-condon
+  label: Twilight chapitre 5 revelation 2e partie condon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/destination-finale-5-quale
+  label: Destination finale 5 quale
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/iron-man-favreau
+  label: Iron man favreau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zootopie-howard-moore-bush
+  label: Zootopie howard moore bush
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/theo-hugo-meme-bateau-ducastel-martineau
+  label: Theo hugo meme bateau ducastel martineau
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/taram-chaudron-magique-berman-rich
+  label: Taram chaudron magique berman rich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kill-bill-tarantino
+  label: Kill bill tarantino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/seigneur-anneaux-communaute-anneau-jackson
+  label: Seigneur anneaux communaute anneau jackson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/princess-bride-reiner
+  label: Princess bride reiner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nouveau-monde-malick
+  label: Nouveau monde malick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/potiche-ozon
+  label: Potiche ozon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/knick-amiel-begler-cinemax
+  label: Knick amiel begler cinemax
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nemo-bruno
+  label: Nemo bruno
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harold-maude-ashby
+  label: Harold maude ashby
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scott-pilgrim-wright
+  label: Scott pilgrim wright
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-abrams
+  label: Star trek abrams
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/exoconference-astier-lyon-2015
+  label: Exoconference astier lyon 2015
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sur-ecoute-simon-hbo
+  label: Sur ecoute simon hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/habemus-papam-moretti
+  label: Habemus papam moretti
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/red-2-parisot
+  label: Red 2 parisot
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/robin-des-bois-reitherman
+  label: Robin des bois reitherman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/edge-of-tomorrow-liman
+  label: Edge of tomorrow liman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/source-code-jones
+  label: Source code jones
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/captain-america-soldat-hiver-russo
+  label: Captain america soldat hiver russo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tigre-et-dragon-lee
+  label: Tigre et dragon lee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/robin-des-bois-scott
+  label: Robin des bois scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/casino-royale-campbell
+  label: Casino royale campbell
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/visite-futuroscope
+  label: Visite futuroscope
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/teheran-homayoun
+  label: Teheran homayoun
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/elle-adore-herry
+  label: Elle adore herry
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/camille-claudel-1915-dumont
+  label: Camille claudel 1915 dumont
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ordre-morale-kassovitz
+  label: Ordre morale kassovitz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-grandmaster-wong-kar-wai
+  label: The grandmaster wong kar wai
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/discours-roi-hooper
+  label: Discours roi hooper
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wolverine-combat-immortel-mangold
+  label: Wolverine combat immortel mangold
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moment-lyon
+  label: Moment lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/main-dans-la-main-donzelli
+  label: Main dans la main donzelli
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/burn-after-reading-coen
+  label: Burn after reading coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aventures-tintin-secret-licorne-spielberg
+  label: Aventures tintin secret licorne spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-memoire-dans-la-peau-liman
+  label: La memoire dans la peau liman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/interstellar-nolan
+  label: Interstellar nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/leftovers-lindelof-perrotta-hbo
+  label: Leftovers lindelof perrotta hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/stratege-miller
+  label: Stratege miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dragons-2-deblois
+  label: Dragons 2 deblois
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/benda-bilili-barret-tullaye
+  label: Benda bilili barret tullaye
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ile-pirates-harlin
+  label: Ile pirates harlin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/theorie-information-bellanger
+  label: Theorie information bellanger
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mia-madre-moretti
+  label: Mia madre moretti
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/happy-feet-miller
+  label: Happy feet miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/million-dollar-baby-eastwood
+  label: Million dollar baby eastwood
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/panic-room-fincher
+  label: Panic room fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/casino-royale-huston-guest-hughes-mcgrath-parrish
+  label: Casino royale huston guest hughes mcgrath parrish
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/l-inconnu-du-lac-guiraudie
+  label: L inconnu du lac guiraudie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/host-bong
+  label: Host bong
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/walkyrie-singer
+  label: Walkyrie singer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/studio-ghibli-art-ludique-paris
+  label: Studio ghibli art ludique paris
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/musee-miniature-cinema-lyon
+  label: Musee miniature cinema lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alexandrin-lyon
+  label: Alexandrin lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dernier-exorcisme-stamm
+  label: Dernier exorcisme stamm
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-nemesis-baird
+  label: Star trek nemesis baird
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kinshasa-kids-wajnberg
+  label: Kinshasa kids wajnberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/persepolis-satrapi-paronnaud
+  label: Persepolis satrapi paronnaud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/grand-soir-delepine-kervern
+  label: Grand soir delepine kervern
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/olive-kitteridge-cholodenko-hbo
+  label: Olive kitteridge cholodenko hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/13-assassins-miike
+  label: 13 assassins miike
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/expendables-2-unite-speciale-west
+  label: Expendables 2 unite speciale west
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/captain-america-first-avenger-johnston
+  label: Captain america first avenger johnston
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/35-rhums-denis
+  label: 35 rhums denis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/citizenfour-poitras
+  label: Citizenfour poitras
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/harry-potter-et-le-prince-de-sang-mele-yates
+  label: Harry potter et le prince de sang mele yates
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/royaume-gahoole-legende-gardiens-snyder
+  label: Royaume gahoole legende gardiens snyder
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/serious-man-coen
+  label: Serious man coen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bons-baisers-russie-young
+  label: Bons baisers russie young
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/morille-lyon
+  label: Morille lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/taxi-teheran-panahi
+  label: Taxi teheran panahi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/meme-la-pluie-bollain
+  label: Meme la pluie bollain
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inherent-vice-anderson
+  label: Inherent vice anderson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dallas-buyers-club-vallee
+  label: Dallas buyers club vallee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rome-milius-macdonald-heller-hbo
+  label: Rome milius macdonald heller hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/affranchis-scorsese
+  label: Affranchis scorsese
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/avengers-ere-ultron-whedon
+  label: Avengers ere ultron whedon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/arrietty-petit-monde-chapardeurs-yonebayashi
+  label: Arrietty petit monde chapardeurs yonebayashi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/eyes-wide-shut-kubrick
+  label: Eyes wide shut kubrick
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/poursuite-demain-bird
+  label: Poursuite demain bird
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dangereusement-votre-glen
+  label: Dangereusement votre glen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/alice-pays-merveilles-mcleod
+  label: Alice pays merveilles mcleod
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/weeds-kohan-showtime
+  label: Weeds kohan showtime
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kingsman-services-secrets-vaughn
+  label: Kingsman services secrets vaughn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dark-shadows-burton
+  label: Dark shadows burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/evasion-hafstrom
+  label: Evasion hafstrom
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rien-que-pour-vos-yeux-glen
+  label: Rien que pour vos yeux glen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mad-max-fury-road-miller
+  label: Mad max fury road miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/revoltes-ile-diable-holst
+  label: Revoltes ile diable holst
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ouest-express-lyon
+  label: Ouest express lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-autres-amenabar
+  label: Les autres amenabar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/planete-singes-affrontement-reeves
+  label: Planete singes affrontement reeves
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/men-in-black-sonnenfeld
+  label: Men in black sonnenfeld
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mains-en-air-goupil
+  label: Mains en air goupil
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jurassic-park-spielberg
+  label: Jurassic park spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cogan-killing-them-softly-dominik
+  label: Cogan killing them softly dominik
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/steve-jobs-boyle
+  label: Steve jobs boyle
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pirates-caraibes-fontaine-jouvence-marshall
+  label: Pirates caraibes fontaine jouvence marshall
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inception-nolan
+  label: Inception nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2015
+  label: Cinema best of 2015
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/peter-gabriel-bercy-mars-2010
+  label: Peter gabriel bercy mars 2010
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/world-war-z-forster
+  label: World war z forster
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/godzilla-emmerich
+  label: Godzilla emmerich
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/big-fernand-lyon
+  label: Big fernand lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/aigle-neuvieme-legion-macdonald
+  label: Aigle neuvieme legion macdonald
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/daredevil-johnson
+  label: Daredevil johnson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/frangins-lyon
+  label: Frangins lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/captifs-gozlan
+  label: Captifs gozlan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-le-film-wise
+  label: Star trek le film wise
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-2-la-colere-de-khan-meyer
+  label: Star trek 2 la colere de khan meyer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dame-fer-lloyd
+  label: Dame fer lloyd
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-cuisine-lyon
+  label: La cuisine lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/x-men-2-singer
+  label: X men 2 singer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/prairial-lyon
+  label: Prairial lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/marco-polo-fusco-netflix
+  label: Marco polo fusco netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/kitchen-cafe-lyon
+  label: Kitchen cafe lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/making-murderer-ricciardi-demos-netflix
+  label: Making murderer ricciardi demos netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/demain-ne-meurt-jamais-spottiswoode
+  label: Demain ne meurt jamais spottiswoode
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/asterix-domaine-dieux-clichy-astier
+  label: Asterix domaine dieux clichy astier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gerontophilia-labruce
+  label: Gerontophilia labruce
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/narcos-netflix
+  label: Narcos netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/apprenti-sorcier-turteltaub
+  label: Apprenti sorcier turteltaub
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-cannelle-lyon
+  label: La cannelle lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/infernal-affairs-3-lau-mak
+  label: Infernal affairs 3 lau mak
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blancanieves-berger
+  label: Blancanieves berger
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/qui-a-envie-etre-aime-giafferi
+  label: Qui a envie etre aime giafferi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/vincent-dedienne-lyon-2016
+  label: Vincent dedienne lyon 2016
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tilva-ros-lezaic
+  label: Tilva ros lezaic
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sin-city-rodriguez-miller
+  label: Sin city rodriguez miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/survivre-kormakur
+  label: Survivre kormakur
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/speed-bont
+  label: Speed bont
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/batman-defi-burton
+  label: Batman defi burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mad-max-dome-tonnerre-miller-ogilvie
+  label: Mad max dome tonnerre miller ogilvie
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/somewhere-coppola
+  label: Somewhere coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oncle-boonmee-weerasethakul
+  label: Oncle boonmee weerasethakul
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blade-runner-scott
+  label: Blade runner scott
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hacker-mann
+  label: Hacker mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moulin-rouge-luhrmann
+  label: Moulin rouge luhrmann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/groupe-elite-rodriguez
+  label: Groupe elite rodriguez
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mr-robot-esmail-usa-network
+  label: Mr robot esmail usa network
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/citizen-kane-welles
+  label: Citizen kane welles
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-dents-de-la-mer-spielberg
+  label: Les dents de la mer spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/diplomatie-schlondorff
+  label: Diplomatie schlondorff
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dernier-mohicans-mann
+  label: Dernier mohicans mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/house-of-cards-willimon-netflix
+  label: House of cards willimon netflix
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cloverfield-reeves
+  label: Cloverfield reeves
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/hunger-games-revolte-partie-1-lawrence
+  label: Hunger games revolte partie 1 lawrence
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/king-marcel-lyon
+  label: King marcel lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-vie-adele-chapitres-1-2-kechiche
+  label: La vie adele chapitres 1 2 kechiche
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cuisine-madame-chatelet-lyon
+  label: Cuisine madame chatelet lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shaun-mouton-burton-starzak
+  label: Shaun mouton burton starzak
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/saga-indiana-jones-spielberg
+  label: Saga indiana jones spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/amazing-spider-man-destin-heros-webb
+  label: Amazing spider man destin heros webb
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/twin-peaks-fire-walk-with-me-lynch
+  label: Twin peaks fire walk with me lynch
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cheuvauchee-fantastique-ford
+  label: Cheuvauchee fantastique ford
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trois-souvenirs-jeunesse-desplechin
+  label: Trois souvenirs jeunesse desplechin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/drive-winding-refn
+  label: Drive winding refn
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sugar-man-bendjelloul
+  label: Sugar man bendjelloul
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/fringe-abrams-kurtzman-orci-fox
+  label: Fringe abrams kurtzman orci fox
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/donnie-darko-kelly
+  label: Donnie darko kelly
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ai-intelligence-artificielle-spielberg
+  label: Ai intelligence artificielle spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dur-etre-aime-cons-leconte
+  label: Dur etre aime cons leconte
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-episode-5-empire-contre-attaque-kershner
+  label: Star wars episode 5 empire contre attaque kershner
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/comme-des-images-beauvais
+  label: Comme des images beauvais
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tomboy-sciamma
+  label: Tomboy sciamma
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moi-moche-et-mechant-2-renaud-coffin
+  label: Moi moche et mechant 2 renaud coffin
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/san-andreas-peyton
+  label: San andreas peyton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jai-tue-ma-mere-dolan
+  label: Jai tue ma mere dolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pourquoi-jai-pas-mange-mon-pere-debbouze
+  label: Pourquoi jai pas mange mon pere debbouze
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/infernal-affairs-2-lau-mak
+  label: Infernal affairs 2 lau mak
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/treme-simon-overmyer-hbo
+  label: Treme simon overmyer hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/collateral-mann
+  label: Collateral mann
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/red-riding-trilogy-1980-marsh
+  label: Red riding trilogy 1980 marsh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jumanji-johnston
+  label: Jumanji johnston
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-trek-vi-terre-inconnue-meyer
+  label: Star trek vi terre inconnue meyer
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/meurs-un-autre-jour-tamahori
+  label: Meurs un autre jour tamahori
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/merveilleuse-histoire-temps-marsh
+  label: Merveilleuse histoire temps marsh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/big-eyes-burton
+  label: Big eyes burton
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lilo-stitch-deblois-sanders
+  label: Lilo stitch deblois sanders
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pontypool-mcdonald
+  label: Pontypool mcdonald
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/belle-bois-dormant-geronimi
+  label: Belle bois dormant geronimi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scratch-my-back-peter-gabriel
+  label: Scratch my back peter gabriel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/trois-maries-lion
+  label: Trois maries lion
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pixels-colombus
+  label: Pixels colombus
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inside-man-homme-interieur-lee
+  label: Inside man homme interieur lee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/oblivion-kosinski
+  label: Oblivion kosinski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/boyhood-linklater
+  label: Boyhood linklater
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terminator-cameron
+  label: Terminator cameron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/parlez-moi-de-vous-pinaud
+  label: Parlez moi de vous pinaud
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-ghost-writer-polanski
+  label: The ghost writer polanski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/rencontres-du-troisieme-type-spielberg
+  label: Rencontres du troisieme type spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shrek-2-adamson-asbury-vernon
+  label: Shrek 2 adamson asbury vernon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/piste-marsupilami-chabat
+  label: Piste marsupilami chabat
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sos-fantomes-reitman
+  label: Sos fantomes reitman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/much-loved-ayouch
+  label: Much loved ayouch
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/camille-redouble-lvovsky
+  label: Camille redouble lvovsky
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/straight-outta-compton-gray
+  label: Straight outta compton gray
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/comedian-shkolnik
+  label: Comedian shkolnik
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-mort-dans-la-peau-greengrass
+  label: La mort dans la peau greengrass
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/saint-laurent-bonelllo
+  label: Saint laurent bonelllo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-piel-que-habito-almodovar
+  label: La piel que habito almodovar
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cuisine-television
+  label: Cuisine television
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bullhead-roskam
+  label: Bullhead roskam
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scanner-darkly-linklater
+  label: Scanner darkly linklater
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/star-wars-1-menace-fantome-lucas
+  label: Star wars 1 menace fantome lucas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/arrete-moi-si-tu-peux-spielberg
+  label: Arrete moi si tu peux spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mysteres-lisbonne-ruiz
+  label: Mysteres lisbonne ruiz
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/game-of-thrones-weiss-benioff-hbo
+  label: Game of thrones weiss benioff hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/moonraker-gilbert
+  label: Moonraker gilbert
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/deadwood-hbo
+  label: Deadwood hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/je-fais-le-mort-salome
+  label: Je fais le mort salome
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-fils-de-l-homme-cuaron
+  label: Les fils de l homme cuaron
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/table-sommelier-gaillac
+  label: Table sommelier gaillac
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/madame-doubtfire-colombus
+  label: Madame doubtfire colombus
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/discworld-jean
+  label: Discworld jean
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/grand-central-zlotowski
+  label: Grand central zlotowski
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/lost-liebern-abrams-lindelof-abc
+  label: Lost liebern abrams lindelof abc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/zodiac-fincher
+  label: Zodiac fincher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/les-oliviers-lyon
+  label: Les oliviers lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ouzh-taol-rennes
+  label: Ouzh taol rennes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pocahontas-legende-indienne-gabriel-goldberg
+  label: Pocahontas legende indienne gabriel goldberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terminator-renaissance-mcg
+  label: Terminator renaissance mcg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/insidious-chapitre-2-wan
+  label: Insidious chapitre 2 wan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/black-mirror-brooker-channel-4
+  label: Black mirror brooker channel 4
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/brunch-rita-plage-villeurbanne
+  label: Brunch rita plage villeurbanne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-bling-ring-coppola
+  label: The bling ring coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/jesus-contre-hitler-jomunsi
+  label: Jesus contre hitler jomunsi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/friends-kauffman-crane-nbc
+  label: Friends kauffman crane nbc
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/old-boy-park
+  label: Old boy park
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/blanche-neige-singh
+  label: Blanche neige singh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/deux-jours-une-nuit-dardenne
+  label: Deux jours une nuit dardenne
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cheval-guerre-spielberg
+  label: Cheval guerre spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/12-years-a-slave-mcqueen
+  label: 12 years a slave mcqueen
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/expendables-stallone
+  label: Expendables stallone
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wasabi-lyon
+  label: Wasabi lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bistrot-boucher-poitiers
+  label: Bistrot boucher poitiers
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/ernest-et-celestine-renner-patar-aubier
+  label: Ernest et celestine renner patar aubier
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/secret-brokeback-mountain-lee
+  label: Secret brokeback mountain lee
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cosmopolis-cronenberg
+  label: Cosmopolis cronenberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/la-porte-du-paradis-cimino
+  label: La porte du paradis cimino
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/peter-pan-geronimi-jackson-luske
+  label: Peter pan geronimi jackson luske
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/adieux-reine-jacquot
+  label: Adieux reine jacquot
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/town-affleck
+  label: Town affleck
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2010
+  label: Cinema best of 2010
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contagion-soderbergh
+  label: Contagion soderbergh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/expanse-fergus-ostby-syfy
+  label: Expanse fergus ostby syfy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/pont-espions-spielberg
+  label: Pont espions spielberg
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/minions-coffin-balsa
+  label: Minions coffin balsa
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2011
+  label: Cinema best of 2011
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/divergente-burger
+  label: Divergente burger
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/white-material-denis
+  label: White material denis
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/strictly-criminal-cooper
+  label: Strictly criminal cooper
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/dracula-coppola
+  label: Dracula coppola
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/au-service-secret-de-sa-majeste-hunt
+  label: Au service secret de sa majeste hunt
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/man-of-steel-snyder
+  label: Man of steel snyder
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/soprano-chase-hbo
+  label: Soprano chase hbo
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/cinema-best-of-2012
+  label: Cinema best of 2012
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/the-lady-besson
+  label: The lady besson
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/9-mois-ferme-dupontel
+  label: 9 mois ferme dupontel
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/foxcatcher-miller
+  label: Foxcatcher miller
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/week-end-haigh
+  label: Week end haigh
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/steve-jobs-1955-2011
+  label: Steve jobs 1955 2011
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/imaginaire-brest
+  label: Imaginaire brest
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/inattendu-lyon
+  label: Inattendu lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/brasserie-leon-lyon
+  label: Brasserie leon lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/wayward-pines-hodge-fox
+  label: Wayward pines hodge fox
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terminator-genisys-taylor
+  label: Terminator genisys taylor
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/terminator-3-soulevement-machines-mostow
+  label: Terminator 3 soulevement machines mostow
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/batman-forever-schumacher
+  label: Batman forever schumacher
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/basil-detective-prive-clements-mattinson-michener-musker
+  label: Basil detective prive clements mattinson michener musker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/le-passe-farhadi
+  label: Le passe farhadi
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/petite-sirene-clements-musker
+  label: Petite sirene clements musker
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/following-nolan
+  label: Following nolan
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/nausicaa-vallee-vent-miyazaki
+  label: Nausicaa vallee vent miyazaki
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/101-dalmatiens-geronimi-luske-reitherman
+  label: 101 dalmatiens geronimi luske reitherman
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/mud-sur-les-rives-du-mississippi-nichols
+  label: Mud sur les rives du mississippi nichols
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/france-inter-fin-epoque
+  label: France inter fin epoque
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/scream-4-craven
+  label: Scream 4 craven
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/bright-star-campion
+  label: Bright star campion
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/tomo-lyon
+  label: Tomo lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/passe-temps-lyon
+  label: Passe temps lyon
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/il-etait-une-fois-dans-ouest-leone
+  label: Il etait une fois dans ouest leone
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+instant_preview: true
+build:
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.54.0
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.54.0
+  preview_output_directory: public
+  output_directory: public
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.54.0

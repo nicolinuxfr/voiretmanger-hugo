@@ -1,4 +1,4 @@
-baseurl = "http://futur.voiretmanger.fr/"
+baseurl = "https://voiretmanger.onrender.com"
 languageCode = "fr-fr"
 
 title = "À voir et à manger"
